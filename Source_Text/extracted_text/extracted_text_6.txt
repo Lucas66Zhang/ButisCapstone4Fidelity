@@ -1,0 +1,630 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 96945 / February 16, 2023
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21304
+
+ORDER INSTITUTING ADMINISTRATIVE
+
+In the Matter of AND CEASE-AND-DESIST PROCEEDINGS
+PURSUANT TO SECTIONS 19(h) AND 21C
+THE OPTIONS OF THE SECURITIES EXCHANGE ACT OF
+CLEARING CORPORATION 1934, MAKING FINDINGS, AND IMPOSING
+REMEDIAL SANCTIONS AND A CEASE-
+Respondent. AND-DESIST ORDER
+
+L
+
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Sections 19(h) and 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against The Options Clearing Corporation (“OCC” or “Respondent”.
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Administrative and Cease-and-Desist Proceedings Pursuant to Sections 19(h) and 21C of the
+Securities Exchange Act of 1934, Making Findings, and Imposing Remedial Sanctions and a
+Cease-and-Desist Order (“Order”), as set forth below.
+
+Il.
+
+On the basis of this Order and Respondent’s Offer, the Commission finds! that:
+
+Summary
+
+1. These proceedings arise out of OCC’s failure to implement and comply with its
+Stress Testing and Clearing Fund Methodology rule in violation of Rule 17Ad-22(e)(4)(iii) under
+the Exchange Act and Section 19(g) of the Exchange Act from October 2019 until May 2021.
+OCC’s failure to implement and comply with its own rule was the result of its failure to establish,
+implement, maintain, and enforce written policies and procedures reasonably designed to manage
+its operational risks by identifying the plausible sources of operational risk and mitigating their
+impact through the use of appropriate systems, policies, procedures, and controls in violation of
+Rule 17Ad-22(e)(17)(i) under the Exchange Act. As a result of these failures, OCC’s Clearing
+Fund was underfunded nearly $600 million during certain times in the period October 2019 through
+May 2021. OCC’s failure to implement the rule involved OCC’s Comprehensive Stress Testing
+(“CST”) System, one of OCC’s critical SCI systems, which it had failed to modify as required by
+its rule. OCC failed to provide timely notification to the Commission of this event, as required
+under Regulation SCI. OCC also failed to comply with its margin methodology, margin policy,
+and stress testing and clearing fund methodology relating to specific wrong way risk and holiday
+margin in violation of Section 19(g) of the Exchange Act.
+
+2. OCC serves as the sole registered clearing agency for exchange listed option
+contracts in the United States and has been designated as a systemically important financial market
+utility (“SIFMU”) under Title VIII of the Dodd-Frank Wall Street Reform and Consumer
+Protection Act of 2010 (““Dodd-Frank Act’). Disruption to OCC’s operations, or failure by OCC to
+manage risk, could result in significant costs not only to OCC itself and its members, but also to
+other market participants or the broader U.S. financial system.
+
+3 As a registered clearing agency, OCC is a self-regulatory organization under the
+Exchange Act. Self-regulatory organizations are charged with an important public trust to carry
+out their self-regulatory responsibilities effectively and fairly, while fostering free and open
+markets, protecting investors, and promoting the public trust. OCC, as a self-regulatory
+organization, is required to comply with its own rules after they are approved by the Commission.
+
+4. The U.S. Congress and the Commission have established a legal framework to
+facilitate the prompt and accurate clearance and settlement of securities transactions, having due
+regard for, among other things, the public interest, the protection of investors, and the safeguarding
+of securities and funds.
+
+| The findings herein are made pursuant to Respondent's Offer of Settlement and are not
+
+binding on any other person or entity in this or any other proceeding.
+
+2.
+
+5. In October 2016, the Commission adopted Rule 17Ad-22(e) under the Exchange
+Act, which established enhanced standards for registered clearing agencies that meet the definition
+of a “covered clearing agency.” OCC is a covered clearing agency for purposes of Rule 17Ad-
+22(e). The Commission adopted Rule 17Ad-22(e) to “impos[e] consistent, higher minimum risk
+management standards across all covered clearing agencies” and “further mitigate the potential for
+moral hazard associated with risk management at a covered clearing agency.””
+
+6. In November 2014, the Commission adopted Regulation Systems, Compliance, and
+Integrity under the Exchange Act (“Regulation SCY’) to “strengthen the technology infrastructure
+of U.S. securities markets” and “reduce the occurrence of systems issues, improve resiliency
+when systems problems do occur, and enhance the Commission’s oversight and enforcement of
+securities market technology infrastructure.”? Regulation SCI requires SCI entities to take
+corrective action with respect to SCI events, defined to include systems disruptions, systems
+compliance issues, and systems intrusions, notify the Commission of such events, and disseminate
+information about certain SCI events to affected members or participants.’
+
+‘Tk Rule 17Ad-22(e)(4)(iii) under the Exchange Act requires OCC to establish,
+implement, maintain, and enforce written policies and procedures reasonably designed to
+effectively identify, measure, monitor, and manage its credit exposures to participants and those
+arising from its payment, clearing, and settlement processes, including by maintaining additional
+financial resources at the minimum to enable it to cover a wide range of foreseeable stress
+scenarios that include, but are not limited to, the default of the participant family that would
+potentially cause the largest aggregate credit exposure for the covered clearing agency in extreme
+but plausible market conditions.
+
+8. Rule 17Ad-22(e)(17)(i) under the Exchange Act requires OCC to establish,
+implement, maintain, and enforce written policies and procedures reasonably designed to manage
+the covered clearing agency’s operational risks by, among other things, identifying the plausible
+sources of operational risk, both internal and external, and mitigating their impact through the use
+of appropriate systems, policies, procedures, and controls. In adopting Rule 17Ad-22(e)(17), the
+Commission stated that the rule concerns operational risks that stem from deficiencies in internal
+controls, human errors, and management failures.
+
+9. As a result of its conduct, OCC violated Section 17A(d)(1) of the Exchange Act*
+
+2 81 Fed. Reg. 70786, 70850.
+
+3 81 Fed. Reg. 70786, 70789.
+s 17 CFR 242.1002.
+5 Section 17A(d)(1) of the Exchange Act prohibits registered clearing agencies from
+
+engaging in any activity as a clearing agency in contravention of such rules and regulations
+
+3
+
+and Rules 17Ad-22(e)(4)(i1i) and 17Ad-22(e)(17)(i) thereunder; Rules 1002(b)(1) and 1002(b)(2)
+of Regulation SCI under the Exchange Act; and Section 19(g) of the Exchange Act.
+
+Respondent
+
+10. OCC is a Delaware corporation with its principal place of business in Chicago,
+Illinois. OCC is the sole clearing agency for standardized U.S. securities options listed on
+Commission-registered national securities exchanges. The Commission granted full registration as
+a clearing agency to OCC pursuant to the Exchange Act on September 23, 1983.° As a registered
+clearing agency, OCC is a self-regulatory organization under the Exchange Act.
+
+11. On July 18, 2012, the Financial Stability Oversight Council approved the
+designation of OCC as a SIFMU pursuant to Section 804 of the Dodd-Frank Act. A financial
+market utility is deemed to be systemically important if “the failure of or a disruption to the
+functioning of such [financial market utility] could create or increase the risk of significant
+liquidity or credit problems spreading among financial institutions or markets and thereby threaten
+the stability” of the U.S. financial system.’ For purposes of the Dodd-Frank Act, the Commission
+is OCC’s Supervisory Agency. As such, the Commission is required by Section 807(a) of the
+Dodd-Frank Act to examine OCC at least once annually. In addition, because it is a SIFMU and a
+registered clearing agency that provides the services of a central counterparty, OCC is a “covered
+clearing agency” subject to the Commission’s enhanced clearing agency standards set forth in
+Exchange Act Rule 17Ad-22(e).
+
+12. On September 4, 2019, the Commission instituted settled Administrative and
+Cease-and-Desist proceedings and censured OCC based on its failures to establish and enforce
+policies and procedures involving financial risk management, operational requirements, and
+information-systems security. The Order found that OCC failed to come into compliance with the
+statutes and rules relating to these policies and procedures despite the Commission staffs advance
+warnings and ample time to comply. OCC, without admitting or denying the Commission’s
+findings, agreed to pay a $15 million penalty. The Commission’s Order found that OCC violated
+Section 17A(d)(1) of the Exchange Act and Rules 17Ad-22(b)(2), 17Ad-22(d)(1), 17Ad-22(e)(1),
+17Ad-22(e)(3)(i), 17Ad-22(e)(4)(ii1) and (vi), 17Ad-22(e)(6)(i), and 17Ad-22(e)(7)(i) and (vi)
+thereunder; Rules 1001(a)(1) and (2) of Regulation SCI under the Exchange Act; and Section
+19(b) of the Exchange Act and Rule 19b-4 thereunder. OCC also was required to, and did hire an
+
+as the Commission may prescribe as necessary or appropriate in the public interest, for the
+protection of investors, or otherwise in furtherance of the purposes of the Exchange Act.
+
+Unless exempted, a clearing agency must register with the Commission pursuant to
+Exchange Act Section 17A. 15 U.S.C. 78q-1(b)(1). Such registration requires
+Commission determinations regarding the clearing agency and its rules. 15 U.S.C. 78q-
+
+1(b)(3).
+7 12 U.S.C. 5462(9).
+
+independent compliance auditor to assess its remediation of the violations and subsequent
+compliance efforts. In the Matter of Options Clearing Corporation, Exchange Act Release No.
+86871 (Sept. 4, 2019).
+
+Facts
+
+The Commission Approved OCC’s Proposed Rule Change to its Margin Methodology, Margin
+Policy and Stress Testing and Clearing Fund Methodology
+
+13. In February 2017, OCC began working on a Liquidation Cost Model Enhancements
+€LCME”’) project, which it commissioned to address deficiencies in its margin methodology that
+had been previously identified by the Commission staff in regulatory examinations. Among other
+things, the project provided for the development of a model to properly account for the Liquidation
+Cost Charge (“LC Charge”) as an addition to OCC’s base margin requirements.
+
+14. The LC Charge is an estimate of the cost to be incurred by OCC in the event it is
+required to close out a Clearing Member’s portfolio in the event of a default by the Clearing
+Member. In calculating OCC’s margin requirements, the LC Charge was to be added to its base
+margin calculation to address the potential costs associated with closing out a defaulted Clearing
+Member’s portfolio. OCC also proposed to change its stress testing and Clearing Fund
+methodology to reflect the inclusion of the LC Charge as an add-on to OCC’s base margin
+requirements and how the liquidation cost charge add-on would be incorporated in Clearing Fund
+shortfall calculations.
+
+15. OCC described the proposed changes to OCC’s Margin Methodology, Margin
+Policy, and Stress Testing and Clearing Fund Methodology Description to add a risk-based
+liquidation charge to adjust the value of positions to account for the costs of liquidating a
+defaulting Clearing Member’s portfolio in a proposed rule change that OCC filed with the
+Commission in April 2019 (the proposed LCME rule).? The proposed rule change stated that a
+charge for liquidation costs using the same values as calculated for margins was to be included in
+Clearing Fund shortfall calculations to ensure that the liquidation cost charge was part of its
+required total credit financial resources.
+
+§ OCC’s base margin requirements are intended to cover potential losses due to price
+movements, as opposed to the additional liquidation costs OCC may incur in closing out
+a defaulted Clearing Member’s portfolio.
+
+? See Exchange Act Release 85755 (Apr. 30, 2019), 84 Fed. Reg. 19815 (May 6, 2019)
+(File No. SR-OCC-2019-004).
+
+16. On June 17, 2019, the Commission approved OCC’s proposed LCME rule pursuant
+to Section 19(b) of the Exchange Act and Rule 19b-4 thereunder.'° Consistent with the proposed
+tule change, OCC did not implement the LCME rule immediately upon approval.
+
+17. In accepting OCC’s offer of settlement and determining the sanctions to be imposed
+as part of the 2019 enforcement action against OCC, the Commission considered OCC’s remedial
+efforts, which included, among other things, the rule change described above.
+
+OCC Failed To Establish and Implement Policies and Procedures Reasonably Designed
+To Manage Its Operational Risks And Failed to Implement and Comply With Its LCME Rule
+With Regard To Its Stress Testing and Clearing Fund Methodology
+
+18. In October 2019, OCC incorporated the LC Charge into its margin methodology.
+However, OCC failed to implement its LCME rule with regard to its stress testing and Clearing
+Fund methodology. Due to deficiencies in certain internal controls, human errors, and
+management failures, discussed below, OCC did not incorporate the LC Charge into its Clearing
+Fund systems until June 2021. OCC’s failure to implement and comply with its own rule was due
+to its failure to establish and implement policies and procedures reasonably designed to manage its
+operational risk stemming from such deficiencies, errors, and failures.
+
+19. Beginning in or about 2018, in addition to working on the LCME project, and also
+in response to deficiencies identified by Commission staff, OCC was in the process of developing
+new Clearing Fund systems policies, procedures and controls and developing software to
+incorporate these changes into its CST System (the “CST project”). The CST project was in
+process at the same time as the LCME project.
+
+20. The LCME project was primarily margin focused and the CST project was
+primarily Clearing Fund focused, and the two projects were managed by different OCC teams.
+
+21. Despite the fact that the LC Charge was required to be incorporated into both the
+margin and Clearing Fund methodologies, the teams operated in silos, and there was limited
+interaction between the LCME and CST project teams. Although both the CST and margin
+methodologies referenced the LC Charge, neither the CST nor the LCME project teams included
+incorporating the LC Charge into the CST System in the scope of its work. The CST project team
+believed the incorporation of the LC Charge into the CST System was outside the scope of its work
+and would be addressed by the LCME project team. As discussed below, there were several times
+in 2018 when the need to implement the Clearing Fund-related requirement for the LC Charge
+functionality was raised within the LCME project team and not addressed. The LCME project
+team did not coordinate with the CST team to ensure that the LC Charge was incorporated into
+both the margin and Clearing Fund methodologies.
+
+10 See In the Matter of Options Clearing Corporation, Exchange Act Release No. 86871
+(Sept. 4, 2019) (paragraph 61(c)(vi)).
+
+22. In February 2017, at the inception of the LCME project, OCC used a “Waterfall”
+project management methodology that included a number of project documents, such as a Business
+Requirements document, a Quality Assurance System Test Strategy, and a Project Development
+Checklist, to guide the project team through the project’s development, testing and
+implementation.
+
+23. The Business Requirements Document stated: “The LC add-on charge will be
+excluded from Clearing Fund calculations in the same way other add-on charges are excluded.” It
+also stated: “The new Liquidity charge will not be implemented [sic] comprehensive stress
+testing.” OCC also created a Quality Assurance System Test Strategy that included similar
+language, including a requirement for the Quality Assurance (“QA”) to “Verify the LC add-on
+charge will be excluded from Clearing Fund calculations in the same way other add-on charges are
+excluded.” Similarly, the Project Development Checklist stated that “The LC add-on charge will
+be excluded from Clearing Fund calculations in the same way other add-on charges are excluded.”
+
+24. In approximately April, 2018, OCC changed from the “Waterfall” project
+management system methodology to the “Agile” methodology. As part of the Agile methodology,
+OCC began using electronic tickets to track specific tasks that needed to be completed in
+connection with the implementation of a project, including the requirement that the LC Charge be
+incorporated into the CST System. The LCME project was not migrated to the Agile system but
+was instead treated as a hybrid project that relied on the initial waterfall documents and subsequent
+tickets created as part of an Agile methodology for LCME project deliverables. However, the
+Project Development Checklist was not updated to include a requirement that the LCME project
+team review the open tickets created in the Agile system prior to project sign-off, and open tickets
+relating to the requirement that the LC Charge be incorporated into the CST System were not
+reviewed before the LCME project was closed out.
+
+25. From June through August 2018, various OCC staff flagged the impact of the LC
+Charge on the Clearing Fund for the LCME project staff several times. In August 2018, the
+LCME project team deferred any work on that task, referencing the impending changes regarding
+the CST System. A QA team member noted the need for the functionality in a ticket in the Agile
+system as well.
+
+26. Later in August 2018, IT flagged the issue of the treatment of the LC Charge in the
+Clearing Fund calculation for the LCME project team, who, in an August 2018 meeting, discussed
+that the requirement needed to be completed in the future and that the work should be performed
+after the CST System went into production. After this meeting, IT created a ticket in the Agile
+system documenting the need for completion of this work as part of the CST System, and other
+tickets were added documenting the need for implementation and testing of the functionality with
+regard to the CST System.
+
+21. OCC Quantitative Risk Management (“QRM7”) personnel discussed the LC Charge
+as it related to the Clearing Fund methodology at a meeting with Commission staff on October 24,
+
+2018, and on November 13, 2018, Commission staff asked OCC to address the treatment of the LC
+Charge in the Clearing Fund calculation in its proposed LCME tule filing.
+
+28. On or about October 30, 2018, OCC’s Financial Risk Management Group (“FRM”)
+assigned the tickets created in the Agile system, which documented the need to complete the work
+to incorporate the LC Charge into the CST System, a lower priority because OCC had other IT
+projects with near-term deadlines and the LCME project did not have a definitive implementation
+date because OCC was still working on its proposed rule filing relating to the project.
+
+29. When the LC Charge Add-On software code was moved into production in October
+2019 with regard to OCC’s margin methodology, the LCME project team did not re-prioritize the
+incorporation of the LC Charge into the CST System as something to be implemented by the
+LCME project team or to be reassigned to the CST team. Instead, tickets relating to the need to
+incorporate the LC Charge into the CST System were categorized as “Business As Usual” items
+involving issues that were not material to the LCME project team. The Waterfall documents did
+not require the LCME project team to review open tickets created in the Agile system, and the
+LCME project team did not review the relevant open tickets before moving them into this category
+and closing out the LCME project.
+
+30. As a result of the above, OCC’s functional testing of the LCME methodology did
+not include testing of the CST System prior to or after it was put into production even though the
+CST System had already been implemented at the time that the LCME project code went into
+production in October 2019.
+
+31. In addition, OCC’s Model Validation Group (“MVG”) team did not detect that the
+LC Charge had not been incorporated into OCC’s Clearing Fund methodology through the CST
+System when it validated the LCME model. Pursuant to OCC’s then existing Model Validation
+Procedure, MVG validated the LCME and CST models independently during its annual model
+validation process. OCC’s policies and procedures did not require MVG to look at business logic
+or accounting functionality as part of its validation process or to look across models. As a result,
+MVG did not review whether the LC Charge was incorporated into the Clearing Fund
+methodology or CST System during its initial or annual validation of the LCME and CST models.
+
+32. Further, OCC’s Internal Audit Department (“IAD”) did not detect that the LC
+Charge had not been incorporated into the Clearing Fund methodology through the CST System
+during its 2020 audits. LAD did not include testing the Clearing Fund LC Charge within the scope
+of the 2020 audits. As part of its audits, IAD obtained MVG’s technical evaluations and engaged
+subject matter experts to determine if MVG’s work was reasonably designed and effectively
+executed. In performing the audits, LAD relied on MVG’s technical work, which did not look at
+business logic, accounting functionality or across models. Since MVG did not look across models
+and IAD did not reexamine MVG’s technical work, the error continued to go undetected.
+
+33. In 2020 and related to model testing, [AD performed validation of two regulatory
+findings relating to the LC Charge issue and one audit. IAD concluded that the margin model was
+
+8
+
+reasonably designed and that MVG’s testing of the operational effectiveness of the model was
+reasonably designed. IAD also completed a Clearing Fund Audit in November 2020, in which it
+tested controls related to the Clearing Fund Resizing and Replenishment process and reviewed the
+model that supported Clearing Fund sizing. The scope of the Audit included auditing MVG’s
+operational effectiveness testing. [AD concluded that the model design was reasonably effective
+and MVG’s operational effectiveness testing was effective.
+
+34. From October 2019, until May 17, 2021, OCC failed to properly account for the LC
+Charge in its Clearing Fund shortfall calculation.
+
+35. As a result of these failures, OCC’s Clearing Fund was underfunded by nearly $600
+million at certain times during the period October 2019 through May 2021. At its height in early
+May 2021, OCC’s Clearing Fund was $588 million smaller than was required under OCC’s rules.!!
+
+OCC Failed to Properly Notify Commission Staff of its Clearing Fund Shortfall
+Under Regulation SCI
+
+36. OCC first realized that the LC Charge was not included in the shortfall calculation
+for its Clearing Fund in OCC’s CST System on April 21, 2021. On April 21, 2021, in reviewing
+OCC’s April 15 responses to the Commission staff’s requests for information regarding a separate
+matter, a member of OCC’s Stress Testing and Liquidity Risk Management Group in FRM
+observed that OCC’s Comprehensive Stress Testing and Clearing Fund Methodology Description
+and Liquidity Risk Management Description stated that “a charge for LC using the same values as
+calculated for margins is included in shortfall calculations to ensure that LC is part of the required
+total credit financial resources.” He noted that OCC had not incorporated the LC Charge into its
+calculation for the Clearing Fund.
+
+37. Later that day, that OCC employee notified the executive director in OCC’s Stress
+Testing and Liquidity Risk Management Group, who served as a responsible SCI personnel
+delegate. They scheduled a meeting to discuss the issue the next day with employees of FRM,
+Credit Risk Management (“CRM”) and QRM, as well as a member of OCC Legal. The FRM and
+CRM teams continued to analyze and quantify the issue throughout the next week. After that
+work, the FRM team discussed this issue at two April 28 meetings. Later in the day on April 28,
+OCC’s CEO and COO were briefed on the issue. On April 30, OCC’s Chief Financial Risk Officer
+(“CFRO”) briefed the Chairman of the Board and Chairs of the Regulatory Committee and Risk
+
+i OCC’s failure to implement and comply with its LCME Rule, resulting in the Clearing
+Fund being underfunded by nearly $600 million at certain times during the relevant
+period, violated Rule 17Ad-22(e)(4)(iii) under the Exchange Act. However, as of the
+time that OCC discovered that the LC Charge was not included in the shortfall
+calculation for its Clearing Fund, OCC’s Clearing Fund had maintained financial
+resources sufficient to meet its obligations in the event of a default by the single member
+or participant family creating the largest financial exposure in extreme but plausible
+
+market conditions.
+9
+
+Committee of OCC’s Board. On Monday, May 3, the CFRO updated OCC’s Management
+Committee.
+
+38. OCC did not contact Commission staff to schedule a meeting to discuss the issue
+until May 4, 2021.
+
+39. On May 5, 2021, OCC informed the Commission’s staff that for more than 18
+months, OCC had failed to incorporate the cost of liquidating a Clearing Member’s portfolio when
+calculating the size of its Clearing Fund.
+
+40. On May 16, 2021, OCC told the Commission’s staff that it was going to use its
+authority to immediately resize its Clearing Fund by requiring additional financial resources from
+its Clearing Members the next day. On May 17, 2021, OCC increased the size of its Clearing Fund
+from $11.23 billion to $11.82 billion, an increase of $588 million or 5.24%, in order comply with
+its LCME rule as approved by the Commission.
+
+41. While OCC orally briefed certain members of the Commission’s staff about the
+issue in May 2021, OCC did not submit an SCI event notification to the Commission until it
+submitted its quarterly de minimis SCI events list on July 30, 2021. OCC’s failure to incorporate
+the LC Charge into the CST system resulting in the underfunding of the Clearing Fund as
+described above was not a de minimis SCI event.
+
+OCC Failed to Comply With Its Margin Methodology, Margin Policy and Stress Testing and
+Clearing Fund Methodology Relating To Specific Wrong Way Risk and Holiday Margin
+
+42. The 2019 OIP found that OCC violated Rule 17Ad-22(e)(6)(i) because, among
+other things, OCC’s margin model failed to consider specific wrong way risk associated with
+cleared securities which are related to Clearing Members.!* 2019 OIP at 5-6.
+
+43. On December 11, 2019, OCC received Commission approval to revise its Margin
+Methodology and Clearing Fund and Stress Testing Methodology, in part to add a new specific
+wrong way risk (“SWWR’”) add-on charge for margin. The approved rule also required OCC to
+exclude the SWWR add-on charge from its stress testing scenarios.
+
+44. Also on December 11, 2019, OCC received approval to introduce “idiosyncratic
+scenarios” to its suite of Clearing Fund sizing scenarios to be stress tested.
+
+45. OCC maintains five Clearing Fund sizing stress test scenarios. OCC failed to
+exclude the SWWR add-on charge in one of these scenarios, the “idiosyncratic scenario,” as
+required by its rules.
+
+R “Specific wrong-way risk arises at a [central counterparty] when an exposure to a participant
+is highly likely to increase when the creditworthiness of that participant is deteriorating.” 81
+Fed. Reg. 70786, 70789 n.317.
+10
+
+46. OCC discovered that the SWWR add-on charge had not been excluded from the
+“idiosyncratic scenario” in late April 2021 in the course of assessing the impact of the LC Charge
+issue on the size of the Clearing Fund. It subsequently remediated the issue.
+
+47. OCC’s rules require OCC to calculate and collect additional margin in advance of
+holidays, such as those U.S. holidays during which OCC and its settlement banks are closed but
+some futures exchanges are open (“OCC Closed Holiday”). The calculation of holiday margin is
+based on the greater of SPAN risk (on a gross basis) and STANS risk (on a net basis). From at
+least 2016 through May 2021, the process for calculating margin requirements for OCC Closed
+Holidays was not automated. Instead, the calculation was performed using a Visual Basic script,
+which did not specify whether margin requirements were based on STANS or SPAN risk.
+
+48. In late May 2021, OCC discovered that margin for OCC Closed Holiday had been
+calculated based on 10% of the SPAN risk rather than the STANS risk since 2016 due to an error
+in the original Visual Basic script. Upon identification, the issue was remediated, and OCC
+ceased using this software.
+
+49. OCC reported both of these issues to Commission staff on July 1, 2021.
+Violations
+
+50. As a result of the conduct described above, OCC violated Exchange Act Rule
+17Ad-22(e)(17)(i), which requires that OCC establish, implement, maintain, and enforce written
+policies and procedures reasonably designed to manage the covered clearing agency’s operational
+risks by identifying the plausible sources of operational risk, both internal and external, and
+mitigating their impact through the use of appropriate systems, policies, procedures, and controls.
+
+51. As a result of the conduct described above, OCC violated Exchange Act Rule
+17Ad-22(e)(4)(iii), which requires that OCC establish, implement, maintain, and enforce written
+policies and procedures reasonably designed to effectively identify, measure, monitor, and manage
+its credit exposures to participants and those arising from its payment, clearing, and settlement
+processes, including by maintaining additional financial resources at the minimum to enable it to
+cover a wide range of foreseeable stress scenarios that include, but are not limited to, the default of
+the participant family that would potentially cause the largest aggregate credit exposure for the
+covered clearing agency in extreme but plausible market conditions.
+
+52, As a result of the conduct described above, OCC violated Section 17A(d)(1) of
+the Exchange Act, which prohibits OCC from engaging in any activity in contravention of such
+tules and regulations as the Commission may prescribe as necessary or appropriate, in the public
+interest, for the protection of investors, or otherwise in furtherance of the purposes of the
+Exchange Act.
+
+53. As a result of the conduct described above, OCC violated Rule 1002(b)(1) of
+Regulation SCI, which requires that OCC, upon having a reasonable basis to conclude that an SCI
+
+11
+
+event has occurred, notify the Commission of such SCI event immediately.
+
+54. As a result of the conduct described above, OCC violated Rule 1002(b)(2) of
+Regulation SCI, which requires that OCC, within 24 hours of any responsible SCI personnel
+having a reasonable basis to conclude that the SCI event has occurred, submit a written notification
+pertaining to such SCI event to the Commission.
+
+55. As a result of the conduct described above, OCC violated Section 19(g) of the
+Exchange Act, which requires a self-regulatory organization, including its members and persons
+associated with its members, to comply with its own rules.
+
+Cooperation and Remediation
+
+56. In determining to accept OCC’s Offer, the Commission has considered remedial
+acts undertaken by OCC and the cooperation afforded to the Commission’s staff.
+
+57s OCC voluntarily conducted and shared with the Commission’s staff the results of
+an internal investigation conducted by a third party. OCC provided documents and information
+regarding the key issues and events that significantly advanced the staff's investigation and
+conserved Commission resources. OCC executives voluntarily met with Commission staff to
+discuss OCC’s root cause analysis regarding its failure to incorporate the LC Charge into its
+Clearing Fund methodologies and its related remediation efforts, and to answer questions from the
+Commission’s staff.
+
+58. In addition, OCC has taken and completed several remedial steps including, but not
+limited to, engaging an outside consultant to review its remediation efforts regarding incorporating
+the LC Charge into its Clearing Fund methodologies and to conduct a review of OCC’s
+overarching risk management framework and governance. OCC has provided regular updates to
+the Commission staff regarding its remedial efforts.
+
+Undertakings
+
+59. Respondent has undertaken to engage in the remedial measures set forth in its
+January 30, 2023 Remediation Plan letter (the “Remediation Plan letter”) to the Commission staff.
+These remedial measures include, but are not limited to, revising its model validation policies and
+procedures; enhancing its approach to risk data governance; and implementing changes to elements
+of its control environment, including processes, procedures, and controls, and conducting
+appropriate training on the changes. To the extent any such remedial measures require a filing
+under Section 19(b) of the Exchange Act or Section 806(e) of the Dodd-Frank Act, no later than 30
+days from the date of this Order, Respondent shall provide Division of Trading and Markets staff
+with a draft of such filing and include it on Tier | of the Filing Priority Chart described below in
+paragraph 61. Respondent will also file, within six (6) months of the date of this Order, a proposed
+tule change to update the Amended and Restated Stock Option and Futures Settlement Agreement
+(“Accord”) between Respondent and the correspondent clearing corporation that is intended to
+
+12
+
+reduce settlement risk in the event of a common clearing member default. Respondent also will
+file, as part of the Accord filing, a proposed rule change intended to enhance Respondent’s existing
+policies and procedures to account for the liquidity needs associated with the payment required to
+effect the transfer of the guaranty as contemplated by the Accord, using historical data provided by
+the correspondent clearing corporation to Respondent, and to include the results of this process in
+Respondent’s existing liquidity stress testing practices. This filing shall be made in consultation
+with and in a manner not unacceptable to staff of the Division of Trading and Markets and
+consistent with the prioritized, three-tiered list of planned filings in Paragraph 61. All remaining
+remedial measures set forth in the Remediation Plan letter shall be completed no later than
+eighteen (18) months from the date of this Order.
+
+60. Respondent shall provide the staff with written monthly updates regarding the
+remedial measures discussed in paragraph 59 and shall respond to any reasonable requests by staff,
+including promptly responding to staff questions and requests for relevant documents and
+meetings.
+
+61. OCC has established a prioritized, three-tiered list of planned filings under Section
+19(b) of the Exchange Act and Section 806(e) of the Dodd-Frank Act, which is titled OCC
+Prioritization of Advance Notice and Proposed Rule Change Filings (‘Filing Priority Chart”). For
+thirty-six (36) months from the date of this Order, OCC shall use its best efforts to submit to the
+Commission filings included in Tiers | through 3 of the Filing Priority Chart prior to any other
+filings. Further, OCC will prioritize the filings included in Tiers | through 3 of the Filing Priority
+Chart in the order set forth in the Filing Priority Chart, which order shall be established and
+updated in consultation with and in a manner not unacceptable to staff of the Division of Trading
+and Markets. Nothing in this paragraph alters OCC’s legal obligations, including OCC’s ongoing
+obligation to respond to examination findings of the staff of the Commission.
+
+62. Respondent’s Chief Executive Officer shall certify, in writing compliance with the
+undertakings set forth above. The certification shall identify the undertaking(s), provide written
+evidence of compliance in the form of a narrative, and be supported by exhibits sufficient to
+demonstrate compliance. The Commission staff may make reasonable requests for further
+evidence of compliance, and Respondent agrees to provide such evidence. The certification and
+supporting material shall be submitted to Charles J. Kerstetter, with a copy to the Office of Chief
+Counsel of the Enforcement Division, no later than thirty (30) days from the date of OCC’s
+completion of all remedial measures identified in the Undertakings described in paragraphs 59
+through 61 above.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate, in the public interest, and
+for the protection of investors to impose the sanctions agreed to in OCC’s Offer.
+
+Accordingly, pursuant to Sections 19(h) and 21C of the Exchange Act, it is hereby
+ORDERED that:
+
+13
+
+A. Respondent OCC cease and desist from committing or causing any violations
+and any future violations of Section 17A(d)(1) of the Exchange Act and Rules 17Ad-22(e)(17)(i)
+and 17Ad-22(e)(4)(ii1) thereunder; Rules 1002(b)(1) and (2) of Regulation SCI under the
+Exchange Act; and Section 19(g) of the Exchange Act.
+
+B. Respondent OCC is censured.
+
+C. Respondent OCC shall, within 30 days of this Order pay a civil money penalty in
+the amount of $17,000,000 to the Securities and Exchange Commission for transfer to the general
+fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment
+is not made as specified above, additional interest shall accrue pursuant to 31 U.S.C. 3717.
+
+Payment must be made in one of the following ways:
+
+() Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bidg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying The Options
+Clearing Corporation as a Respondent in these proceedings, and the file number of these
+proceedings; a copy of the cover letter and check or money order must be sent to Kathryn A.
+Pyszka, Associate Regional Director, Chicago Regional Office, Securities and Exchange
+Commission, 175 W. Jackson Boulevard, Suite 1450, Chicago, IL 60604.
+
+14
+
+Dz. Respondent shall comply with the undertakings enumerated in paragrahs 59-62 in
+Section III above.
+
+By the Commission.
+
+Vanessa A. Countryman
+Secretary
+
+15

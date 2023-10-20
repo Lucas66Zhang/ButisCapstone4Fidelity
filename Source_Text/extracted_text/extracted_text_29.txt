@@ -1,0 +1,444 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+INVESTMENT ADVISERS ACT OF 1940
+Release No. 6270 / April 3, 2023
+
+INVESTMENT COMPANY ACT OF 1940
+Release No. 34875 / April 3, 2023
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21355
+
+ORDER INSTITUTING ADMINISTRATIVE
+In the Matter of AND CEASE-AND-DESIST PROCEEDINGS,
+PURSUANT TO SECTIONS 203(e), 203(f),
+CHATHAM ASSET AND 203(k) OF THE INVESTMENT
+MANAGEMENT, LLC, AND ADVISERS ACT OF 1940, AND SECTIONS
+ANTHONY MELCHIORRE 9(b) AND 9(f) OF THE INVESTMENT
+COMPANY ACT OF 1940, MAKING
+Respondents. FINDINGS, AND IMPOSING REMEDIAL
+SANCTIONS AND A CEASE-AND-DESIST
+ORDER
+L
+
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Sections 203(e), 203(f), and 203(k) of the Investment Advisers Act of 1940
+(“Advisers Act’), and Sections 9(b) and 9(f) of the Investment Company Act of 1940 (“Investment
+Company Act”) against Chatham Asset Management, LLC (“Chatham”) and Anthony Melchiorre
+(“Melchiorre’”’) (together with Chatham, “Respondents”).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these
+proceedings, which are admitted, and except as provided herein in Section V below as to
+Melchiorre, Respondents consent to the entry of this Order Instituting Administrative and Cease-
+and-Desist Proceedings Pursuant to Sections 203(e), 203(f), and 203(k) of the Investment Advisers
+
+Act of 1940, and Sections 9(b) and 9(f) of the Investment Company Act of 1940, Making Findings,
+and Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as set forth below.
+
+Il.
+
+On the basis of this Order and Respondents’ Offers, the Commission finds! that:
+
+Summary
+
+1. This matter arises from Chatham’s and Melchiorre’s trading, on behalf of their fund
+clients, in three high-yield debt securities issued by American Media Inc. (“AMI”), a wholly-owned
+subsidiary of AMI Parent Holdings, LLC (“AMI Parent’). At times, from 2016 through 2018,
+Chatham and Melchiorre engaged in transactions in these AMI debt securities (the “AMI Bonds”)
+that resulted in one Chatham fund selling AMI Bonds and a different Chatham fund purchasing the
+same AMI Bonds, through various broker-dealers (the “Rebalancing Trades”). Chatham engaged in
+the Rebalancing Trades to address portfolio constraints such as industry or issuer fund concentration
+limits, to meet investor redemptions, and to allocate capital inflows and outflows. These trades
+were executed at prices Chatham and Melchiorre proposed. Over time, the prices at which Chatham
+and Melchiorre traded the securities in the Rebalancing Trades increased at a significantly higher
+rate than the prices of similar securities. Chatham’s and Melchiorre’s trading in the AMI Bonds
+accounted for the vast majority of the trading in those Bonds and therefore over time had a material
+effect on their pricing.
+
+2. Chatham and Melchiorre calculated the net asset values (“NAVs”) of their client
+funds’ holdings using pricing data that was based, in part, on the trading prices of the securities. As
+a result, during the relevant time period, the NAVs of Chatham’s Clients were higher than they
+would have been if Chatham’s Rebalancing Trades were removed from the market for the AMI
+Bonds, which, in turn, resulted in higher fees being charged to the clients than would have been
+charged if Chatham’s Rebalancing Trades were removed from the market.
+
+3h Many of the Rebalancing Trades involved open-ended mutual funds regulated as
+registered investment companies (““RICs”). In those cases, Chatham and Melchiorre aided and
+abetted and caused RICs to enter into prohibited affiliate transactions in violation of Sections
+17(a)(1) and (2) of the Investment Company Act.
+
+Respondents
+
+4. Chatham Asset Management LLC (“Chatham”) is a Delaware limited liability
+company based in Chatham, New Jersey. It has been registered with the Commission as an
+investment adviser since 2012 (CRD No. 157517; SEC No. 801-73452). From approximately
+January 2016 to December 2018 (the “Relevant Period”), Chatham advised and managed a number
+
+d The findings herein are made pursuant to Respondents’ Offers and are not binding on any other person or
+
+entity in this or any other proceeding.
+
+of hedge funds, including the following: the Chatham Asset High Yield Master Fund, Ltd.; the
+Chatham Asset Private Debt and Strategic Capital Fund, LP; the Chatham Fund, LP; the Chatham
+Everest Fund, L.P.; and the Chatham Eureka Fund, LP (collectively the “Funds’’). The Funds are
+organized as domestic and offshore partnerships. During the Relevant Period, Chatham also
+served as the adviser or sub-adviser to a number of liquid alternative funds? (“LAFs” together with
+the Funds, the “Clients’”’), some of which LAFs were RICs. Per its Form ADV filed in March
+2022, Chatham managed approximately $8.6 billion on a discretionary basis across its Clients.
+
+5. Anthony Melchiorre, age 55, resides in Short Hills, New Jersey. He is the founder
+and principal owner of Chatham. During the Relevant Period, Melchiorre owned approximately
+70 percent of Chatham, and is the managing member of the general partner entity for each of the
+Funds. During the Relevant Period, Melchiorre also served as the primary portfolio manager for
+all of Chatham’s Clients.
+
+Other Relevant Entity
+
+6. AML now known as a360 Media LLC, is a print media publisher that, during the
+Relevant Period, was responsible for numerous long-running publications, including US Weekly
+and The National Enquirer. Chatham acquired 78 percent of AMI Parent’s equity for certain of the
+Funds in 2014. Through the Funds’ ownership of AMI Parent, Chatham and Melchiorre
+effectively controlled AMI and appointed two Chatham employees to AMI’s four-person board.
+
+Background
+
+Te During the Relevant Period, Chatham and Melchiorre were investment advisers to
+all of their Clients. They implemented a similar strategy for each Client—investing in high yield
+bonds, leveraged loans, and credit derivatives.
+
+8. In implementing this strategy, Chatham caused the Clients to take a number of
+concentrated “high conviction” positions in debt securities issued by companies in the print media
+industry, including AMI. A “high conviction” position was a position that Chatham had a high
+degree of confidence would produce satisfactory investment returns over time.
+
+9. Pursuant to the high conviction strategy, during the Relevant Period, Chatham and
+Melchiorre caused their Clients to acquire substantial positions in the AMI Bonds. The percentage
+of the Clients’ portfolios invested in AMI Bonds varied for each Client, but on average the AMI
+Bonds constituted 11 percent of Client portfolios. During the Relevant Period, the Clients
+collectively owned an average of 83 percent of the bonds issued by AMI.
+
+2 Liquid alternative funds are mutual funds that seek to implement hedge fund-like strategies while
+
+maintaining daily liquidity. After the Relevant Period, Chatham wound down its relationship with its Clients who
+were RICs, and has not advised any Clients that are RICs as of December 2020.
+
+10. Through its control of the Funds, Chatham also possessed voting control of AMI
+during the Relevant Period. On average during the Relevant Period, the Funds owned an average
+of 80 percent of the equity in AMI Parent, the sole shareholder of AMI?
+
+11. The AMI Bonds generally were illiquid investments and traded over the counter.
+There were few purchasers of the AMI Bonds other than the Chatham Clients. Indeed, when the
+next largest holder of AMI Bonds attempted to sell them on the open market during the Relevant
+Period, they were unable to find any purchaser aside from Chatham Clients.
+
+12. Melchiorre understood that liquidity was limited for the AMI Bonds.
+
+13. From time to time, notwithstanding Chatham’s favorable view of the investment, it
+would become necessary for the Clients to sell portfolio positions, including AMI Bonds, due to
+the parameters of a Chatham Client account.
+
+14. Specifically, the LAFs, including those that were RICs, imposed limits on the
+percentage of funds that could be invested in a single issuer or industry. In addition, the LAFs,
+including those that were RICs, provided daily liquidity to their shareholders, meaning that
+investors could withdraw their money at any time.
+
+15. Due to the position limits and daily liquidity needs of the LAFs, and the high
+concentration of AMI Bonds held by the LAFs, Chatham and Melchiorre frequently were required
+to “rebalance” the LAF portfolios by selling certain of the AMI Bonds.
+
+16. In other cases, the Clients had a need to sell the AMI Bonds in order to fund
+investor redemptions or other cash needs.
+
+17. Generally, when Chatham was forced to sell a high conviction AMI Bond in these
+circumstances, Chatham desired to purchase the AMI Bond for another Client because Chatham
+still believed in the merits of the investment and would not otherwise be selling the AMI Bonds if
+it were not for the portfolio restrictions or cash needs of the selling Clients.
+
+18. Recognizing that there were legal restrictions on trading between RICs and their
+affiliates, which included other Chatham Clients, Chatham and Melchiorre sought advice from a
+compliance consultant on how to facilitate the Rebalancing Trades. The consultant advised
+Chatham to conduct the trading either through a single broker over more than one day or through
+multiple brokers if on the same day. The foundational principle underlying the advice was to
+ensure that the transactions occurred at independently-derived market prices.
+
+19. As portfolio manager for the Chatham Clients, Melchiorre personally caused the
+Rebalancing Trades in AMI Bonds to be executed. Each Rebalancing Trade involved the sale of
+AMI Bonds by one or more Clients and an offsetting purchase or purchases of the AMI Bonds by
+one or more different Clients.
+
+2 The equity positions in AMI Parent were only held by the Funds, not the RICs.
+
+4
+
+20. To execute the Rebalancing Trades, Melchiorre worked with a small number of
+broker-dealer firms with whom he had traded previously (the “Rebalancing Brokers’’).
+
+21. Consistent with the compliance consultant’s advice, Melchiorre generally executed
+the Rebalancing Trades through a single Rebalancing Broker’s firm over more than one day or
+through multiple Rebalancing Broker firms during a single day, and he also sometimes executed
+them through multiple broker firms over multiple days.
+
+22. The Rebalancing Trades, however, were executed at prices proposed by Melchiorre
+and agreed to by the Rebalancing Brokers, but not at prices that were independently derived from
+price discovery in the broader market.
+
+23. Around the time that Chatham began to execute the Rebalancing Trades,
+Melchiorre generally explained the purpose of the Rebalancing Trades to the Rebalancing Brokers.
+Melchiorre informed each of the Rebalancing Brokers to whom he sold a Client’s AMI Bonds that
+he likely would have an interest in repurchasing that same AMI Bond he was selling for another
+Client. Over time, an understanding developed on the part of the Rebalancing Brokers that
+whenever Melchiorre placed an order to sell one of the AMI Bonds for a Client, he would
+repurchase it for another Client, either directly the following day or days, or indirectly through
+another broker.
+
+24. The Rebalancing Brokers engaged in the Rebalancing Trades because they
+expected Melchiorre to repurchase the bonds. The business model of several of the Rebalancing
+Brokers was to “match” buy and sell orders from their customers. Those Rebalancing Brokers
+ordinarily did not purchase securities for their own inventory—i.e., put the firm’s own capital at
+risk—or they did so on a very limited basis. Nonetheless, the vast majority of the Rebalancing
+Trades involved at least one Rebalancing Broker that purchased bonds into its firm’s inventory.
+For example, some of the Rebalancing Brokers would at times agree to purchase securities from
+Chatham even though the Rebalancing Broker may not have lined up the other leg of the
+transaction. These brokers’ willingness to do so was based on their expectation that Chatham
+would repurchase the bonds, either directly or through another broker.
+
+25. The purchasing Rebalancing Brokers generally did not offer the AMI Bonds to
+other customers in the market. Instead, in virtually every case, they resold the securities to
+Chatham or to another broker who they understood was purchasing for Chatham.
+
+26. As Chatham’s need to conduct rebalancing in its various Client Accounts increased
+over time, Rebalancing Trades became routine. When Melchiorre wanted to sell an AMI Bond to
+one particular Rebalancing Broker (“Rebalancing Broker A”) and then repurchase it the following
+day, he would send Rebalancing Broker A a message indicating that he wanted to sell an AMI
+Bond in the “usual drill.” Rebalancing Broker A then would purchase the AMI Bond into the
+firm’s inventory until Melchiorre repurchased it the following day.
+
+27. Other Rebalancing Brokers understood that when Melchiorre sold them an AMI
+Bond, they should look for a corresponding purchase from a second Rebalancing Broker, identified
+by Melchiorre, who also was representing Chatham.
+
+5
+
+28. The Rebalancing Brokers stood to benefit from the Rebalancing Trades because
+they expected Chatham to repurchase the bonds at a higher price, and it typically did so.
+
+29. Melchiorre proposed the price for the Rebalancing Trades and the Rebalancing
+Brokers agreed to it without first soliciting bids from other market participants.
+
+30. When proposing a price for Rebalancing Trades, Melchiorre considered a number
+of factors, which included the prior day’s price as reflected in prices published by a pricing service.
+Those published prices would have been influenced, to some extent, by Chatham’s own trading.
+When purchasing the AMI Bonds, Melchiorre also added a spread to compensate the Rebalancing
+Brokers. For example, in the case of a Rebalancing Trade executed through a single Rebalancing
+Broker overnight, Chatham would repurchase the AMI Bonds for a small spread above what it had
+sold the AMI Bonds to the broker the day before. In the case of a multi-broker Rebalancing Trade,
+Melchiorre would bid a small spread above the prior sale that was sufficient to compensate each of
+the Rebalancing Brokers involved.
+
+31. Over the Relevant Period, Chatham and Melchiorre engaged in over one hundred
+Rebalancing Trades in AMI Bonds, accounting for approximately 81 percent, on average, of the
+customer trading (i.e., not broker-to-broker trading) in such securities.
+
+32s Over time, the frequent Rebalancing Trades and repeated mark-ups to compensate
+the Rebalancing Brokers resulted in the market price of AMI Bonds increasing at a faster rate than
+prices of similar securities. For example, by November 2017, two of the AMI Bonds traded in
+Rebalancing Trades at implied yields lower than the prevailing London Interbank Offered Rate
+(“LIBOR”). Such yields ordinarily would have been associated with a bond of a much higher
+creditworthiness than the AMI Bonds.
+
+33. Chatham was compensated for its advisory services to the Funds with a
+management fee and a performance fee, and to the LAFs with a management fee. The
+management fee charged to certain Clients was set at a percentage of the NAV of those Clients.
+
+34. In order to calculate each Fund’s NAV, Chatham used an independent pricing
+service to determine the value of each of the portfolio securities, including the AMI Bonds. The
+LAF administrators calculated their own NAVs, also using the same pricing service Chatham used.
+
+35. Chatham and Melchiorre understood that the pricing service that Chatham and the
+LAF administrators utilized was based to some extent on recent trading prices and that the
+Rebalancing Trades accounted for virtually all of the trading in the Bonds during the Relevant
+Period. Because the Rebalancing Trades at times increased the prices of the AMI Bonds, the
+NAVs of the Client accounts also were increased by that amount on those occasions.
+
+36. Accordingly, the Clients paid Chatham an estimated $11,000,000 in performance
+and/or management fees that they would not have in the absence of Chatham’s Rebalancing
+Trades. Chatham in turn paid approximately 55 percent of such fees to Melchiorre.
+
+Violations
+
+37. As a result of the conduct described above, Respondents willfully violated Section
+206(2) of the Advisers Act, which prohibits an investment adviser from engaging in any
+transaction, practice, or course of business which operates as a fraud or deceit upon any client or
+prospective client. Scienter is not required to establish a violation of Section 206(2), but rather such
+a violation may rest on a finding of negligence. SEC v. Steadman, 967 F.2d 636, 643 n.5 (D.C. Cir.
+1992) (citing SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180, 195 (1963)).
+
+38. As a result of the conduct described above, Respondents willfully aided and abetted
+violations of, and caused certain Clients to violate, Sections 17(a)(1) and 17(a)(2) of the
+Investment Company Act, which make it unlawful for any affiliated person or promoter of or
+principal underwriter for a RIC or any affiliated person of such a person, promoter, or principal
+underwriter, acting as principal (1) knowingly to sell any security or other property to such RIC
+or to any company controlled by such RIC, or (2) knowingly to purchase from such RIC, or from
+any company controlled by such RIC, any security or other property, unless the transaction
+complies with the exemptive requirements of Rule 17a-7 under the Investment Company Act, or
+the adviser obtains an exemptive order under Section 17(b) of the Investment Company Act.
+
+Disgorgement
+
+39. The disgorgement and prejudgment interest ordered in paragraph IV(G) below is
+consistent with equitable principles and does not exceed Respondents’ net profits from their
+violations, and will be distributed to harmed investors to the extent feasible. The Commission will
+hold funds paid pursuant to paragraph IV(G) in an account at the United States Treasury pending
+distribution. Upon approval of the distribution final accounting by the Commission, any amounts
+remaining that are infeasible to return to investors, and any amounts returned to the Commission in
+the future that are infeasible to return to investors, may be transferred to the general fund of the
+United States Treasury, subject to Section 21 F(g)(3) of the Securities Exchange Act of 1934.
+
+Undertaking
+
+Respondents Chatham and Melchiorre agree to undertake to assist the Commission staff in
+the administration of a distribution plan, including any and all efforts to distribute to affected
+investors the monetary relief described in paragraph IV(G) below. In connection with such
+assistance, Respondents will produce, without service or notice of subpoena, information
+reasonably requested by the Commission staff.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate and in the public interest to
+impose the sanctions agreed to in Respondents’ Offers.
+
+Accordingly, pursuant to Sections 203(e), 203(f) and 203(k) of the Advisers Act, and
+Sections 9(b) and 9(f) of the Investment Company Act, it is hereby ORDERED that:
+
+A. Respondent Melchiorre cease and desist from committing or causing any violations
+and any future violations of Section 206(2) of the Advisers Act or Section 17(a) of the Investment
+Company Act.
+
+B. Respondents are censured.
+
+& Respondent Chatham cease and desist from committing or causing any violations
+and any future violations of Section 206(2) of the Advisers Act or Section 17(a) of the Investment
+Company Act.
+
+Dz Pursuant to Section 9(b) of the Investment Company Act, Respondent Melchiorre
+be, and hereby is, prohibited from serving or acting as an employee, officer, director, member of an
+advisory board, investment adviser or depositor of, or principal underwriter for, a registered
+investment company or affiliated person of such investment adviser, depositor, or principal
+underwriter.
+
+E. Pursuant to Section 9(b) of the Investment Company Act, Respondent Chatham be,
+and hereby is, prohibited from serving or acting as an employee, officer, director, member of an
+advisory board, investment adviser or depositor of, or principal underwriter for, a registered
+investment company or affiliated person of such investment adviser, depositor, or principal
+underwriter.
+
+F, Any reapplication for association by Respondents will be subject to the applicable
+laws and regulations governing the reentry process, and reentry may be conditioned upon a number
+of factors, including, but not limited to, compliance with the Commission’s Order and payment of
+any or all of the following: (a) any disgorgement or civil penalties ordered by a Court against the
+Respondents in any action brought by the Commission; (b) any disgorgement amounts ordered
+against the Respondents for which the Commission waived payment; (c) any arbitration award
+related to the conduct that served as the basis for the Commission Order; (d) any self-regulatory
+organization arbitration award to a customer, whether or not related to the conduct that served as the
+basis for the Commission Order; and (e) any restitution order by a self-regulatory organization,
+whether or not related to the conduct that served as the basis for the Commission Order.
+
+G. Respondents shall pay, jointly and severally, disgorgement of $11,000,000 and
+prejudgment interest of $3,375,072. In addition, Respondent Melchiorre shall pay a civil penalty
+of $600,000, and Respondent Chatham shall pay a civil penalty of $4,400,000 to the Securities and
+Exchange Commission. Payment shall be made in the following installments:
+
+Due within 30 days of the entry of this Order: $7,187,536;
+
+Due within 180 days of the entry of this Order: $3,593,768;
+
+Due within 270 days of the entry of this Order: $3,593,768; and
+
+Due within 360 days of the entry of this Order: $600,000 from Melchiorre, and $4,400,000
+from Chatham; plus all remaining unpaid principal and accrued interest.
+
+Pe Sr
+
+Payments shall be applied first to post-order interest, which accrues pursuant to SEC Rule of
+
+Practice 600 and pursuant to 31 U.S.C. § 3717. Prior to making the final payment set forth herein,
+
+Respondents shall contact the staff of the Commission for the amount due. If Respondents fail to
+8
+
+make any payment by the date agreed and/or in the amount agreed according to the schedule set
+forth above, all outstanding payments under this Order, including post-order interest, minus any
+payments made, shall become due and payable immediately at the discretion of the staff of the
+Commission without further application to the Commission. Payment must be made in one of the
+following ways:
+
+() Respondents may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+request;
+
+(2) Respondents may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondents may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Anthony Melchiorre and Chatham Asset Management, LLC as Respondents in these proceedings,
+and the file number of these proceedings; a copy of the cover letter and check or money order must
+be sent to Sheldon L. Pollock, Division of Enforcement, Securities and Exchange Commission,
+100 Pearl Street, Suite 20-100, New York, New York 10004.
+
+H. Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, as amended, a Fair
+Fund is created for the disgorgement, prejudgment interest, and penalty payments referenced in
+paragraph IV(G) above. Amounts ordered to be paid as civil money penalties pursuant to this
+Order shall be treated as penalties paid to the government for all purposes, including all tax
+purposes. To preserve the deterrent effect of the civil penalties, Respondents agree that in any
+Related Investor Action, they shall not argue that they are entitled to, nor shall they benefit by,
+offset or reduction of any award of compensatory damages by the amount of any part of
+Respondents’ payments of a civil penalties in this action (“Penalty Offset”). If the court in any
+Related Investor Action grants such a Penalty Offset, Respondents agree that they shall, within 30
+days after entry of a final order granting the Penalty Offset, notify the Commission’s counsel in
+this action and pay the amount of the Penalty Offset to the Securities and Exchange Commission.
+Such a payment shall not be deemed an additional civil penalty and shall not be deemed to change
+the amount of the civil penalties imposed in this proceeding. For purposes of this paragraph, a
+“Related Investor Action” means a private damages action brought against Respondents by or on
+behalf of one or more investors based on substantially the same facts as alleged in the Order
+entered by the Commission in this proceeding.
+
+I. Respondents Chatham and Melchiorre shall comply with the undertaking
+enumerated in Section III above.
+
+V.
+
+It is further ORDERED that, solely for purposes of exceptions to discharge set forth in
+Section 523 of the Bankruptcy Code, 11 U.S.C. § 523, the findings in this Order are true and
+admitted by Respondent Melchiorre, and further, any debt for disgorgement, prejudgment interest,
+civil penalty or other amounts due by Respondent Melchiorre under this Order or any other
+judgment, order, consent order, decree or settlement agreement entered in connection with this
+proceeding, is a debt for the violation by Respondent of the federal securities laws or any
+regulation or order issued under such laws, as set forth in Section 523(a)(19) of the Bankruptcy
+Code, 11 U.S.C. § 523(a)(19).
+
+By the Commission.
+
+Vanessa A. Countryman
+Secretary
+
+10

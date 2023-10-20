@@ -1,0 +1,355 @@
+NYSE AMERICAN LLC
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2020-10-00074
+
+TO: NYSE AMERICAN LLC
+
+RE: J.P. Morgan Securities, LLC, Respondent
+CRD No. 79
+
+J.P. Morgan Securities, LLC violated: NYSE American Rule 995NY(c) by effecting equity
+transactions in underlying securities after gaining knowledge of undisclosed terms and
+conditions of customer options orders on August 2, 2019 and October 11, 2022
+(“Anticipatory Hedging”); and NYSE American Rule 320(e) by failing to establish and
+maintain a supervisory system reasonably designed to ensure compliance with NYSE
+American Rule 995NY(c) from at least August 2019 through October 2022 (the “Relevant
+Period”). Consent to a censure and a $65,000 fine (resolved simultaneously with similar
+matters for a total fine of $230,000).!
+
+* * *
+
+Pursuant to Rule 9216 of the NYSE American LLC (“NYSE American” or the “Exchange”)
+Code of Procedure, J.P. Morgan Securities, LLC (“JPM” or the “Firm”) submits this Letter of
+Acceptance, Waiver, and Consent (“AWC”) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, NYSE American will not bring any future actions against the Firm alleging violations
+based on the same factual findings described herein.
+
+I. ACCEPTANCE AND CONSENT
+
+A. JPM hereby accepts and consents, without admitting or denying the findings, and solely
+for the purposes of this proceeding and any other proceeding brought by or on behalf of
+NYSE American, or to which NYSE American is a party, prior to a hearing and without
+an adjudication of any issue of law or fact, to the entry of the following findings by
+NYSE American:
+
+BACKGROUND AND JURISDICTION
+
+1, JPM, a wholly-owned subsidiary of JPMorgan Chase & Co., is a Delaware limited
+liability company, headquartered in New York, New York. JPM has been registered
+as an AmEx Trading Permit (“ATP”) Holder with NYSE American since 1988.
+Among other services, JPM acts an agency broker-dealer and options market maker.
+
+1 Those matters were brought by NYSE Arca LLC and Nasdaq ISE, LLC.
+
+VIOLATIONS
+Violations of NYSE American Rule 995NY(c) (Anticipatory Hedging)
+2, NYSE American Rule 995NY(c) provides the following:
+
+It will be considered conduct inconsistent with just and equitable
+principles of trade for any ATP Holder or person associated with an
+ATP Holder, who has knowledge of all material terms and conditions
+of an originating order, a solicited order, or a facilitation order, the
+execution of which are imminent, to enter, based on such knowledge,
+an order to buy or sell an option on the underlying securities of any
+option that is the subject of the order, or an order to buy or sell the
+security underlying any option that is the subject of the order, or any
+order to buy or sell any related instrument until either: (1) All the
+terms and conditions of the originating order and any changes in the
+terms or conditions of the order of which the ATP Holder or person
+associated with the ATP Holder has knowledge are disclosed to the
+trading crowd, or (2) The trade can no longer reasonably be considered
+imminent in view of the passage of time since the order was received.
+
+3. When an ATP Holder engages in improper anticipatory hedging or otherwise uses
+undisclosed information about an imminent option transaction to trade the relevant
+option(s) or a related instrument (including the underlying security on which the
+options are based), it can potentially alter the market for either or both the subject
+option(s) or the underlying security.
+
+4. Asaresult, the party submitting the options order could receive an inferior price and
+other market participants could be disadvantaged by changing their trading activity
+based on the price movement arising from the improper hedging activity. Therefore,
+as set forth in NYSE American Rule 995NY(c), such conduct is considered
+inconsistent with just and equitable principles of trade.
+
+5. In addition, NYSE American Regulatory Bulletin RBO-AMEX 14-01 (“Anticipatory
+Hedging and Frontrunning of Floor Orders,” dated February 14, 2014), states that:
+
+ATP Holders that send orders to the Floor for execution should
+have procedures whereby they can reasonably assure themselves
+that that [sic] an order has been systematized? and represented
+before they enter another order in the same or a related instrument
+for hedging or other purposes, based on the knowledge of the yet
+to be represented order. ATP Holders are cautioned that simply
+relying upon the passage of time from when an order is transmitted
+to the Floor, to make an assumption that the order has actually
+
+? Systematization refers to an options Floor broker’s entry of an order into an electronic format,
+
+2
+
+been represented in the trading crowd, would not be considered an
+acceptable procedure.
+
+6. Thus, as RBO-AMEX 14-01 states:
+
+An ATP Holder may be deemed to have violated NYSE American
+Rule 995SNY(c) if the ATP Holder, having knowledge of all
+material terms and conditions of an order, the execution of which
+is imminent, enters an order to buy or sell an option on a security
+underlying any option that is the subject of the order, or an order to
+buy or sell the security underlying any option that is the subject of
+the order, or any order to buy or sell any related instrument, prior
+to the systemization and representation of such order.
+
+August 2, 2019 Trading Activity
+
+7. On August 2, 2019, a JPM trader (“JPM Trader A”), having knowledge of the
+material terms and conditions of a customer options order, instructed another JEM
+trader on a different desk (“JPM Trader B”) to effect hedging transactions in the
+underlying security prior to the terms and conditions of the customer options order
+being disclosed.
+
+8. Specifically, on August 2, 2019, JPM Trader A received a customer order to sell and
+buy spread contracts in Symbol 1. JPM Trader A agreed to facilitate the trade.
+
+9. At approximately 11:10:17 a.m., JPM Trader A entered the entire customer options
+order (27,450 spread contracts) for electronic execution on Nasdaq ISE. JPM Trader
+A received a reject message cancelling the order almost instantaneously from Nasdaq
+ISE. Nonetheless, at 11:10:21 a.m., JPM Trader A instructed JPM Trader B to enter
+JPM’s hedging equity order to buy the underlying security. As a result, at 11:10:21
+a.m., JPM Trader B entered and executed an order to buy 83,280 shares of Symbol 1
+to partially hedge JPM’s facilitation of the customer options order.
+
+10, At 11:10:33 a.m., after JPM’s hedging order had been executed, JPM Trader A routed
+and executed an electronic facilitation for part of the customer options order (14,000
+spread contracts) on Nasdaq ISE. At 11:10:51 a.m., JPM Trader A instructed an
+unaffiliated NYSE American options floor broker to cross the balance of the customer
+options order (13,450 spread contracts) on the NYSE American trading floor. The
+order was systematized at 11:11:39 a.m. and executed at 11:11:51 a.m., with JPM
+facilitating 12,000 spread contracts.
+
+11. By entering a hedging order to buy the underlying security before the terms and
+conditions of the customer options order had been disclosed to the market, JPM
+
+3 JPM, as facilitating contra party, needed to buy approximately 582,000 shares of the underlying security in order to
+fully hedge the customer options order, the balance of which came from the desk’s existing inventory.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+violated NYSE American Rule 995NY(c).
+
+October 11, 2022 Trading Activity
+
+On October 11, 2022, a JPM trader, having knowledge of the material terms and
+conditions of a customer options order, effected hedging transactions in the
+underlying security prior to the terms and conditions of the customer options order
+being disclosed.
+
+Specifically, on October 11, 2022, at 10:12:42 a.m., an interdealer broker messaged
+two JPM traders (“JPM Trader C” and “JPM Trader D”) with an order to buy 5,000
+put contracts in Symbol 2 on behalf of a customer. At 10:15:52 a.m., JPM Trader C
+offered to sell all 5,000 contracts at a specified price. At 10:17:04 a.m., the
+interdealer broker agreed to the price, “subj[ect] to cross.” Two seconds later, at
+10:17:06 a.m., JPM Trader C asked whether the option trade was, “All me right?” to
+which the interdealer broker replied “Yes” at 10:17:12 a.m,
+
+Based on the above communications, JPM Trader D incorrectly understood that JEM
+was the only participant on this trade and that the facilitation order had been disclosed
+to the NYSE American trading crowd. As a result, at 10:17:58 a.m., JPM Trader D
+entered and executed JPM’s hedging equity order to sell approximately 30,000 shares
+of the underlying security. At 10:19:30 a.m., JPM Trader D realized that the
+facilitation order in fact had not been represented in the trading crowd, after JPM’s
+hedging order already had been entered and executed.
+
+By entering a hedging order to sell the underlying security before the terms and
+conditions of the customer options order had been represented on the NYSE
+American trading floor, JPM violated NYSE American Rule 995NY(c).
+
+JPM self-identified and self-reported this trading activity to Enforcement in the
+course of this investigation.
+
+Violations of NYSE American Rule 320(e) (Supervision)
+
+17.
+
+18.
+
+NYSE American Rule 320(e) requires that a firm must “establish, maintain, enforce
+and keep current a system of compliance and supervisory controls, reasonably
+designed to achieve compliance with applicable securities laws and regulations and
+Exchange rules.”
+
+Although JPM had daily monitoring in place to flag potential Anticipatory Hedging
+or front running of customer orders, the Firm did not conduct reviews of transactions
+across different aggregation units, and thus did not identify certain potential
+Anticipatory Hedging activity, including the violative trading activity on August 2,
+2019. In addition, due to a coding issue, the Firm’s monitoring logic failed to identify
+potential Anticipatory Hedging activity in connection with facilitation trades for
+multi-leg customer options orders for approximately two years. As a result, although
+the Firm maintained a supervisory system to identify potential Anticipatory Hedging
+
+4
+
+activity, the Firm’s supervisory system was not reasonably designed to ensure
+compliance with NYSE American Rule 995NY(c) because of the above issues. JPM
+remediated both issues in July 2022.
+
+19. Accordingly, JPM violated NYSE American Rule 320(e).
+
+RELEVANT PRIOR DISCIPLINARY HISTORY
+
+20. On November 8, 2017, JPM settled with NYSE Arca for $25,000 for one instance of
+Anticipatory Hedging in violation of NYSE Arca Rule 6.49-O(b). See NYSE Arca
+Matter No. 2017-03-00042.
+
+SANCTIONS
+B. The Firm also consents to the imposition of the following sanctions:
+
+Censure and fine in the amount of $65,000 (resolved simultaneously with
+similar matters for a total fine of $230,000)!
+
+The Firm agrees to pay the monetary sanction(s) upon notice that this AWC has been
+accepted and that such payment(s) are due and payable. The Firm has submitted a
+Method of Payment Confirmation form showing the method by which it will pay the fine
+imposed,
+
+The Firm specifically and voluntarily waives any right to claim that it is unable to pay,
+now or at any time hereafter, the monetary sanction(s) imposed in this matter.
+
+The sanctions imposed herein shall be effective on a date set by NYSE Regulation staff.
+II. WAIVER OF PROCEDURAL RIGHTS
+
+The Firm specifically and voluntarily waives the following rights granted under the NYSE
+American Code of Procedure:
+
+A. To have a Formal Complaint issued specifying the allegations against the Firm;
+
+B. To be notified of the Formal Complaint and have the opportunity to answer the
+allegations in writing;
+
+Cc. To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made and to have a written decision issued;
+and
+
+D. To appeal any such decision to the Exchange’s Board of Directors and then to the
+U.S, Securities and Exchange Commission and a U.S. Court of Appeals.
+
+* Those matters were brought by NYSE American LLC and Nasdaq ISE, LLC,
+5
+
+Further, the Firm specifically and voluntarily waives any right to claim bias or prejudgment of
+the Chief Regulatory Officer of NYSE American; the Exchange’s Board of Directors,
+Disciplinary Action Committee (“DAC”), and Committee for Review (“CFR”); any Director,
+DAC member, or CFR member; Counsel to the Exchange Board of Directors or CFR; any other
+NYSE American employee; or any Regulatory Staff as defined in Rule 9120 in connection with
+such person’s or body’s participation in discussions regarding the terms and conditions of this |
+AWC, or other consideration of this AWC, including acceptance or rejection of this AWC.
+
+The Firm further specifically and voluntarily waives any right to claim that a person violated the
+ex parte communication prohibitions of Rule 9143 or the separation of functions prohibitions of
+Rule 9144, in connection with such person’s or body’s participation in discussions regarding the
+terms and conditions of this AWC, or other consideration of this AWC, including its acceptance
+or rejection.
+
+ii. OTHER MATTERS
+The Firm understands that:
+
+A. Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed by NYSE Regulation, and accepted by the Chief
+Regulatory Officer of NYSE American pursuant to NYSE American Rule 9216;
+
+B. If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against the Firm; and
+
+Gc. If accepted:
+
+1, The AWC shall be sent to each Director and each member of the Committee
+for Review via courier, express delivery or electronic means, and shall be
+deemed final and shall constitute the complaint, answer, and decision in the
+matter, 10 days after it is sent to each Director and each member of the
+Committee for Review, unless review by the Exchange Board of Directors is
+requested pursuant to NYSE American Rule 9310(a)(1)(B);
+
+2. This AWC will become part of the Firm’s permanent disciplinary record and
+may be considered in any future actions brought by the Exchange, or any
+other regulator against the Firm;
+
+3. NYSE American shall publish a copy of the AWC on its website in
+accordance with NYSE American Rule 8313;
+
+4. NYSE American may make a public announcement concerning this /
+agreement and the subject matter thereof in accordance with NYSE American
+Rule 8313; and
+
+5. The Firm may not take any action or make or permit to be made any public
+statement, including in regulatory filings or otherwise, denying, directly or
+indirectly, any finding in this AWC or create the impression that the AWC is
+
+6
+
+without factual basis. The Firm may not take any position in any proceeding
+brought by or on behalf of the Exchange, or to which the Exchange is a party,
+that is inconsistent with any part of this AWC. Nothing in this provision
+affects the Firm’s (i) testimonial obligations; or (ii) right to take legal or
+factual positions in litigation or other legal proceedings in which the
+Exchange is not a party.
+
+D. A signed copy of this AWC and the accompanying Method of Payment
+Confirmation form delivered by email, facsimile or other means of electronic
+transmission shall be deemed to have the same legal effect as delivery of an
+original signed copy.
+
+E. The Firm may attach a Corrective Action Statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+The Firm understands that it may not deny the charges or make any statement that
+is inconsistent with the AWC in this Statement. Any such statement does not
+constitute factual or legal findings by the Exchange, nor does it reflect the views
+of NYSE Regulation or its staff.
+
+The Firm certifies that, in connection with each of the Exchange’s requests for information in
+connection with this matter, the Firm made a diligent inquiry of all persons and systems that
+reasonably had possession of responsive documents and that all responsive documents have been
+produced. In agreeing to the AWC, the Exchange has relied upon, among other things, the
+completeness of the document productions.
+
+
+The undersigned, on behalf of the Firm, certifies that a person duly authorized to act on its behalf
+has read and understands all of the provisions of this AWC and has been given a full opportunity
+to ask questions about it; that it has agreed to the AWC’s provisions voluntarily; and that no
+offer, threat, inducement, or promise of any kind, other than the terms set forth herein and the
+prospect of avoiding the issuance of a Complaint, has been made to induce the firm to submit it.
+
+2 be lan J.P. Morgan Securities, Lic
+
+Date Respondent
+By: Ee) :
+Michael Kurd
+Managing Director
+Reviewed by:
+ei Hogan ( 5
+McGuireWoods LLP
+888 16th Street N.W.
+Suite 500
+Black Lives Matter Plaza
+Washington, DC 20006
+(202) 828-2818
+Counsel for Respondent
+Accepted by NYSE Regulation
+March 21, 2023 Catherine Lifeso
+Date Catherine Lifeso
+Deputy Head of Enforcement
+NYSE Regulation
+
+Signed on behalf of NYSE American LLC,
+by delegated authority from its Chief
+Regulatory Officer

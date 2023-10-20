@@ -1,0 +1,472 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 97020 / March 2, 2023
+
+INVESTMENT ADVISERS ACT OF 1940
+Release No. 6253 / March 2, 2023
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21319
+
+ORDER INSTITUTING ADMINISTRATIVE
+
+In the Matter of AND CEASE-AND-DESIST PROCEEDINGS,
+PURSUANT TO SECTIONS 15(b) AND 21C
+CAMBRIA CAPITAL, LLC OF THE SECURITIES EXCHANGE ACT OF
+1934 AND SECTION 203(e) OF THE
+Respondent. INVESTMENT ADVISERS ACT OF 1940,
+
+MAKING FINDINGS, AND IMPOSING
+REMEDIAL SANCTIONS AND A CEASE-
+AND-DESIST ORDER
+
+L
+
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Sections 15(b) and 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) and Section 203(e) of the Investment Advisers Act of 1940 (“Advisers Act”) against
+Cambria Capital, LLC (“Cambria” or “Respondent”).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Administrative and Cease-And-Desist Proceedings, Pursuant to Sections 15(b) and 21C of the
+Securities Exchange Act of 1934, Section 203(e) of the Investment Advisers Act of 1940, Making
+Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as set forth
+below.
+
+Il.
+
+On the basis of this Order and Respondent’s Offer, the Commission finds that:
+
+Summary
+
+1. From at least March 2017 through May 2019 (the “Relevant Period”), Respondent,
+a dually registered investment adviser and broker-dealer, failed to file Suspicious Activity Reports
+(“SARs”) with the U.S. Treasury Department’s Financial Crimes Enforcement Network
+(“FinCEN”) when it knew, suspected, or had reason to suspect that the transactions facilitated
+fraudulent activity or had no legitimate business basis or apparent lawful purpose. During the
+Relevant Period, Cambria ignored numerous red flags listed in its anti-money laundering (“AML”)
+policies, which were contained within its Written Supervisory Procedures (““WSPs’’). Cambria also
+failed to properly investigate certain suspicious conduct, failed to investigate certain red flags, and
+ultimately failed to file SARs when required.
+
+2. During the Relevant Period, Cambria was a broker-dealer that specialized in
+helping its customers liquidate microcap! securities. Numerous transactions by Cambria customers
+raised “red flags” that indicated customers may have been involved in suspicious activities. Most
+of these suspicious activities were associated with the liquidation of microcap securities, including
+the deposit of physical certificates, the liquidation of large quantities of these securities, and the
+immediate wire out of funds from customer accounts. In addition, in many of these transactions,
+the pattern of liquidations often occurred in combination with other red flags noted in Cambria’s
+policies and procedures, such as unusually large deposits, suspicious wire activity, or multiple
+accounts simultaneously trading in the same microcap security. Cambria failed to investigate its
+customers’ suspicious trading and similarly failed to file SARs for many of the transactions even
+though Cambria’s WSPs identified such activity as risk indicators (red flags) of suspicious activity,
+and required further investigation for the possible filing of aSAR. During the Relevant Period,
+notwithstanding Cambria’s business focus on the liquidation of microcap securities and the
+existence of numerous red flags, Cambria has no record of investigating any suspicious activity
+and filed only two SARs.
+
+3h By failing to file SARs as required, Cambria willfully violated Section 17(a) of the
+Exchange Act and Rule 17a-8 thereunder.
+
+Respondent
+
+4. Cambria Capital, LLC is organized in Utah as a limited liability company, with its
+principal place of business in Salt Lake City, Utah. It has been registered with the Commission as
+a broker-dealer since May 2005. Cambria was registered with the Commission as an investment
+
+' The term microcap securities applies to companies with low or “micro” capitalizations, meaning the total value of
+the company’s stock. See Microcap Stock: A Guide For Investors (Sept. 18, 2013),
+https://www.sec.gov/reportspubs/investor-publications/investorpubsmicrocapstockhtm.html. The securities at issue
+here are those microcap securities that trade for under five dollars per share. See Exchange Act Section 3(a)(51) and
+Rule 3a51-1 thereunder.
+
+
+adviser until December 31, 2019, when it withdrew from SEC registration after completing its
+switch to state investment adviser registration, and it is currently a state-registered investment
+adviser. Cambria settled a disciplinary matter with the Financial Industry Regulatory Authority
+(“FINRA”) in 2008 that involved, among other things, the failure to file SARs in connection with
+questionable securities activities in customer accounts. (Case No. 2007007402901.) During the
+Relevant Period, Cambria specialized in facilitating the sale of large volumes of often thinly-traded
+microcap stocks and made between approximately 50 and 70 percent of its revenue from microcap
+transactions. According to its most recently filed Form ADV, Cambria has 163 clients and $13.2
+million in regulatory assets under management.
+
+Background
+A. The Bank Secrecy Act
+
+5. The Bank Secrecy Act (“BSA”), and implementing regulations promulgated by
+FinCEN, require that broker-dealers file SARs with FinCEN to report a transaction (or a pattern of
+transactions of which the transaction is a part) conducted or attempted by, at, or through the
+broker-dealer involving or aggregating to at least $5,000 that the broker dealer knows, suspects, or
+has reason to suspect: (1) involves funds derived from illegal activity or is conducted to disguise
+funds derived from illegal activities; (2) is designed to evade any requirement of the BSA; (3) has
+no business or apparent lawful purpose or is not the sort in which the particular customer would
+normally be expected to engage, and the broker-dealer knows of no reasonable explanation of the
+transaction after examining the available facts, including the background and possible purpose of
+the transaction; or (4) involves use of the broker-dealer to facilitate criminal activity. 31 C.F.R. §
+1023.320(a)(2) (“SAR Rule”). Broker-dealers are required to file the SAR 30 calendar days after
+the date of the initial detection of facts that may constitute a basis for filing a SAR under the SAR
+Rule. 31 C.F.R. § 1023.320(b)(3). In cases where the broker-dealer cannot identify a suspect, it
+must file the SAR within 60 days of the initial detection of facts that may constitute a basis for
+filing a SAR. Jd.
+
+6. Exchange Act Rule 17a-8 requires broker-dealers registered with the Commission
+to comply with the reporting, recordkeeping, and record retention requirements of Chapter X of
+title 31 of the Code of Federal Regulation. The failure to file a SAR as required by the SAR Rule
+is a violation of Section 17(a) of the Exchange Act and Rule 17a-8 thereunder. See SEC v. Alpine
+Sec. Corp., 308 F. Supp. 3d 775, 798-800 (S.D.N.Y. 2018), aff'd 982 F.3d 68 (2d Cir. 2020), cert.
+denied, Alpine Sec. Corp. v. SEC, 142 §. Ct. 461 (2021).
+
+B. Cambria’s AML Compliance Department and Program
+
+‘Le During the Relevant Period, Cambria’s WSPs stated that Cambria will file SARs
+“for transactions that may be indicative of money laundering activity.” The WSPs acknowledge
+that, “[s]uspicious activities include a wide range of questionable activities” and provide numerous
+examples, including “heavy trading in low-priced securities.” Cambria’s AML policies and
+procedures specifically identify various “risk indicators (red flags) that may suggest potential
+
+money laundering” and other fraudulent activities. These specific AML red flags, many of which
+are also described as red flags in industry notices issued by FINRA,’ include the following:
+
+The customer (or a person publicly associated with the customer) has a questionable
+background or is the subject of news reports indicating possible criminal, civil, or
+regulatory violations.
+
+The customer engages in suspicious activity involving the practice of depositing penny
+stocks, liquidates them, and wires proceeds. A request to liquidate shares may also
+represent engaging in an unregistered distribution of penny stocks which may also be a red
+flag.
+
+Customer transactions include a pattern of receiving stock in physical form or the incoming
+transfer of shares, selling the position and wiring out the proceeds.
+
+Two or more accounts trade an illiquid stock suddenly and simultaneously.
+The customer’s account has unexplained or sudden extensive wire activity.
+
+The customer’s account indicates large or frequent wire transfers, immediately withdrawn
+by check or debit card without any apparent business purpose.
+
+Cambria’s WSPs specifically address additional red flags with transactions involving penny stocks,
+including where the issuer:
+
+has no business, no revenues and no product;
+has experienced frequent or continuous changes in its business structure;
+undergoes frequent material changes in business strategy or its line of business; and
+
+has not made disclosures in SEC or other regulatory filings or has been the subject of a
+prior trading suspension.
+
+8. Cambria’s AML process involved vetting deposits by requiring customers to submit
+
+a deposit packet that provided information on the origin of the shares, whether the shares were
+registered or an exemption to registration existed, any additional shares owned or controlled by the
+customer, and other information to establish the shares as freely tradeable. Once Cambria is made
+aware of a red flag, Cambria’s WSPs require additional research to determine whether Cambria
+should file a SAR.
+
+2 See also FINRA Reg. Notice 19-18, https://www. finra.org/rules-guidance/notices/19-18;
+https://www. finra.org/rules-guidance/key-topics/aml/faq.
+
+4
+
+Facts
+
+A. Cambria Failed to Investigate Red Flags.
+
+9. Throughout the Relevant Period, Cambria became aware of or should have become
+aware of hundreds of red flags, as defined by its own WSPs. Yet Cambria only filed SARs in two
+instances.
+
+10. For example, Cambria customers routinely engaged in patterns of heavy trading,
+unusual wires, unusually large volume deposits or trades, and the quick deposit and subsequent
+liquidation of microcap securities and immediately wiring out the proceeds. Despite Cambria’s
+WSPs identifying this conduct as being a “red flag” and possibly “suspicious,” Cambria did not
+investigate, or where necessary, file SARs concerning its customers’ transactions that followed
+those patterns.
+
+11. Cambria also failed to investigate numerous red flags identified by Cambria’s
+WSPs related to opening customer accounts, including illegible or expired proof of identification
+from customers whom they did not meet, and who occasionally were from foreign countries that
+are at higher risk for money laundering.’ Cambria also failed to investigate other red flags that
+might indicate suspicious conduct, including that certain customers provided inconsistent
+addresses, including addresses that corresponded to a dirt lot, a FedEx/UPS location, or a strip mall
+that did not have office space.
+
+12. Similarly, Cambria, without taking any steps to investigate or analyze the conduct
+or the entity or person engaging in the conduct, routinely processed transactions for customers
+selling securities in microcap issuers that (a) had little to no revenue, (b) changed their name or
+business model several times, (c) had no physical office or business operations, and/or (d) had a
+late or delinquent filing history with the Commission — all enumerated as red flags of suspicious
+activities in Cambria’s WSPs.
+
+13. Finally, Cambria failed to properly investigate red flags concerning unexplained or
+sudden extensive wire activity as required by its WSPs, often failing to investigate red flags at all.
+For example, money movement reports identified numerous instances of many small wires in a
+short time period for no apparent business reason. Additionally, money movement reports showed
+numerous instances of several early smaller wires, followed by larger and larger ones until the
+account was closed. Similarly, Cambria failed to properly investigate what appeared to be
+coordinated liquidations of the same microcap security across several customer accounts, as
+required by the firm’s WSPs.
+
+3 Several of these countries are listed on the U.S. Department of State’s website as jurisdictions at high risk of
+money laundering, including Hong Kong, Malaysia, and Taiwan. See Major Money Laundering Countries
+(state.gov), https://2009-2017.state.gov/j/inl/rls/nrerpt/2003/vol2/html/29929. htm.
+
+5
+
+B. Cambria Failed to File SARs.
+
+14. Throughout the Relevant Period, Cambria failed to report certain suspicious activity
+that Cambria knew, suspected, or had reason to suspect was indicative of illegal activity.
+Accordingly, Cambria failed to file SARs when the firm was required to do so.
+
+15. For instance, Cambria submitted a deposit for Customer | to its clearing broker on
+May 1, 2018, of 36 million shares of a microcap issuer valued at less than $0.01 per share. This
+deposit was 3,080% of the 30-day trading average for that issuer. Cambria’s clearing broker sent
+Cambria an email highlighting numerous red flags and raising AML and other concerns about the
+customer’s identity, how he came to own the shares, and the issuer. Cambria provided the clearing
+broker with the customer’s responses to those concerns and the deposit was ultimately processed.
+By June 6, 2018 — less than 30 days after the deposit was accepted — the customer liquidated the
+shares and wired the sales proceeds totaling $75,000 out of the account. In June 2018, Cambria
+accepted two additional deposits from Customer | of shares of the same microcap issuer. The
+deposits were of 37 million and 32 million shares, which represented 931% and 438% of the 30-
+day trading average, respectively. Within weeks of each deposit, the customer sold the shares and
+wired the proceeds totaling $120,000 out of the account. Customer | attempted to deposit an
+additional 585,000 shares of the same microcap issuer in August 2018. After initially approving
+the deposit, Cambria’s clearing broker informed Cambria that it could not accept the deposit
+because the issuer was delinquent in its 10-Q filing and was participating in promotional activity
+concerning the security the customer was attempting to deposit, which Cambria acknowledged in
+internal emails were red flags of suspicious activity. Cambria eventually rescinded approval for
+the deposit. Given the red flags that ultimately led Cambria to reject Customer 1’s deposit in
+August 2018, Cambria had reason to suspect illegal activity, and thus, was required to file a SAR,
+but failed to do so.
+
+16. Similarly, Cambria opened an account for Customer 2 in June 2017 even though
+Cambria was aware of numerous red flags as identified in its WSPs as a result of routine searches
+performed by an employee as part of the account opening process, including that a principal of
+Customer 2 had been previously sued for fraud by an investor. Customer 2 deposited 500,000
+shares of a microcap stock trading at less than $0.01 per share in June 2017. That deposit
+represented 625,000% of the 30-day trading volume. Between December 2017 and February 2018,
+Customer 2 made three additional deposits totaling 1.5 million shares. Each deposit was hundreds
+of percent of the 30-day trading volume. Customer 2 began liquidating its position and within 30
+days of each sale wired most of the proceeds out of the account. Moreover, the account included
+extensive and unexplained wires that were small at first — three wires in November 2017 that were
+less than $10,000 each, and gradually increased over time until they were six figures each.
+Cambria’s WSPs note that large deposits, quick liquidation of microcap securities, and unusual
+wire patterns are all red flags of suspicious activity. Despite having reason to suspect illegal
+activity as a result of these red flags, which required Cambria to file a SAR, it did not do so.
+
+17. In another example, Cambria failed to file a SAR related to numerous red flags it
+encountered related to Customer 3. In February 2018, Cambria opened an account for Customer 3
+that identified Customer 3’s business address as being in a strip mall with retail stores that had no
+traditional office space. Customer 3’s principal provided Cambria with an expired driver’s license
+
+6
+
+and other questionable or illegible forms of identification. One such form of identification was a
+partial bank statement that listed an address that corresponded with a dirt lot that had a mail box on
+it. Shortly after opening its account, Customer 3 deposited 1 million shares of a microcap stock
+trading at less than $0.01 per share. The deposit represented 4,116% of the 30-day trading average
+of that stock. Customer 3 noted in account opening documents that it was engaged in the “regular
+business” of “buying and selling stock for [its] own account.” Customer 3 liquidated its position
+and wired out the sales proceeds of more than $13,000 over the next few months. There is no
+evidence Cambria investigated the numerous red flags associated with Customer 3, such as the
+unusually large deposit and quick liquidation of securities of a questionable issuer. Despite having
+reason to suspect illegal activity as a result of these red flags, which required Cambria to file a
+SAR, it did not do so.
+
+18. By engaging in the conduct described above, Cambria willfully violated Section
+17(a) of the Exchange act and Rule 17a-8 thereunder.
+
+Undertakings
+
+Respondent has undertaken to:
+
+A. Within 30 days from the issuance of this Order, at its own cost, hire an independent
+AML Compliance Consultant, not unacceptable to the Commission staff, to conduct a
+comprehensive review of Respondent’s AML compliance program and the implementation and
+effectiveness of Respondent’s AML policies and procedures. The Respondent shall require the
+Compliance Consultant to submit to the Commission’s staff a written report (the “Report”) on the
+90th day from the issuance of this Order describing the review it performed, the names of the
+individuals who performed the review, the conclusions reached, and the Compliance Consultant’s
+recommendations for changes in or improvements to Respondent’s AML program.
+
+B. Respondent shall adopt all recommendations contained in the Report within one
+hundred fifty (150) days of the issuance of this Order; provided, that within one hundred and twenty
+(120) days after the date of the Order’s issuance, Respondent shall in writing advise the Compliance
+Consultant and the Commission staff of any recommendation that Respondent considers to be
+unduly burdensome, impractical, or inappropriate. With respect to any recommendation that
+Respondent considers unduly burdensome, impractical, or inappropriate, Respondent need not adopt
+that recommendation at that time but shall propose in writing an alternative policy, procedure, or
+system designed to achieve the same objective or purpose.
+
+GC As to any recommendation with respect to Respondent’s policies and procedures on
+which Respondent and the Compliance Consultant do not agree, Respondent and the Compliance
+Consultant shall attempt in good faith to reach an agreement within one hundred and fifty (150)
+days after the date the Order is issued. Within fifteen (15) days after the conclusion of the
+discussion and evaluation by Respondent and the Compliance Consultant, Respondent shall require
+that the Compliance Consultant inform Respondent and the Commission staff in writing of the
+Compliance Consultant’s final determination concerning any recommendation that Respondent
+considers to be unduly burdensome, impractical, or inappropriate. Respondent shall abide by the
+
+determinations of the Compliance Consultant and, within thirty (30) days after final agreement
+between Respondent and the Compliance Consultant or final determination of the Compliance
+Consultant, whichever occurs first, Respondent shall adopt and implement all of the
+recommendations that the Compliance Consultant deems appropriate.
+
+Dz Within thirty (30) days of Respondent’s adoption of all of the recommendations in
+the Report that the Compliance Consultant deems appropriate, as determined pursuant to the
+procedures set forth herein, certify in writing to the Compliance Consultant and the Commission
+staff that Respondent has adopted and implemented all of the Compliance Consultant’s
+recommendations in the Report. Thereafter, beginning two hundred forty days (240) after the entry
+of the Order, the Compliance Consultant shall conduct such review as it deems appropriate to verify
+that Respondent has appropriately implemented the recommendations in the Report. Unless
+otherwise directed by the Commission staff, all Reports, certifications, and other documents
+required to be provided to the Commission staff shall be sent to Mary S. Brady, Assistant Regional
+Director, Denver Regional Office, 1961 Stout Street, Ste. 1700, Denver, CO 80294.
+
+E. Cooperate fully with the Compliance Consultant and provide the Compliance
+Consultant with access to such files, books, records, and personnel as are reasonably requested by
+the Compliance Consultant for review.
+
+F. To ensure the independence of the Compliance Consultant for the remainder of the
+engagement: (1) not have the authority to terminate the Compliance Consultant or substitute another
+compliance consultant for the Compliance Consultant without the prior written approval of the
+Commission staff; and (2) compensate the Compliance Consultant and persons engaged to assist the
+Compliance Consultant for services rendered pursuant to this Order at their reasonable and
+customary rates.
+
+G. Require the Compliance Consultant to enter into an agreement that provides that for
+the period of engagement and for a period of two years from completion of the engagement, not to
+(i) retain the Compliance Consultant for any other professional services outside of the services
+described in this Order; (11) enter into any other professional relationship with the Compliance
+Consultant, including any employment, consultant, attorney-client, auditing or other professional
+relationship; or (iii) enter, without prior written consent of the Commission staff, into any such
+professional relationship with any of the Compliance Consultant’s present or former affiliates,
+employers, directors, officers, employees, or agents acting in their capacity as such. The agreement
+will also provide that the Compliance Consultant will require that any firm with which he/she is
+affiliated or of which he/she is a member, and any person engaged to assist the Compliance
+Consultant in performance of his/her duties under this Order shall not, without prior written consent
+of the Commission staff, enter into any employment, consultant, attorney-client, auditing or other
+professional relationship with Respondent, or any of its present or former affiliates, directors,
+officers, employees, or agents acting in their capacity as such for the period of the engagement and
+for a period of two years after the engagement.
+
+H. Preserve for a period of not less than six years from the end of the fiscal year last
+used, the first two years in an easily accessible place, any record of its compliance with the
+undertakings set forth herein.
+
+I. Certify, in writing, compliance with its undertakings set forth above. The
+certification shall identify the undertakings, provide written evidence of compliance in the form ofa
+narrative, and be supported by exhibits sufficient to demonstrate compliance. The Commission
+staff may make reasonable requests for further evidence of compliance, and Respondent agrees to
+provide such evidence. The certification and supporting materials shall be submitted to Mary S.
+Brady, Assistant Regional Director, with a copy to the Office of Chief Counsel of the Enforcement
+Division, no later than sixty (60) days from the date of the completion of the undertakings.
+
+J For good cause shown, the Commission staff may extend any of the procedural dates
+relating to the undertakings. Deadlines for procedural dates shall be counted in calendar days,
+except that if the last day falls on a weekend or federal holiday, the next business day shall be
+considered to be the last day.
+
+K. The reports by the Compliance Consultant will likely include confidential financial,
+proprietary, competitive business or commercial information. Public disclosure of the reports could
+discourage cooperation, impede pending or potential government investigations or undermine the
+objectives of the reporting requirement. For these reasons, among others, the reports and the
+contents thereof are intended to remain and shall remain non-public, except (1) pursuant to court
+order, (2) as agreed to by the parties in writing, (3) to the extent that the Commission determines in
+its sole discretion that disclosure would be in furtherance of the Commission’s discharge of its
+duties and responsibilities, or (4) is otherwise required by law.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate and in the public interest to
+impose the sanctions agreed to in Respondent’s Offer.
+
+Accordingly, pursuant to Sections 15(b) and 21C of the Exchange Act and Section 203(e)
+of the Advisers Act, it is hereby ORDERED that:
+
+A. Respondent cease and desist from committing or causing any violations and any
+future violations of Section 17(a) of the Exchange Act and Rule 17a-8 promulgated thereunder.
+
+B. Respondent is censured.
+
+ey Respondent shall pay a civil penalty of $100,000 to the Securities and Exchange
+Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act
+Section 21F(g)(3).
+Payment shall be made in the following installments:
+
+() $25,000 within the 14 days of the entry of this order;
+
+9
+
+(2) four quarterly payments of $18,750 to be paid on or before the first of each
+quarter thereafter.
+
+Payments shall be applied first to post order interest, which accrues pursuant to 31 U.S.C. § 3717.
+Prior to making the final payment set forth herein, Respondent shall contact the staff of the
+Commission for the amount due. If Respondent fails to make any payment by the date agreed
+and/or in the amount agreed according to the schedule set forth above, all outstanding payments
+under this Order, including post-order interest, minus any payments made, shall become due and
+payable immediately at the discretion of the staff of the Commission without further application to
+the Commission.
+
+Payment must be made in one of the following ways:
+
+() Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bidg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying Cambria as
+a Respondent in these proceedings, and the file number of these proceedings; a copy of the cover
+letter and check or money order must be sent to Jason J. Burt, Division of Enforcement, Securities
+and Exchange Commission, 1961 Stout Street, Ste. 1700, Denver, CO 80294.
+
+Dz. Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondent’s payment of a civil
+penalty in this action (“Penalty Offset”). If the court in any Related Investor Action grants such a
+Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting
+the Penalty Offset, notify the Commission’s counsel in this action and pay the amount of the
+Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed
+an additional civil penalty and shall not be deemed to change the amount of the civil penalty
+
+10
+
+imposed in this proceeding. For purposes of this paragraph, a “Related Investor Action” means a
+private damages action brought against Respondent by or on behalf of one or more investors based
+on substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+
+E. Respondent shall comply with the undertakings enumerated in Section III above.
+
+By the Commission.
+
+Vanessa A. Countryman
+Secretary

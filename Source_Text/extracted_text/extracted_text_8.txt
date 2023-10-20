@@ -1,0 +1,191 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 96952 / February 21, 2023
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21307
+
+ORDER INSTITUTING CEASE-AND-
+
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+CANDLESTICK CAPITAL EXCHANGE ACT OF 1934, MAKING
+MANAGEMENT LP, FINDINGS, AND IMPOSING A CEASE-
+
+AND-DESIST ORDER
+Respondent.
+
+L
+
+The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Candlestick Capital Management LP
+(“Candlestick Capital” or “Respondent’’).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer’”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+
+Il.
+
+On the basis of this Order and Respondent’s Offer, the Commission finds! that:
+
+Summary
+
+1. These proceedings concern Candlestick Capital’s violation of Rule 105 of
+Regulation M [17 C.F.R. § 242.105] (“Rule 105”).? On June 16, 2020, Candlestick Capital sold
+short common stock of American Airlines Group Inc. (“American Airlines”) within Rule 105’s
+restricted period in the accounts of two of its private fund clients, Candlestick Master Fund LP and
+Candlestick US F&F Fund LP (together, the “Funds’’). Candlestick Capital then purchased shares
+of American Airlines common stock for the Funds in a follow-on offering from a participating
+underwriter, without qualifying for an exception from the prohibition in Rule 105. As a result,
+Candlestick Capital violated Rule 105. Candlestick Capital’s conduct resulted in ill-gotten gains to
+the Funds of $1,620,398.50.
+
+2. Rule 105 makes it unlawful for a person to purchase equity securities from an
+underwriter, broker or dealer participating in a covered public offering if that person sold short the
+security that is the subject of the offering during the restricted period as defined in the rule, absent
+an exception. 17 C.F.R. § 242.105; see Short Selling in Connection with a Public Offering, Rel.
+No. 34-56206, 72 Fed. Reg. 45094 (Aug. 10, 2007) (effective Oct. 9, 2007). The Rule 105
+“restricted period” is the shorter of the period: (1) beginning five business days before the pricing
+of the offered securities and ending with such pricing; or (2) beginning with the initial filing of a
+registration statement or notification on Exchange Act Form 1-A or 1-E and ending with pricing.
+17 C.F.R. § 242.105(a)(1) and (a)(2).
+
+3. Generally, the offering prices of secondary and follow-on offerings are set at a
+discount to the stock’s closing price just prior to pricing.
+
+4. The Commission adopted Rule 105 “to foster secondary and follow-on offering
+prices that are determined by independent market dynamics and not by potentially manipulative
+activity.” 72 Fed. Reg. 45094. Rule 105 is prophylactic and prohibits the conduct irrespective of
+the short seller’s intent in effecting the short sale. Id.
+
+' The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+
+? Candlestick Capital has separately consented to an order to pay a $810,000 penalty and the
+Funds, as relief defendants, have separately consented to orders to pay a combined total of
+$1,712,985.69 in disgorgement and prejudgement interest in the previously filed United States
+District Court case SEC v. Candlestick Capital Management LP et al., Civ. Action No. 3:23-cv-
+00206 (D. Conn. 2023), which concerns the same Rule 105 violation alleged in this Order.
+
+2.
+
+5. Rule 105 provides an exception for a “bona fide purchase,” which generally does
+not prohibit a person from purchasing securities in an offering even if they sold short during the
+Rule 105 restricted period as long as they purchase the same security in at least the same amount as
+they sold short during the restricted period before the offering is priced. The restricted period
+purchase must satisfy the following requirements in order to qualify as a “bona fide purchase”
+under Rule 105: (i) the purchase is at least equivalent in quantity to the entire amount of the Rule
+105 restricted period short sale(s); (ii) the purchase is effected during regular trading hours; (iii) the
+purchase is reported to an effective transaction reporting plan (as defined in Rule 600(b)(22) of
+Regulation NMS); (iv) the purchase is effected after the last Rule 105 restricted period short sale,
+and no later than the business day prior to the day of pricing; and (v) the person did not effect a
+short sale that was reported to an effective transaction reporting plan within the 30 minutes prior to
+the close of regular trading hours (as defined in Rule 600(b)(64) of Regulation NMS) on the
+business day prior to the day of pricing. 17 C.F.R. § 242.105(b). The requirements of the bona
+fide purchase exception are designed to ensure transparency of the activity to the market so that the
+effects of the purchase can be reflected in the security’s market price prior to the pricing of the
+offering. See 72 Fed. Reg. 45094, 45097.
+
+Respondent
+
+6. Candlestick Capital Management LP is a limited partnership organized under the
+laws of Delaware and located in Greenwich, Connecticut. Candlestick Capital is registered with
+the Commission as an investment adviser and advises the Funds, among other private fund clients.
+Candlestick Capital has represented that, as of October 31, 2022, it had approximately $3 billion in
+assets under management.
+
+Facts
+
+7 On Tuesday, June 16, 2020, Candlestick Capital sold short a combined total of
+350,000 shares of American Airlines common stock at an average price of $17.62891 per share in
+the Funds’ accounts.
+
+8. On Sunday, June 21, 2020, American Airlines filed a preliminary prospectus
+supplement to a shelf registration statement previously filed on February 19, 2020, for a follow-on
+offering of its common stock to be priced after the market closed on Monday, June 22, 2020 (the
+“Offering”).
+
+9. On Monday, June 22, 2020, the day the Offering was priced, Candlestick Capital
+recognized that the Funds’ June 16, 2020 short sale of American Airlines common stock fell within
+the restricted period and that the Funds could not participate in the Offering absent a valid
+exception. Candlestick Capital purchased a combined total of 350,000 shares of American Airlines
+common stock in the Funds’ accounts in the open market, during regular trading hours, in a failed
+attempt to fall within the terms of the bona fide purchase exception to Rule 105.
+
+10. After the market closed on Monday, June 22, 2020, American Airlines priced the
+Offering at $13.50 per share.
+
+11. The short sales that Candlestick Capital effected for the Funds occurred within the
+Rule 105 restricted period, which ran from Tuesday, June 16, 2020 through Monday, June 22,
+2020.
+
+12. For the Funds to meet the requirements of the Rule 105 bona fide purchase
+exception, they would have had to purchase at least 350,000 shares of American Airlines common
+stock in the open market, during regular trading hours, by the market close on Friday, June 19,
+2020.
+
+13. Shortly after market close on Monday, June 22, 2020, Candlestick Capital
+submitted an indication of interest to a participating underwriter on behalf of the Funds to purchase
+750,000 shares in the Offering. Later that evening, certain Candlestick Capital personnel raised
+concerns that Candlestick Capital may have failed to meet the conditions of the Rule 105 bona fide
+purchase exception.
+
+14. On Tuesday, June 23, 2020, Candlestick Capital nevertheless received an allocation
+of 750,000 shares in the Offering. Later that day, Candlestick Capital determined that it had failed
+to meet the bona fide purchase exception and that it violated Rule 105 by purchasing shares in the
+Offering in the Funds’ accounts.
+
+15. The difference between the price at which the Funds sold short 350,000 shares of
+American Airlines common stock during the restricted period and the price at which the Funds
+purchased 350,000 shares in the Offering was $1,445,118.50.
+
+16. The Funds also improperly received a benefit of $175,280 by purchasing the
+incremental 400,000 Offering shares at a discount from American Airlines’ market price.
+
+17. Thus, the Funds received total profits of $1,620,398.50 by participating in the
+Offering.
+
+18. Upon concluding that it had violated Rule 105, Candlestick Capital did not self-
+report the violation to the Commission. Candlestick Capital also did not conduct a formal review
+of its trading history to identify other possible Rule 105 violations, although at the time
+Candlestick Capital had participated in a limited number of offerings. A subsequent review
+conducted by Candlestick Capital in response to the Commission staff's investigation in 2022
+identified no other Rule 105 violations.
+
+19. In addition, Candlestick Capital did not accurately document the Rule 105 violation
+in its books and records and only acknowledged the Rule 105 violation after the Commission staff
+specifically asked about it during a routine examination of Candlestick Capital in 2021.
+
+20. Candlestick Capital has since undertaken certain remedial steps, including updating
+and revising its Rule 105 policies and procedures to prevent future Rule 105 violations, including
+related to the bona fide purchase exception.
+
+21. As a result of the conduct described above, Candlestick Capital violated Rule 105
+of Regulation M under the Exchange Act [17 C.F.R. § 242.105].
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Candlestick Capital’s Offer.
+
+Accordingly, it is hereby ORDERED that, pursuant to Section 21C of the Exchange Act,
+
+Respondent Candlestick Capital cease and desist from committing or causing any violations and any
+future violations of Rule 105 of Regulation M under the Exchange Act.
+
+By the Commission.
+
+Vanessa A. Countryman
+Secretary

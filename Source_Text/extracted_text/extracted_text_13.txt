@@ -1,0 +1,241 @@
+o
+
+boe
+
+DISCIPLINARY DECISION
+Choe C2 Exchange, Inc.
+Star No. 20210692497-02 / File No. URE-73-02
+Susquehanna Securities, LLC
+
+Pursuant to Exchange Rule 13.3, attached to and incorporated as part of this Decision is a Letter of
+Consent.
+
+Applicable Rules
+
+e C2 Rule 8.30 and Cboe Rule 8.30 as incorporated by reference by and through C2 Chapter 5 -
+Position Limits.
+Sanction
+Acensure and a monetary fine in the amount of $8,000.
+Effective Date
+
+March 6, 2023
+
+/s/ Greg Hoogasian
+
+Greg Hoogasian, CRO, EVP
+
+DocuSign Envelope ID: A013C4EE-0187-4EAC-9E55-92EF298FE870
+
+Cboe C2 Exchange, Inc.
+LETTER OF CONSENT
+Star No. 20210692497-02'/File No. URE-73-02
+
+In the Matter of:
+
+Susquehanna Securities, LLC
+401 City Ave., Suite 220
+
+Bala Cynwyd, PA 19004-1122
+
+Subject
+
+Pursuant to the provisions of Cboe C2 Exchange, Inc. (“C2” or the “Exchange”) Rule 13.3 —
+Expedited Proceeding,” Susquehanna Securities, LLC (“Susquehanna” or the “Firm”) submits this
+Letter of Consent for the purpose of proposing a settlement of the alleged rule violations described
+below.
+
+The Firm neither admits nor denies that violations of Exchange Rules have been committed, and
+the stipulation of facts and findings described herein do not constitute such an admission.
+
+BACKGROUND
+
+1. During all relevant periods herein, Susquehanna was acting as a registered Broker-
+Dealer and was an Exchange Trading Permit Holder registered to conduct business
+on the Exchange as a Market-Maker. The Firm’s registrations remain in effect.
+
+Ds This matter originated from a review conducted by FINRA’s Department of Market
+Regulation of the Firm’s compliance with listed position limits.
+
+VIOLATIVE CONDUCT
+
+Applicable Rules
+
+3. During all relevant periods herein, Cboe Rule 8.30 as incorporated by reference by
+and through C2 Chapter 5 and C2 Rule 8.30 — Position Limits* were in full force
+and effect.
+
+' This matter also incorporates findings from FINRA Matter No. 20220757260 which was merged into this matter.
+? Chapter 13 of C2’s Rulebook incorporates Chapter 13 of Cboe’s Rulebook by reference, including Rule 13.3.
+
+3 Effective November 20, 2019, Chapter 5 of C2’s Rulebook incorporated by reference Chapter 8 of Cboe’s
+Rulebook, including Rule 8.30. Effective May 19, 2021, the relevant provisions of Chapter 5 of C2’s Rulebook
+were incorporated into Chapter 8 of C2’s Rulebook.
+
+DocuSign Envelope ID: A013C4EE-0187-4EAC-9E55-92EF298FE870
+
+4. During all relevant periods (as applicable), Cboe Rule 8.30 and C2 Rule 8.30
+provided, in relevant part:
+
+...no Trading Permit Holder shall make, for any account in which it has an
+interest or for the account of any customer, an opening transaction on any
+exchange if the Trading Permit Holder has reason to believe that as a result
+of such transaction the Trading Permit Holder or its customer would, acting
+alone or in concert with others, directly or indirectly, (a) control an
+aggregate position in an option contract dealt in on the Exchange in excess
+of 25,000 or 50,000 or 75,000 or 200,000 or 250,000 option contracts
+(whether long or short) of the put type and the call type on the same side of
+the market respecting the same underlying security, combining for purposes
+of this position limit long positions in put options with short positions in
+call options, and short positions in put options with long positions in call
+options, or such other number of option contracts as may be fixed from time
+to time by the Exchange as the position limit for one or more classes or
+series of options, or (b) exceed the applicable position limit fixed from time
+to time by another exchange for an option contract not dealt in on the
+Exchange, when the Trading Permit Holder is not a member of the other
+exchange on which the transaction was effected.
+
+5. Further, during all relevant periods (as applicable), Interpretation and Policy .04(c)
+to Cboe Rule 8.30 and C2 Rule 8.30 provided, in relevant part:
+
+An equity option position that is not delta neutral shall be subject to position
+limits in accordance with this Rule 8.30 (subject to the availability of other
+position limit exemptions). Only the option contract equivalent of the net
+delta of such position shall be subject to the appropriate position limit. The
+“options contract equivalent of the net delta” is the net delta divided by the
+number of shares that equate to one option contract on a delta basis. The
+term “net delta” means, at any time, the number of shares and/or other units
+of trade (either long or short) required to offset the risk that the value of an
+equity option position will change with incremental changes in the price of
+the security underlying the option position, as determined in accordance
+with a permitted pricing model.
+
+Position Limit Violations
+6. Susquehanna has availed itself of the Delta Hedge Exemption since March 19,
+
+2008. For a firm using the Delta Hedge Exemption, any options position that is not
+delta hedged remains subject to position and exercise limits.*
+
+4 The net delta is the number of shares required (either long or short) to offset the risk that the value of an equity
+options position will change with incremental changes in the price of the security underlying the options position. A
+firm that is not delta neutral must be hedged to the extent that the Options Contract Equivalent of the Net Delta
+(“OCEND”) stays within the applicable position limit. The Firm calculated the OCEND by using the OCC Permitted
+Pricing Model. Once calculated, the OCEND must still be below the applicable position limit.
+
+2
+
+DocuSign Envelope ID: A013C4EE-0187-4EAC-9E55-92EF298FE870
+
+10.
+
+Between January 25, 2021 and January 27, 2021, the applicable position limit in
+“ABC” options was 250,000 options contracts on the same side of the market.
+
+During the trading days on January 25, 2021 through January 27, 2021, the Firm
+maintained a position that was not delta neutral in “ABC” and exceeded the
+applicable position limit in “ABC” options by 83,230 contracts on January 25,
+2021, 76,261 contracts on January 26, 2021, and 178,608 contracts on January 27,
+2021. The Firm identified the position limit overage and redressed it on January
+28, 2021.
+
+On August 3, 2022, the applicable position limit in “DEF” options was 250,000
+options contracts on the same side of the market.
+
+During the trading day on August 3, 2022, the Firm maintained a position that was
+not delta neutral in “DEF” and exceeded the applicable position limit in “DEF”
+options by 3,493 contracts. The Firm corrected the position limit overage the
+following business day.
+
+The acts, practices, and conduct described in Paragraph 8 constitute violations of
+Cboe Rule 8.30 by and through C2 Chapter 5 by the Firm, in that the Firm exceeded
+the applicable position limits in the referenced security.
+
+The acts, practices, and conduct described in Paragraph 10 constitute violations of
+C2 Rule 8.30 by the Firm, in that the Firm exceeded the applicable position limits
+in the referenced security.
+
+SANCTIONS
+
+The Firm has prior relevant disciplinary history involving position limit violations.
+In January 2021, Susquehanna was censured and fined a total of $60,000 by BOX
+Exchange LLC, Cboe BZX Exchange, Inc., Cboe C2 Exchange, Inc., Cboe EDGX
+Exchange, Inc., Cboe Exchange, Inc., MIAX Emerald, LLC, Miami International
+Securities Exchange, LLC, MIAX PEARL, LLC, NYSE American LLC, and
+NYSE Arca, Inc. ($6,000 was allocated to each exchange) for failing to comply
+with listed position limits on six occasions between June 2019 and September
+2020.° Additionally, between November 2018 and January 2019, Susquehanna was
+censured and fined a total of $25,000 by BOX Exchange, LLC, Cboe BZX
+Exchange, Inc., Cboe Exchange, Inc., Choe C2 Exchange, Inc., Choe EDGX
+Exchange, Inc., Miami International Securities Exchange, LLC, NYSE American
+LLC, and NYSE Arca, Inc. ($3,125 was allocated to each exchange) for failing to
+comply with listed position limits on six occasions between October 2015 through
+April 2017, as well as related supervisory deficiencies.’
+
+5 Generic identifiers have been used in place of the names of the securities referenced throughout this document.
+6 See FINRA Matter No. 20190629791.
+7 See FINRA Matter No. 20150475058.
+
+DocuSign Envelope ID: A013C4EE-0187-4EAC-9E55-92EF298FE870
+
+14. In light of the alleged rule violations described above, and prior relevant
+disciplinary history, the Firm consents to the imposition of the following sanctions:
+
+a. A censure; and
+b. A monetary fine in the amount of $8,000.8
+
+If this Letter of Consent is accepted, the Firm acknowledges that it shall be bound by all terms,
+conditions, representations, and acknowledgements of this Letter of Consent, and, in accordance
+with the provisions of Exchange Rule 13.3, waives the right to review or to defend against any of
+these allegations in a disciplinary hearing before a Hearing Panel. The Firm further waives the
+right to appeal any such decision to the Board of Directors, the U.S. Securities and Exchange
+Commission, a U.S. Federal District Court, or a U.S. Court of Appeals.
+
+The Firm waives any right to claim bias or prejudgment of the Chief Regulatory Officer (“CRO”)
+in connection with the CRO’s participation in discussions regarding the terms and conditions of
+this Letter of Consent, or other consideration of this Letter of Consent, including acceptance or
+rejection of this Letter of Consent.
+
+The Firm agrees to pay the monetary sanction(s) upon notice that this Letter of Consent has been
+accepted and that such payment(s) are due and payable. The Firm specifically and voluntarily
+waives any right to claim that it is unable to pay, now or at any time hereafter, the monetary
+sanction(s) imposed in this matter.
+
+The Firm understands that submission of this Letter of Consent is voluntary and will not resolve
+this matter unless and until it has been reviewed and accepted by the CRO, pursuant to Exchange
+Rule 13.3. If the Letter of Consent is not accepted, it will not be used as evidence to prove any of
+the allegations against the Firm.
+
+The Firm understands and acknowledges that acceptance of this Letter of Consent will become
+part of its disciplinary record and may be considered in any future actions brought by C2 or any
+other regulator against the Firm.
+
+The Firm understands that it may not deny the charges or make any statement that is inconsistent
+with the Letter of Consent. The Firm may attach a Corrective Action Statement to this Letter of
+Consent that is a statement of demonstrable corrective steps taken to prevent future misconduct.
+Any such statement does not constitute factual or legal findings by the Exchange, nor does it reflect
+the views of the Exchange or its staff.
+
+8 This settlement relates to other settlements the Firm reached with BOX Exchange LLC, Cboe BZX Exchange, Inc.,
+Cboe Exchange, Inc., Cboe EDGX Exchange, Inc., MIAX Emerald, LLC, Miami International Securities Exchange,
+LLC, MIAX PEARL, LLC, NYSE American LLC, and NYSE Arca, Inc.
+
+4
+
+DocuSign Envelope ID: A013C4EE-0187-4EAC-9E55-92EF298FE870
+
+The undersigned, on behalf of the Firm, certifies that a person duly authorized to act on its
+behalf has read and understands all of the provisions of this Letter of Consent and has been
+given a full opportunity to ask questions about it; that it has agreed to the Letter of Consent’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other
+than the terms set forth herein, has been made to induce the Firm to submit it.
+
+Date: March 3, 2023
+
+Susquehanna Securities, LLC
+
+»
+
+Brian Sopinsk
+Name: y
+
+Title: Secretary
+

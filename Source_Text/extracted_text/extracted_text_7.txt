@@ -1,0 +1,405 @@
+TO:
+
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2019060646801
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+Laidlaw & Company (UK) Ltd. (Respondent)
+Member Firm
+CRD No. 119037
+
+Pursuant to FINRA Rule 9216, Respondent Laidlaw & Company (UK) Ltd. (Laidlaw) submits
+this Letter of Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement
+of the alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+
+I.
+ACCEPTANCE AND CONSENT
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+
+BACKGROUND
+
+Laidlaw has been a FINRA member since July 2002. Laidlaw maintains eight branch
+offices, employs approximately 75 registered representatives, and operates a full-service
+brokerage business. !
+
+OVERVIEW
+
+Laidlaw conducted a securities business while failing to maintain the required minimum
+net capital during four periods between February 2018 and July 2022. As a result,
+Respondent violated Section 15(c) of the Securities Exchange Act of 1934 and Rule
+15c3-1 thereunder, and FINRA Rules 4110(b) and 2010.
+
+During those periods, Laidlaw also failed to timely file required notices of net capital
+deficiency with the SEC and FINRA. Further, on March 8, 2019, Laidlaw filed an
+inaccurate notice of net capital deficiency. As a result, Respondent violated Section 17(a)
+of the Exchange Act and Exchange Act Rule 17a-11(b) thereunder, and FINRA Rule
+2010.
+
+Further, Laidlaw failed to maintain accurate books and records concerning its net capital
+position between January 2018, and July 2022, and filed 24 inaccurate Financial and
+
+' For more information about the firm, including prior regulatory events, visit BrokerCheck® at
+www. finra.org/brokercheck.
+
+Operational Combined Uniform Single (FOCUS) reports between January 2018 and July
+2022. As a result, Laidlaw violated Section 17(a) of the Exchange Act and Exchange Act
+Rule 17a-3 and 17a-5 thereunder, and FINRA Rules 4511 and 2010.
+
+Additionally, between February 2018 and January 2019, Laidlaw’s supervisory system,
+including written supervisory procedures, was not reasonably designed to achieve
+compliance with FINRA Rule 2111 in connection with the due diligence private
+placement offerings. By virtue of the foregoing, Laidlaw violated FINRA Rules 3110 and
+2010.
+
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from cycle examinations of Laidlaw.
+
+The firm conducted a securities business while it failed to maintain the required net
+capital.
+
+Exchange Act § 15(c) and Exchange Act Rule 15c3-1 prohibit a broker-dealer from
+engaging in a securities business if its net capital falls below a certain amount. FINRA
+Rule 4110(b6)(1) provides that a member shall suspend all business operations during any
+period in which it is not in compliance with applicable net capital requirements. A
+violation of Exchange Act § 15(c), Exchange Act Rule 15c3-1, or FINRA Rule 4110(b)
+also is a violation of FINRA Rule 2010, which provides that a FINRA member, “in the
+conduct of its business, shall observe high standards of commercial honor and just and
+equitable principles of trade.”
+
+The firm’s net capital deficiencies occurred during four periods between February 2018
+and July 2022. During all of these periods, the firm’s required minimum net capital
+ranged between approximately $100,000 and approximately $240,000.
+
+First, the firm’s net capital fell below the required minimum amount on February 28,
+2018, and remained below the minimum amount through May 31, 2018, with deficiencies
+ranging from $117, 242 to $427,379. The net capital deficiencies occurred because, as of
+at least January 26, 2018, the firm improperly included a certificate of deposit in its net
+capital computation as an allowable asset, even though that certificate of deposit served
+as collateral for a line of credit.
+
+Second, the firm’s net capital again fell below the required minimum amount on
+December 31, 2018, and remained below the minimum amount through May 31, 2019,
+with deficiencies ranging from $22,792 to $944,526. These net capital deficiencies
+resulted from the improper treatment of several items in the firm’s net capital
+computations. First, the firm continued to improperly include the above-referenced
+certificate of deposit as an allowable asset despite it serving as collateral. In addition, the
+firm improperly included certain receivables, most of which were fees for investment
+banking services as allowable assets, even though they were unsecured, outstanding for
+over 30 days and not offset by a payable liability at the time they were included. The firm
+also improperly included a non-marketable convertible note as an allowable asset without
+
+2
+
+converting the note into shares of the issuer. Finally, the firm included the value of a
+warrant held by the firm as an allowable asset prior to the firm’s exercise of the warrant
+and deposit of the associated shares of an issuer (Company A).
+
+Third, on 15 days between December 18, 2019, and March 20, 2020, the firm’s net
+capital fell below the required minimum amount, with deficiencies ranging from $71,864
+to $1,355,463. On 12 of those days, the firm conducted a securities business. This
+occurred because the firm failed to take a deduction for non-marketable shares of
+Company A that it had received on December 18, 2019. Exchange Act Rule 15c3-
+1(c)(2)(vii)(1) provides that, when the marketplace can absorb only a limited number of
+shares of a security for which a ready market seemingly exists, the non-marketable
+portion of a position is subject to a 100% deduction and should be treated as a non-
+allowable asset. The Rule provides that the number of shares exceeding the aggregate of
+the most recent four-week inter-dealer trading volume should be considered non-
+marketable. The firm failed to identify instances in which the prior four-week aggregate
+trading volume of Company A stock exceeded the amount of Company A shares held by
+the firm, thereby requiring the firm to take a 100% deduction on that non-marketable
+portion of its position.
+
+Finally, the firm’s net capital again fell below the required minimum amount on February
+28, 2022, and remained below the minimum amount through July 21, 2022, with
+deficiencies ranging from $286,300 to $1,631,229. These net capital deficiencies
+occurred because the firm improperly excluded its obligations under a lease agreement
+from its net capital calculations.
+
+Therefore, the firm violated Exchange Act § 15(c), Exchange Act Rule 15c3-1, and
+FINRA Rules 4110(b) and 2010.
+
+|
+Laidlaw failed to file timely and accurate notices of net capital deficiency.
+
+Exchange Act § 17(a) and Exchange Act Rule 17a-11(b) require a FINRA member
+whose net capital declines below the minimum amount required under Exchange Rule
+15c3-1 to give notice of its net capital deficiency that same day to FINRA and the SEC,
+including the current amount of its net capital deficiency. A violation of Exchange Act §
+17(a) and Exchange Act Rule 17a-11 also is a violation of FINRA Rule 2010.
+
+On March 8, 2019, the firm filed a Rule 17a-11(b) Financial Notification with the SEC
+and FINRA that incorrectly stated its net capital position. While the filing identified that
+the firm had overstated its net capital from December 31, 2018, through February 27,
+2019, due to its treatment of the above-referenced certificate of deposit as an allowable
+asset, the filing inaccurately understated the extent of the firm’s net capital deficiencies.
+Specifically, the filing did not reflect the deficiencies caused by any of the other improper
+computations that occurred during this period, as discussed above.
+
+Additionally, between February 28, 2022, and July 21, 2022, despite receiving inquiries
+from FINRA about the firm’s net capital deficiencies, the firm failed to file timely notices
+of net capital deficiencies.
+
+Therefore, Laidlaw violated Exchange Act § 17(a) and Exchange Act Rule 17a-11(b) and
+FINRA Rule 2010.
+
+Laidlaw failed to maintain accurate books and records.
+
+Exchange Act § 17(a), Exchange Act Rule 17a-3, and FINRA Rule 4511 require FINRA
+member firms to make and keep accurate books and records, including net capital
+calculations. Exchange Act § 17(a) and Exchange Act Rule 17a-5 require FINRA
+member firms to timely file accurate FOCUS reports. A violation of Exchange Act
+
+§ 17(a), Exchange Act Rule 17a-3, Exchange Act Rule 17a-5, and FINRA Rule 4511 is
+also a violation of FINRA Rule 2010.
+
+Respondent failed to maintain accurate books and records concerning its net capital
+position between January 26, 2018, and July 21, 2022. Additionally, Respondent filed 24
+inaccurate FOCUS reports between January 2018 and July 2022 that overstated the
+amount of the firm’s net capital and excess net capital.
+
+Therefore, Laidlaw violated Exchange Act § 17(a), Exchange Act Rules 17a-3 and 17a-5,
+and FINRA Rules 4511 and 2010.
+
+Laidlaw’s supervisory system was not reasonably designed to achieve compliance
+with FINRA rules governing private placement due diligence.
+
+FINRA Rule 3110(a) requires a member firm to establish and maintain a system to
+supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA
+rules. FINRA Rule 3110(b) requires a member firm to establish, maintain, and enforce
+written procedures to supervise the types of business in which it engages and the
+activities of its associated persons that are reasonably designed to achieve compliance
+with applicable securities laws and regulations, and with applicable FINRA Rules. A
+violation of FINRA Rule 3110 also is a violation of FINRA Rule 2010.
+
+FINRA Regulatory Notice 10-22 reminded broker-dealers of their obligation to conduct a
+reasonable investigation of the issuer and the securities they recommend in private
+placements under Regulation D of the Securities Act of 1933. A firm’s obligation to
+investigate is based on the suitability requirements of FINRA Rule 2111, which provides
+that a firm must have reasonable grounds to believe that a recommendation to purchase,
+sell or exchange a security is suitable for the customer. To satisfy “reasonable basis”
+suitability, a firm must have a reasonable basis to believe, based on a reasonable
+investigation, that the security is suitable for some investors. Regulatory Notice 10-22
+provides that firms must have supervisory procedures that are reasonably designed to
+ensure, among other itis, that the firm’s personnel investigate each private placement
+the firm recommends and that they do so in a manner that is sufficiently rigorous to
+comply with legal and regulatory requirements. In addition, Regulatory Notice 10-22
+provides that firms should retain records documenting both the process and results of
+their investigations,
+
+Between February 2018 and January 2019, the firm maintained written supervisory
+procedures (WSPs) requiring its representatives, when engaging in Regulation D
+offerings, to conduct a reasonable investigation of the issuer and its management, and to
+document their due diligence reviews and investigations. However, the firm did not
+provide any guidance regarding how representatives should document due diligence
+reviews, or who was responsible for ensuring that the firm had done so.
+
+In connection with three private placements the firm recommended to customers between
+February 2018 and January 2019, the firm failed to conduct and document reasonable
+investigation of the offerings. Specifically, the firm served as placement agent for a
+private placement offering by an educational technology company (Offering A). Rather
+than conducting an independent investigation, the firm relied almost exclusively on
+documentation and information the issuer provided. The firm’s due diligence file for
+Offering A contained documents provided by the issuer, but did not contain any evidence
+that the firm reviewed or analyzed those documents or conducted any other review of the
+issuer or its management. Additionally, the firm sent the issuer a “due diligence
+checklist” requesting various information and documents, but the firm did not receive a
+completed checklist or document that it had otherwise received the requested information
+from the issuer or performed any analysis of that information. The firm also served as the
+introducing broker for two private placement offerings by biotechnology companies
+(Offering B and Offering C). As with Offering A, the firm relied almost exclusively on
+documentation and information the issuers of Offerings B and C provided, and the firm’s
+due diligence files did not contain evidence that the firm reviewed any of the documents
+it received in connection with the offerings or that it conducted any other reviews of the
+issuers or their management.
+
+Therefore, Laidlaw|violated FINRA Rules 3110 and 2010.
+
+Respondent also consents to the imposition of the following sanctions:
+7 a censure;
+. a $200,000 fine; and
+
+* An undertaking that, within 60 days of the date of the notice of acceptance of this
+AWC, a member of Respondent’s senior management who is a registered
+principal of the firm shall certify in writing that, as of the date of the certification,
+the firm has remediated the issues identified in this AWC and implemented a
+supervisory system, including written supervisory procedures, reasonably
+designed to achieve compliance with FINRA rules governing private placement
+due diligence regarding the issues identified in this AWC. The certification shall
+include a narrative description and supporting exhibits sufficient to demonstrate
+Respondent’s remediation and implementation. FINRA staff may request further
+evidence of Respondent’s remediation and implementation, and Respondent
+agrees to provide such evidence. Respondent shall submit the certification to and
+Robert Fair, Senior Counsel, and Carolyn O’Leary, Senior Counsel, Brookfield
+Place, 200 Liberty Street, New York, New York 10281, robert.fair@finra.org and
+
+5
+
+carolyn.oleary@finra.org, with a copy to EnforcementNotice@finra.org. Upon
+
+written requi
+
+est showing good cause, FINRA staff may extend this deadline.
+
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+
+matter.
+
+The sanctions impo}
+
+sed in this AWC shall be effective on a date set by FINRA.
+
+I.
+
+WAIVER OF PROCEDURAL RIGHTS
+
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+
+Code of Procedure: |
+
+A.
+
+B.
+
+To have ac
+
+mplaint issued specifying the allegations against it:
+
+To be notified of the complaint and have the opportunity to answer the allegations
+
+in writing;
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+
+to have a wr
+issued; and
+
+itten record of the hearing made, and to have a written decision
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+
+of the Chief Legal Officer,
+
+the NAC, or any member of the NAC, in connection with such
+
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+
+Respondent further specifi
+the ex parte prohibitions o
+
+Heed and voluntarily waives any right to claim that a person violated
+
+FINRA Rule 9143 or the separation of functions prohibitions of
+
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+
+UI.
+
+Respondent understands that:
+
+A.
+
+OTHER MATTERS
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+
+9216;
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+If accepted:
+
+L.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that : AWC is without factual basis. Respondent may not take any
+
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+
+FINRA.
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+
+7
+
+2-3-2023 Thie 4) Goste
+
+Date Laidlaw & Company (UK) Ltd.
+Respondent
+Print Name: Theo S Basis
+
+Title: Chief Compliance Officer
+
+yéinsél for Respondent
+
+chenzia Ross Ference LLP
+
+1185 Avenue of the Americas, 31st Floor
+New York, New York 10036
+
+Accepted by FINRA:
+
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+February 17, 2023 bof, dn
+
+Date Carolyn O’Leary
+Senior Counsel
+FINRA
+Department of Enforcement
+Brookfield Place
+200 Liberty Street
+New York, New York 10281

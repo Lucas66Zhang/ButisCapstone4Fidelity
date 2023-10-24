@@ -1,0 +1,219 @@
+NYSE AMERICAN LLC
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2022-06-30-00019
+
+TO: NYSE AMERICAN LLC
+
+RE: — Citigroup Global Markets Inc., Respondent
+CRD No. 7059
+
+Citigroup Global Markets Inc. violated NYSE American Rule 16 (Business Conduct) by
+failing to adhere to principles of good business practice in its handling of a customer
+options order on March 8, 2022. Consent to a censure and $45,000 fine.
+
+* * *
+
+Pursuant to Rule 9216 of the NYSE American LLC (“NYSE American” or the “Exchange’’)
+Code of Procedure, Citigroup Global Markets Inc. (““CGMI” or the “Firm”) submits this Letter of
+Acceptance, Waiver, and Consent (“AWC”) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, NYSE American will not bring any future actions against the Firm alleging violations
+based on the same factual findings described herein.
+
+I. ACCEPTANCE AND CONSENT
+
+A. CGM hereby accepts and consents, without admitting or denying the findings, and solely
+for the purposes of this proceeding and any other proceeding brought by or on behalf of
+NYSE American, or to which NYSE American is a party, prior to a hearing and without
+an adjudication of any issue of law or fact, to the entry of the following findings by
+NYSE American:
+
+BACKGROUND AND JURISDICTION
+
+1. CGMLIis registered with the Securities and Exchange Commission as a broker-dealer
+and investment adviser and has been a member of NYSE American since February
+1988. Its principal place of business is in New York, New York.
+
+VIOLATIONS
+
+2. NYSE American Rule 16 requires every member and member organization to “at all
+times adhere to the principles of good business practice in the conduct of its business
+affairs”
+
+3. On March 8, 2022, a trader on CGMI’s Equity Derivatives desk, who had worked in
+the industry for approximately six months, received a customer order to buy 1,000
+puts “best way,” with no price instruction. The CGMI trader then instructed a floor
+
+broker on NYSE American to execute the order, with CGMI crossing 342 of the
+1,000 contracts and the floor broker seeking liquidity for the remaining 658 contracts.
+
+While the floor broker was seeking additional liquidity, the price of the options
+contracts began increasing, and the CGMI trader instructed the floor broker, “just try
+to get them done, we can stop them at 2.20.” The floor broker asked whether the
+trader was “committed” at that price, which the CGMI trader mistakenly confirmed.
+The floor broker executed three contracts electronically at $2.19 and systematized
+the remaining 997 contracts at $2.20 with CGMI on the other side. The order was
+announced in open outcry and released at 12:24:08 p.m.
+
+. The CGMI trader then called the floor broker seeking to cancel the order at 12:24:29
+
+p.m. The floor broker informed the CGMI trader that they had purchased three
+contracts electronically, and that 50 contracts had traded in the trading crowd on the
+NYSE American floor. The floor broker further told the CGMI trader that the trading
+crowd would, “probably be okay busting that if you want to bust the whole trade,”
+which should have served as an indication to the CGMI trader that the order had been
+executed. The trader, however, confirmed he wanted to cancel the trade, believing
+that it was an unexecuted order.
+
+. The CGMI trader subsequently executed 997 contracts electronically for $2.55, a
+worse price for the customer than the original $2.20 execution price, resulting in
+$34,895 in harm to CGMI’s customer.
+
+. Accordingly, CGMI failed to adhere to the principles of good business practice in
+violation of NYSE American Rule 16.
+
+RELEVANT PRIOR DISCIPLINARY HISTORY
+
+On April 16, 2020, CGMI consented to a censure and fine of $95,000 for violating
+NYSE American Rule 16 in connection with the handling of a customer options
+order. See NYSE American Matter No. 2017-11-00111.
+
+OTHER FACTORS CONSIDERED
+
+In determining to resolve this matter on the basis set forth herein, NYSE Regulation
+took into consideration, among other things, that the Firm offered restitution to its
+customer in the amount of $34,895, which the customer accepted, and certain
+remedial measures taken by the Firm.
+
+SANCTIONS
+
+The Firm also consents to the imposition of the following sanctions:
+
+. Censure and fine in the amount of $45,000
+
+The Firm agrees to pay the monetary sanction(s) upon notice that this AWC has been
+accepted and that such payment(s) are due and payable. The Firm has submitted a
+
+2
+
+Method of Payment Confirmation form showing the method by which it will pay the fine
+imposed.
+
+The Firm specifically and voluntarily waives any right to claim that it is unable to pay,
+now or at any time hereafter, the monetary sanction(s) imposed in this matter.
+
+Il. WAIVER OF PROCEDURAL RIGHTS
+
+The Firm specifically and voluntarily waives the following rights granted under the NYSE
+American Code of Procedure:
+
+A. To have a Formal Complaint issued specifying the allegations against the Firm;
+
+B. To be notified of the Formal Complaint and have the opportunity to answer the
+allegations in writing;
+
+C. To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made and to have a written decision issued;
+and
+
+D. To appeal any such decision to the Exchange’s Board of Directors and then to the
+
+U.S. Securities and Exchange Commission and a U.S. Court of Appeals.
+
+Further, the Firm specifically and voluntarily waives any right to claim bias or prejudgment of
+the Chief Regulatory Officer of NYSE American; the Exchange’s Board of Directors,
+Disciplinary Action Committee (“DAC”), and Committee for Review (“CFR”); any Director,
+DAC member, or CFR member; Counsel to the Exchange Board of Directors or CFR; any other
+NYSE American employee; or any Regulatory Staff as defined in Rule 9120 in connection with
+such person’s or body’s participation in discussions regarding the terms and conditions of this
+AWC, or other consideration of this AWC, including acceptance or rejection of this AWC.
+
+The Firm further specifically and voluntarily waives any right to claim that a person violated the
+ex parte communication prohibitions of Rule 9143 or the separation of functions prohibitions of
+Rule 9144, in connection with such person’s or body’s participation in discussions regarding the
+terms and conditions of this AWC, or other consideration of this AWC, including its acceptance
+or rejection.
+
+lil. OTHER MATTERS
+The Firm understands that:
+
+A. Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed by NYSE Regulation, and accepted by the Chief
+Regulatory Officer of NYSE American pursuant to NYSE American Rule 9216;
+
+B. If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against the Firm; and
+
+Cc. If accepted:
+
+1. The AWC shall be sent to each Director and each member of the Committee
+for Review via courier, express delivery or electronic means, and shall be
+deemed final and shall constitute the complaint, answer, and decision in the
+matter, 10 days after it is sent to each Director and each member of the
+Committee for Review, unless review by the Exchange Board of Directors is
+requested pursuant to NYSE American Rule 9310(a)(1)(B);
+
+2. This AWC will become part of the Firm’s permanent disciplinary record and
+may be considered in any future actions brought by the Exchange, or any
+other regulator against the Firm;
+
+3. NYSE American shall publish a copy of the AWC on its website in
+accordance with NYSE American Rule 8313;
+
+4. NYSE American may make a public announcement concerning this
+agreement and the subject matter thereof in accordance with NYSE American
+Rule 8313; and
+
+5. The Firm may not take any action or make or permit to be made any public
+statement, including in regulatory filings or otherwise, denying, directly or
+indirectly, any finding in this AWC or create the impression that the AWC is
+without factual basis. The Firm may not take any position in any proceeding
+brought by or on behalf of the Exchange, or to which the Exchange is a party,
+that is inconsistent with any part of this AWC. Nothing in this provision
+affects the Firm’s (1) testimonial obligations; or (ii) right to take legal or
+factual positions in litigation or other legal proceedings in which the
+Exchange is not a party.
+
+D. A signed copy of this AWC and the accompanying Method of Payment
+Confirmation form delivered by email, facsimile or other means of electronic
+transmission shall be deemed to have the same legal effect as delivery of an
+original signed copy.
+
+E. The Firm may attach a Corrective Action Statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+The Firm understands that it may not deny the charges or make any statement that
+is inconsistent with the AWC in this Statement. Any such statement does not
+constitute factual or legal findings by the Exchange, nor does it reflect the views
+of NYSE Regulation or its staff.
+
+The Firm certifies that, in connection with each of the Exchange’s requests for information in
+connection with this matter, the Firm made a diligent inquiry of all persons and systems that
+reasonably had possession of responsive documents and that all responsive documents have been
+produced. In agreeing to the AWC, the Exchange has relied upon, among other things, the
+completeness of the document productions.
+
+The undersigned, on behalf of the Firm, certifies that a person duly authorized to act on its behalf
+has read and understands all of the provisions of this AWC and has been given a full opportunity
+to ask questions about it; that it has agreed to the AWC’s provisions voluntarily; and that no
+offer, threat, inducement, or promise of any kind, other than the terms set forth herein and the
+prospect of avoiding the issuance of a Complaint, has been made to induce the firm to submit it.
+
+3/14/23
+Citigroup Global Markets Inc.,
+Date Respondent
+
+By:
+Mary Reisert
+Managing Director
+
+Accepted by NYSE Regulation
+
+March 14, 2023 Keont Bagluy
+
+Date Kassie Bagley
+Enforcement Counsel
+NYSE Regulation
+
+Signed on behalf of NYSE American LLC,
+by delegated authority from its Chief
+Regulatory Officer

@@ -1,10 +1,9 @@
 import pandas as pd
-import numpy as np
 import tqdm as tqdm
-import PaLM
 import os
 from PaLM import get_PaLM_result
 from dotenv import load_dotenv
+from Bart import get_Bart_result
 
 def get_prompt_positive(text : str) -> str:
     """Create a prompt template for positive summary generation.\n
@@ -100,6 +99,8 @@ def generate_negative_summary(text, model = 'PaLM'):
         google_api_key = os.getenv("GOOGLE_API_KEY")
         prompt = get_prompt_negative(text, google_api_key)
         result = get_PaLM_result(prompt)
+    elif model == 'Bart':
+        result = get_Bart_result(text)
         
     return result
 

@@ -97,8 +97,8 @@ def generate_negative_summary(text, model = 'PaLM'):
     if model == 'PaLM':
         load_dotenv()
         google_api_key = os.getenv("GOOGLE_API_KEY")
-        prompt = get_prompt_negative(text, google_api_key)
-        result = get_PaLM_result(prompt)
+        prompt = get_prompt_negative(text)
+        result = get_PaLM_result(prompt, google_api_key)
     elif model == 'Bart':
         result = get_Bart_result(text)
         
@@ -139,21 +139,5 @@ def generate_paraphrase_summary(reference_summary, model = 'PaLM'):
         result = get_PaLM_result(prompt, google_api_key)
     return result
 
-def __init__():
-    df = pd.read_csv("../Source_Text/reference_summary_original_text.csv")
-    text = df['text_extracted'][2]
 
-
-    positive_result = generate_positive_summary(text)
-    negative_result = generate_negative_summary(text)
-
-    with open("./testing/positive_result.txt", "w") as f:
-        f.write(positive_result)
-
-    with open("./testing/negative_result.txt", "w") as f:
-        f.write(negative_result)
-
-    reference_summary = df['Enforcement Summary'][2]
-    with open("./testing/reference_summary.txt", "w") as f:
-        f.write(reference_summary)
     

@@ -19,7 +19,7 @@ reference_summary = df['Enforcement Summary'][2]
 with open("../../samples/Summary_Generation/reference_summary.txt", "w") as f:
     f.write(reference_summary)
     
-falsified_summary = generate_paraphrase_summary(reference_summary)
+falsified_summary = generate_falsify_summary(reference_summary)
 with open("../../samples/Summary_Generation/falsified_summary.txt", "w") as f:
     f.write(falsified_summary)
 

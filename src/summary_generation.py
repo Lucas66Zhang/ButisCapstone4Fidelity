@@ -46,7 +46,7 @@ def get_prompt_falsify(reference_summary:str) -> str:
     """
     
     template = f"""
-Given the reference summary, produce a plausible but incorrect summary.
+Given the summary provided, manipulate its content to produce a falsified version. Ensure that the falsified summary is coherent, grammatically correct, and appears plausible, but deviates from the original's factual content. Use dependency-based manipulations such as changing subjects, objects, or inverting relationships to craft the new summary.
 ```{reference_summary}```
 SUMMARY:
 """
@@ -61,7 +61,7 @@ def get_prompt_paraphase_summary(reference_summary : str) -> str:
     """
     
     template = f"""
-Given the reference summary, produced a paraphrased summary.
+Given the reference summary, produce a paraphrased version with same length as reference summary.
 ```{reference_summary}```
 SUMMARY:
 """

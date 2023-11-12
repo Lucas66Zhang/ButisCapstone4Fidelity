@@ -1,9 +1,9 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
-
+import math
 import torch
 
 class Guidance:
-    def __init__(self, LM_name:str, device:str="cpu"):
+    def __init__(self, LM_name, device="cpu"):
         """Initialize a Guidance to restrict the output of a given language model.
 
         Args:
@@ -16,7 +16,7 @@ class Guidance:
         if device != "cpu":
             self.LM.to(self.device)
 
-    def generate(self, prompt:str, options:list[str])->tuple(str, dict[str:float]):
+    def generate(self, prompt, options):
         """Generate a text from a prompt, restricted to the options given.
 
         Args:
@@ -31,13 +31,17 @@ class Guidance:
             inputs = inputs.to(self.device)
         last_logits = self.LM(**inputs).logits[:, -1, :]
         options_idx = [self.tokenizer.encode(option, add_special_tokens=False)[0] for option in options]
-        last_logits_options = last_logits[:, options_idx]
-        probs = torch.softmax(last_logits_options, dim=-1)
-        best_option_idx = torch.argmax(probs, dim=-1)
+        last_logits_options = [last_logits[:,option_idx].item() for option_idx in options_idx]
+        #print('The shape of last_logits_options is: ', len(last_logits_options))
+        probs = [math.exp(logit) for logit in last_logits_options]
+        #print('The shape of probs is: ', len(probs))
+        best_option_idx = probs.index(max(probs))
         best_option = self.tokenizer.decode(options_idx[best_option_idx])
-        prob_dict = dict(zip(options, probs.tolist()))
+        #prob_dict = dict(zip(options, probs.tolist()))
+        sum_probs = sum(probs)
+        probs = [number/sum_probs for number in probs]
 
-        return best_option, prob_dict
+        return best_option, probs
 
         
         

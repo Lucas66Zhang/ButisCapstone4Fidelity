@@ -1,0 +1,1118 @@
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 1 of 31 PagelD: 608
+
+Counsel of Record
+
+A. Kristina Littman
+
+Stephan J. Schlegelmilch
+
+Reid A. Muoio
+
+Brent S. Mitchell
+
+U.S. SECURITIES AND EXCHANGE COMMISSION
+100 F Street, N.E.
+
+Washington, DC 20549
+
+Telephone: (202) 551-4935
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEW JERSEY
+
+UNITED STATES SECURITIES AND : Case No. 2:17-cv-00875-JLL-JAD
+EXCHANGE COMMISSION, :
+
+Plaintiff,
+vs.
+
+YU-CHENG LIN, a/k/a BELIEVE LIN;:
+JURY TRIAL DEMANDED
+Defendant.
+
+FIRST AMENDED COMPLAINT
+
+Plaintiff United States Securities and Exchange Commission (the “Commission”), 100 F
+Street, N.E., Washington, DC 20549, alleges as follows against Defendant Yu-Cheng Lin, also
+known as Believe Lin, whose last known contact information is as follows: Residential Address, No.
+53, XinYuan Road, QiPan Village, KuKung Township, YunLin County, Taiwan 646; Postal Address,
+9F No. 32, Lane 22, GuangFu South Road, SongShan Dist., Taipei City 105, Taiwan.
+
+SUMMARY
+
+1. This civil action involves serial insider trading by the defendant, Yu-Cheng Lin
+
+(“Lin”), in advance of earnings announcements by Ubiquiti Networks Inc. (“Ubiquiti” or
+
+“company’), a publicly-traded technology company headquartered in San Jose, California. Lin was
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 2 of 31 PagelD: 609
+
+employed by Ubiquiti in Taiwan from approximately March 2011 until June 2015. Lin continues to
+work and reside in Taiwan.
+
+2. Lin engaged in at least two separate periods of insider trading in Ubiquiti securities,
+one series of trades in 2014 while he worked for Ubiquiti and another in 2016-2017.
+
+3. In 2014, Lin either tipped material nonpublic information regarding Ubiquiti or
+personally directed or controlled trading in Ubiquiti common stock using a brokerage account
+located in the United States. The account was, ostensibly, owned by a close associate of Lin (the
+“Associate Trader’), but, on information and belief, Lin directed her trades. Between January 27,
+2014, and September 2, 2014, the Associate Trader’s account traded in advance of record earnings
+announcements by Ubiquiti on February 6, May 8, and August 7, 2014. For twelve days in March
+
+2014, Lin’s Associate Trader also shorted Ubiquiti stock, and the price of Ubiquiti’s stock dropped
+
+precipitously during this period.
+
+4. As a result of trading during this period, the Associate Trader, who had been either
+directed or tipped by Lin, earned approximately $135,483 in illegal profits.
+
+5. In 2016 and 2017, after Lin had left Ubiquiti, Lin traded in advance of quarterly
+earnings announcements by Ubiquiti on May 5, August 4, November 3, 2016, and February 9, 2017,
+this time in accounts held in his own name. Lin did so by purchasing Ubiquiti common stock, call
+options, and contracts-for-differences (“CFDs”) in brokerage accounts located in the United States
+and overseas. In each instance, the trading pattern was essentially the same: Lin purchased Ubiquiti
+securities shortly before Ubiquiti’s quarterly earnings announcements and then sold his Ubiquiti
+securities shortly thereafter. Lin’s Associate Trader also took highly leveraged positions in Ubiquiti
+CFDs prior to the November 2016 and February 2017 announcements. The Associate T'radet’s
+trades mirrored Lin’s and often occurred within minutes of Lin’s trades and were executed on either
+
+the same computer or two computers utilizing the same IP address.
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 3 of 31 PagelD: 610
+
+6. In each of the three announcements during the 2016 calendar year, Ubiquiti
+announced, after the close of the market, record revenues and other positive financial news. When
+trading resumed, Ubiquiti’s stock price rose. Lin sold his positions, and his profits from his trading
+
+activity in 2016 are approximately $1,656,353:
+
+Event Stock Options CFDs Total
+May 5 $96,518.81 $ 96,518.81
+Aug. 4 $36,385.36 | $ 262,939.13 | $ 420,605.00 $ 719,929.49
+Nov. 3 $ 111,898.09 | $ 322,755.89 | $ 405,250.79 $839,904.77
+Total $ 244,802.26 | $ 585,695.02 | $ 825,855.79 $  1,656,353.07
+
+Ts On February 9, 2017, Ubiquiti again announced record revenues for the preceding
+
+quarter. However, the company’s announcement also included some negative results, including a
+drop in gross margin. When trading resumed, Ubiquiti’s stock price dropped. Lin tried to sell all of
+his positions and did sell most.
+
+8. Upon information and belief, given the facts set forth below and the reasonable
+inferences drawn from such facts, Lin has been directly and indirectly trading, and unless enjoined
+will continue to trade, Ubiquiti securities on the basis of material, nonpublic information about the
+company’s quarterly financial results. These facts and inferences include, but are not limited to, (i)
+Lin’s status as an employee and former employee of the company; (ii) the timeliness of the
+suspicious trading by the Associate Trader in 2014; (iii) Lin’s continued communication with at least
+one Ubiquiti employee possessing material, nonpublic information about the company; (iv) the
+timeliness of Lin’s suspicious trading activity around positive earnings announcements in 2016 and
+2017; (v) the profitability of his trades; (vi) the size of the transactions in relation to his reported
+income and net worth; (vii) the highly leveraged nature of his positions; (viii) his being the dominant
+—and often the only — purchaser of certain series of call options; (ix) the fact that, with only minor
+
+exceptions, Lin did not trade other securities during the relevant period in the identified accounts,
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 4 of 31 PagelD: 611
+
+and (x) similar and apparently coordinated, highly aggressive trading in Ubiquiti CFDs in 2016 and
+2017 by Lin’s Associate Trader who, like Lin, reported very modest annual income.
+
+9. By knowingly or recklessly engaging in the conduct described in this First Amended
+Complaint, Lin violated, and unless enjoined will continue to violate, the federal securities laws.
+
+JURISDICTION AND VENUE
+
+10. The Commission brings this action pursuant to Sections 21(d) and 21A of the
+Securities Exchange Act of 1934 [15 U.S.C. §§ 78u(d) and 78u-1] to enjoin such transactions, acts,
+practices, and courses of business, and to obtain disgorgement, prejudgment interest, civil money
+penalties, and such other and further relief as the Court may deem just and appropriate.
+
+11. This Court has jurisdiction over this action pursuant to Sections 21(d) and (e), 21A
+and 27 of the Exchange Act [15 U.S.C. §§ 78u(d) and (e), 78u-1 and 78aa].
+
+12. Venue in this District is proper pursuant to Section 27 of the Exchange Act [15 U.S.C.
+§ 78aa]. Certain of the transactions, acts, practices, and courses of business constituting the
+violations alleged herein occurred within the District of New Jersey and elsewhere, and were
+affected, directly or indirectly, by making use of the means or instruments or instrumentalities of
+transportation or communication in interstate commerce, or of the mails, or the facilities of a
+national securities exchange.
+
+13. Securities transactions related to this matter wete executed on servers located in New
+Jersey, including Direct Edge-EDGX and BATS in Secaucus, NYSE Arca in Mahwah, and
+NASDAQ in Carteret.
+
+DEFENDANT
+
+14. Yu-Cheng Lin (“Lin”), also known as Believe Lin, is 39 years old and resides in
+
+Taipei, Taiwan. From approximately March 2011 until June 2015, Lin was an employee of Ubiquiti,
+
+working in Ubiquiti’s Taipei office. Lin currently lives and works in Taiwan for a different company.
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 5 of 31 PagelD: 612
+
+15. Lin has a domestic brokerage account at Scottrade, Inc. (“Scottrade”) with an account
+number that ends in *0866 (the “Scottrade Account”). Lin used that account to trade Ubiquiti’s
+shares and call options. As discussed below, Lin funded the Scottrade Account from two foreign
+bank accounts and has transferred $300,000 from the Scottrade Account to one of those accounts.
+
+16. Lin has an overseas brokerage account at Saxo Bank A/S (“Saxo Bank”) and its
+
+subsidiary Saxo Capital Markets HK Ltd. (“Saxo HR”) with a “client ID” that ends in *078 and an
+
+account number that ends in *282 (the “Saxo Account”). Lin used that account to trade Ubiquiti’s
+
+shares and CFDs that reference Ubiquiti’s shares.
+
+17. Lin has an overseas bank account at Taishin International Bank with an account
+number that ends in *7268 (the “T'aishin Account”). Lin transferred money between the Taishin
+Account and his brokerage accounts.
+
+18. Lin has an overseas bank account at HSBC Bank (Taiwan) Ltd. with an account
+number that ends in *3821 (the “HSBC Account”). Lin transferred money between the HSBC
+Account and his brokerage accounts.
+
+19. Lin uses an email address that begins and ends with mit####@yahoo.com.tw (“Lin’s
+Yahoo Email Account’) (redacted) and communicated with Scottrade and Saxo Bank using that
+account. Lin also uses an email address that begins and ends with bel####@gmail.com (“Lin’s
+Gmail Email Account’) (redacted) and communicated with Saxo Bank with that account.
+
+OTHER INDIVIDUALS AND ENTITIES DISCUSSED IN THIS COMPLAINT
+
+20. Ubiquiti Networks, Inc. (“Ubiquiti”) is a corporation headquartered in San Jose,
+California that develops networking technology for service providers and enterprises. Ubiquiti’s
+shares of common stock are traded on the NASDAQ Global Select Market under the symbol
+
+“UBNT.” Transactions in Ubiquiti shares occur, inter alia, on servers located in New Jersey,
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 6 of 31 PagelD: 613
+
+including Direct Edge-EDGX and BATS in Secaucus, NYSE Arca in Mahwah, and NASDAQ in
+Carteret.
+
+21. “The Associate Trader,” whose identity is known to the Commission, is a 34-year-
+old woman residing in Taipei, Taiwan. Based on account opening documents, the Associate Trader
+had an annual income of less than $30,000 in 2014, and €50,000 to €100,000 in 2016; she is a part-
+time hair designer. The Associate Trader had accounts at E*TRADE Securities LLC in 2014 and
+Saxo Bank in 2016 and 2017. In 2016 and 2017, the Associate Trader and Lin traded in parallel,
+often within minutes or seconds of each other and often from either the same computer or two
+computers utilizing the same IP address. On information and belief, Lin directed or controlled the
+trading in the Associate Trader’s accounts.
+
+22. Scottrade, Inc. (“Scottrade”) is a brokerage firm headquartered in St. Louis, Missouri
+that provides financial services to individual investors through an online platform and branch
+network. It has been registered with the Commission as a broker-dealer since 1980.
+
+23, E*TRADE Securities LLC (“E*TRADE?) is a brokerage firm headquartered in
+New York, New York that provides financial services to individual investors through an online
+platform. It has been registered with the Commission as a broker-dealer since 1991.
+
+24. Saxo Bank A/S (“Saxo Bank”) is a Danish company headquartered in Copenhagen.
+Saxo Capital Markets HK Ltd. (“Saxo HK”) is a broker-dealer located in Hong Kong and
+regulated by the Securities and Futures Commission of Hong Kong. Saxo HK is a subsidiary of
+Saxo Bank.
+
+25. ‘Taishin International Bank Co. Ltd. (“Taishin”’) is an international bank with
+headquarters in Taiwan with operations in Hong Kong, Singapore and other countries. Taishin
+
+offers retail banking, securities investments, life insurance and other products.
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 7 of 31 PagelD: 614
+
+26. HSBC Bank (Taiwan) Ltd. (“HSBC Taiwan’) is a subsidiary of HSBC Holdings plc,
+an international bank with headquarters in London and operations in 71 countries and territories,
+including the United States. In Taiwan, HSBC offers retail banking and other products.
+
+TERMS USED IN THIS COMPLAINT
+
+Options
+
+27. A stock option gives its purchaser-holder the option to buy or sell shares of an
+underlying stock at a specified price (the “strike” price) at a later date. Options are generally sold in
+“contracts,” which give the option holder the opportunity to buy or sell 100 shares of an underlying
+stock.
+
+28. A “call” option gives the purchaser-holder of the option the right, but not the
+obligation, to purchase the underlying security at the specified strike price within a specific time
+period. Generally, the buyer of a call option anticipates that the price of the underlying security will
+increase during a specified amount of time.
+
+29. A stock option is often described by the underlying stock, strike price, and the period
+
+for which it is operative. For example, a call option that gives the purchaser-holder the option to
+buy Ubiquiti shares at $38 that expires in August 2016 can be abbreviated as “UBNT 38 August
+2016 call options.”
+
+Margin
+
+30. “Margin,” when used in connection with a brokerage account, is typically defined as
+borrowed money that is used to purchase securities. This practice is referred to as “buying on
+margin.”
+
+31. Buying with borrowed money can be extremely risky because both gains and losses are
+
+amplified. That is, while the potential for greater profit exists, there is a corresponding potential for
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 8 of 31 PagelD: 615
+
+greater losses. Buying on margin also subjects a trader to additional costs such as an interest
+payment for use of the borrowed money.
+
+CFDs
+
+32. A“CFD” is a stock derivative that is an agreement between two parties to exchange
+the difference in value of an underlying stock between the time the contract is opened and the time
+at which it is closed. If the share price increases for the underlying security, the seller pays the
+difference to the buyer. If the share price declines, the buyer must pay the seller.
+
+33. “Notional value” refers to the cash value of the positions in an underlying stock.
+
+34. “Leverage” refers to the difference between the amount of money a trader has on
+deposit at a CFD firm and the notional value of the underlying securities traded.
+Where traders use leverage, a trader can obtain positions with a notional value far larger than the
+amount of money the trader has on deposit at the CFD Firm. For example, Lin took CFD positions
+in late July and early August 2016 that had a notional value of more than $3 million, while he had a
+balance of only approximately $700,000 with the firm.
+
+IP Addresses
+
+35. Every computer or device on an electronic network has a unique numeric identifier.
+Computers use these unique identifiers to send data to specific computers on a network. Most
+networks today, including all computers on the Internet, use the TCP/IP protocol as the standard
+for how to communicate on the network. In the TCP/IP protocol, the unique identifier for a
+computer is called its “IP address.”
+
+36. ‘These unique IP addresses can be used to identify a specific computer or device and
+the geographic location where the computer or device accessed the Internet. In an effort to identify
+fraud, most on-line brokerages log the IP address of each computer or device that accesses a
+
+customet’s on-line account.
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 9 of 31 PagelD: 616
+
+HOW CFDs WORK
+
+37. Because equity CFDs mirror the movement and pricing of the underlying stock on a
+dollar-for-dollar basis, any fluctuation in the public market price of the underlying security is
+reflected in the unrealized gain or loss of the CFD position. The purchase and sale prices of equity
+CFDs ate generally identical to the prices quoted for the shares on the public exchange on which the
+underlying stock is listed.
+
+38. CFDs are often purchased using leverage so that traders can purchase a CFD with a
+notional value larger than the cash that they deposit with the CFD firm. Generally, a CFD investor
+benefits by acquiring the future price movement of the underlying stock without having to pay for
+or take formal ownership of the underlying stock.
+
+39. Usually, purchasers of CFDs also receive other benefits commonly associated with
+stock ownership, such as the right to receive dividend payments and participate in stock splits.
+CFDs normally do not have an expiration date or a delivery date, and there is no restriction on the
+entry or exit price of a CFD.
+
+40. An equity CFD investor typically purchases a long position in the same manner in
+which he or she would purchase common stock, by submitting an order with a CFD provider to buy
+a certain number of CFDs in a particular stock. The provider ordinarily purchases the
+corresponding number of the underlying shares to hedge its position and writes the CFDs to the
+investor at the same price. As with a traditional stock transaction, the buyer is able to enter market,
+limit, or stop loss orders when initiating CFD positions. Here, Lin was advised, prior to purchasing
+the CFDs at issue, that Saxo Bank, the broker/provider, would cover his purchase of Ubiquiti CFDs
+by purchasing equivalent amounts of Ubiquiti common stock.
+
+41. Finally, when initiating an equity CFD position, the investor normally is not required
+
+to pay for the related shares or pay any premium. So the only costs associated with CFDs are
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 10 of 31 PagelD: 617
+
+transaction fees charged by CFD providers when a customer opens and closes a position, plus a
+potential payout based on any decline in the value of the underlying asset. However, CFD providers
+
+typically require the investor to post margin on the underlying equity value.
+
+UBIQUITI’S MATERIAL, NONPUBLIC INFORMATION
+
+42. At the end of each quarter, Ubiquiti employees collect financial information and draft
+financial statements, a press release announcing financial results, and filings to make with the
+Commission. Information about revenue, gross margin and earnings is kept highly confidential
+within Ubiquiti. Only employees with a business reason to know the financial information are
+provided with that information.
+
+43. Specifically, Ubiquiti kept confidential the revenue, gross margin, earnings and other
+financial measures reported in the quarterly earnings announcements on February 6, May 8, and
+August 7, 2014, May 5, August 4, November 3, 2016, and February 9, 2017, until those
+announcements were released to the public.
+
+44. Ubiquiti requires that employees sign confidentiality agreements. Lin signed multiple
+confidentiality agreements when he worked at Ubiquiti.
+
+45. Ubiquiti has a written policy that forbids employees from trading Ubiquiti securities
+using nonpublic information. The policy expressly warned employees that insider trading was illegal
+under the United States securities laws, and that violations of those laws could lead to prosecution
+by the Commission and expose a violator to criminal sanctions and imprisonment. The company’s
+written insider trading policy also informed employees that the company’s “[f]inancial results,
+financial condition, earnings pre-announcements, guidance, projections or forecasts” are “material”
+information subject to the insider trading rules and prohibitions. Lin knew of Ubiquiti’s policy
+
+against insider trading.
+
+10
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 11 of 31 PagelD: 618
+
+46. Additionally, Ubiquiti created and distributed to employees a Code of Business
+Conduct and Ethics, which also contained a provision regarding the importance of maintaining the
+confidentiality of the company’s information. Lin expressly acknowledged that he had received and
+read the Code of Business Conduct and Ethics.
+
+DEFENDANT?’S ACCESS TO UBIQUITI’S MATERIAL NONPUBLIC INFORMATION
+
+47. When Lin worked for Ubiquiti, he held the role of Director of Operations in
+Ubiquiti’s Taipei facility.
+
+48. As Director of Operations, Lin had access to material nonpublic information about
+Ubiquiti. As such, Lin was subject to the restrictions in trading set forth in, inter alia, Ubiquiti’s
+written insider trading policy.
+
+49. After Lin left Ubiquiti, he remained in contact with at least one employee who served
+as a Product Manager in Taipei, including by email, instant message, telephone and in-person
+meetings. One of the topics that Lin discussed with the employee was options trading.
+
+50. Ubiquiti Product Managers oversee the manufacturing of products by contract
+manufacturers, which Ubiquiti sells to its customers. Product Managers have access to, among other
+
+things, forecasts about demand for certain products. These forecasts predict how much product
+
+Ubiquiti will need to order from its contract manufacturers for the upcoming two to four months in
+order to fulfill anticipated customer orders. Thus, Product Managers are aware of changes to certain
+of Ubiquiti’s sales and projected sales, which Ubiquiti keeps confidential until it publicly announces
+quarterly earnings.
+
+51. Product Managers at Ubiquiti did not have access to Ubiquiti’s full financial picture.
+For example, they did not generally have access to information about Ubiquiti’s expenses or gross
+margin. In addition, they did not have access to Ubiquiti’s financial statements or drafts of the
+
+quarterly press releases or filings, including calculations about earnings per share or gross margin.
+
+11
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 12 of 31 PagelD: 619
+
+DEFENDANT’S MONEY AND ACCOUNTS
+
+52. Lin used multiple bank and brokerage accounts to fund and conduct his trading of
+Ubiquiti securities. Based on Lin’s representations, Lin funded his brokerage accounts by borrowing
+hundreds of thousands of dollars from other, as yet unknown individuals based on agreements
+whose terms the Commission is presently unable to determine.
+
+53. The Associate Trader opened an account at E*TRADE in January 2014, but withdrew
+nearly all of the money from the account on September 5, 2014. The account is still active and
+currently has a balance of $0.20.
+
+54. In December 2015, Lin opened the Scottrade Account. Lin funded the Scottrade
+Account in December 2015 by transferring $55,000 from the Taishin Account and $377,000 from
+the HSBC Account.
+
+55. In April 2016, Lin transferred $300,000 from the Scottrade Account to the HSBC
+Account. That was the only transfer out of the Scottrade Account during the Relevant Period.
+
+56. In June 2016, Lin opened the Saxo Account. From June to December 2016, Lin
+funded the Saxo Account by transferring money from the Taishin Account — $214,979.50 in June
+2016, $289,968.50 in July 2016, $197,479.50 in August 2016, and $188,361.50 in October 2016.
+During the same period, Lin transferred $600,000 out of the Saxo Account to the Taishin Account -
+- $300,000 in August 2016 and $300,000 in December 2016.
+
+57. In October 2016, the Associate Trader opened an account at Saxo Bank. Lin assisted
+the Associate Trader to open the account, informing Saxo Bank that the Associate Trader “want[ed]
+to buy US Stock/CFD also.” The Associate Trader funded her Saxo Bank account by transferring
+$429,000 on November 2, 2016, and $299,000 on November 3, 2016.
+
+58. On February 2, 2017, Lin funded his Saxo Account by transferring $614,979.50 from
+
+the Taishin Account.
+
+12
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 13 of 31 PagelD: 620
+
+59. According to a sworn declaration submitted by Lin, Lin contends that he borrowed
+much or all of the money deposited into the Saxo Account from other, unknown individuals based
+on agreements whose terms the Commission is presently unable to determine.
+
+60. On or after February 10, 2017, and after Lin had been served with this Court’s
+February 9, 2017 temporary restraining order, Lin instructed Saxo Bank to sell or close out all the
+assets in the Saxo Account and to transfer all of the money to the Taishin Account. According to
+Lin and other records, Lin was in Kathmandu, Nepal when he sent this instruction.
+
+61. A few hours after Lin instructed Saxo Bank to sell or close out all the assets in his
+Saxo Account and to transfer all of the money, Saxo Bank received identical instructions regarding
+the Associate Tradet’s account. Based on the IP addtess associated with these instructions, which
+show that they were input from a computer located in Kathmandu, Nepal, it is reasonable to infer
+that Lin directed these transactions in the Associate Tradet’s account.
+
+62. Lin concedes that he had actual notice of this litigation and the Court’s February 9,
+2017 temporary restraining order and asset freeze by, at least, February 13, 2017.
+
+63. On February 15, 2017, at Lin’s request, Saxo Bank transferred $631,360.42 to Lin’s
+Taishin Account.
+
+64. In response to discovery requests and in a sworn declaration submitted to the Court,
+Lin has represented that on or after February 15, 2017, Lin gave the money from the February 15,
+2017, withdrawal to other people that he will not identify, thereby dissipating the funds he received
+from Saxo Bank, despite the Court’s February 9, 2017 restraining order.
+
+65. However, financial records indicate that Lin’s representations to the Court and the
+Commission are false. On February 16, 2017, Lin instructed Taishin to transfer NT$7,300,000 — or
+
+about $240,000 — to an account at HSBC whose beneficiary has the family name “Lin.”
+
+13
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 14 of 31 PagelD: 621
+
+66. On February 16, 2017, Lin also instructed Taishin to transfer NT$8,015,987 — or
+about $263,000 — to Global Securities Finance Corporation, a company that, upon information and
+belief, is a company that allows its customers to trade securities on margin.
+
+67. On February 21, 2017, Lin instructed Taishin to transfer $171,682 to an E Sun
+Commercial Bank account whose beneficiary is identified as “Yu-Cheng Lin.”
+
+68. The current location of the funds withdrawn from the Associate Tradet’s Saxo Bank
+
+account is presently unknown.
+
+RELEVANT TRADING ACTIVITY
+
+The Associate Trader’s Suspicious Trading in 2014
+
+69. ‘The Associate Trader opened an account at E*TRADE in January 2014, during the
+petiod that Lin was employed by Ubiquiti.
+
+70. From January 27 to February 3, 2014, the Associate Trader bought 20,000 shares of
+Ubiquiti common stock for $811,624.70. At 4:30 pm on February 6, 2014, Ubiquiti announced
+record earnings. Ubiquiti’s stock price increased from a closing price of $40.94 on February 6, 2014
+to $42.46 on February 7 and continued rising, reaching $50.00 on February 18. From February 7 to
+February 18, 2014, the Associate Trader sold all 20,000 Ubiquiti shares for $904,178.70, yielding a
+profit of $92,554.
+
+71. | From March 12 to March 19, 2014, the Associate Trader sold short 16,000 Ubiquiti
+shares for $864,134.32, allowing her to profit if Ubiquiti’s share price fell. The per-share price of
+Ubiquiti common stock fell precipitously from a closing price of $56.20 on Match 20, 2014 to
+$50.19 on March 24, 2014 (down 5.4% on March 24th alone). On March 24, 2014, the Associate
+Trader bought 16,000 Ubiquiti shares to cover her short position for $801,600.00, yielding a profit
+
+of $62,534.32.
+
+14
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 15 of 31 PagelD: 622
+
+72. From April 3 to May 8, 2014, the Associate Trader bought 25,000 Ubiquiti shares for
+$1,071,299.50. At 4:05 pm on May 8, 2014, Ubiquiti announced record earnings. However,
+Ubiquiti’s stock price declined from a close of $41.37 on May 8 to $31.38 on May 9. From May 13
+to June 5, 2014, the Associate Trader sold 12,000 Ubiquiti shares (at a loss) for $417,250.00. On
+June 23, 2014, the Associate Trader sold 3,000 UBNT shares (at a profit) for $138,000.00.
+
+73. From June 25 to July 15, 2014, the Associate Trader bought 9,000 Ubiquiti shares for
+$368,700.00, bringing her Ubiquiti holdings back up to 19,000 shares. At 4:00 pm on August 7,
+2014, Ubiquiti again announced record earnings. Ubiquiti’s stock price increased from a close of
+$39.32 on August 7 to $42.09 on August 8 and continued to tise into September. From August 8 to
+September 2, 2014, the Associate Trader sold all 19,000 Ubiquiti shares for $865,144.50.
+
+74. The net profit on the Associate Tradet’s trading of Ubiquiti stock in 2014 was
+$135,483.
+
+75. Given Lin and the Associate Trader’s coordinated trading in 2016 and 2017, and given
+Lin’s apparent control over or direction of the Associate Trader’s Saxo Bank account in 2016 and
+2017, it is reasonable to infer that Lin directed or controlled the Associate Tradet’s account and
+trading in Ubiquiti securities in 2014, while Lin was in possession of material, nonpublic information
+regarding Ubiquiti.
+
+Lin’s Suspicious Trading in 2016 and 2017
+
+76. Upon information and belief, and based upon the reasonable inferences drawn from
+the evidence presented herein, Lin also improperly obtained and traded in his own name on the
+basis of material nonpublic information concerning Ubiquiti’s positive earnings announcements in
+2016 and 2017.
+
+77. Specifically, Lin traded in advance of quarterly earnings announcements by Ubiquiti on
+
+May 5, August 4, November 3, 2016, and February 9, 2017. Lin did so by purchasing Ubiquiti
+
+15
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 16 of 31 PagelD: 623
+
+common stock, call options and CFDs in the Scottrade Account and the Saxo Account. In each
+instance, the trading pattern was essentially the same: Lin bought Ubiquiti securities using leverage
+shortly before the company’s quarterly earnings announcements and then sold those securities at a
+profit shortly thereafter. Lin’s profits during 2016 from this trading activity were approximately
+$1,656,353.
+
+78.  Lin’s suspicious trading in Ubiquiti securities coincided with a string of record-
+breaking earnings announcements beginning in May 2016.
+
+May 5 Announcement
+
+79. On April 13, 2016, Ubiquiti announced publicly that its third quarter 2016 financial
+results would be released on May 5. After the close of the market on May 5, 2016, Ubiquiti
+announced publicly “Record Revenues and Earnings” for the third quarter, including a 73%
+increase in certain revenues year-over-year (“May 5 Announcement”). Ubiquiti’s stock price
+increased 7.2% on this news, from $35.29 at the close of the market on May 5 to $37.84 at the close
+on May 6.
+
+80. On the day of the May 5 Announcement (but before earnings were announced), Lin
+purchased 17,000 shares of Ubiquiti common stock in his account at Scottrade. Lin purchased
+some of these shares on margin. He used $439,610 of his own funds, all of his available cash in the
+Scottrade account, and he borrowed an additional $157,077 from Scottrade. This represented a
+long exposure to Ubiquiti common stock of nearly $600,000. At the time of those purchases, Lin
+owned no Ubiquiti common stock.
+
+81. Lin sold a majority of his position within days of the May 5 Announcement and all but
+4,000 shares by the end of May 2016. Lin’s trading profits were approximately $96,518 on the May
+
+5 Announcement.
+
+16
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 17 of 31 PagelD: 624
+
+August 4 Announcement
+
+82. On July 20, 2016, Ubiquiti announced publicly that its fourth quarter 2016 financial
+results would be released on August 4. After the close of the market on August 4, 2016, Ubiquiti
+announced publicly “Record Revenues and Earnings” for the fourth quarter, including an 89%
+increase in certain revenues year-over-year (“August 4 Announcement”). Ubiquiti’s stock price
+increased 10.1% on this news, from $45.06 at the close of the market on August 4 to $49.61 at the
+close on August 5.
+
+83. In the six weeks leading up to the August 4 Announcement, Lin purchased Ubiquiti
+common stock, call options, and CFDs in the Scottrade and Saxo Accounts. Lin invested
+approximately $433,381 to buy the shares and options. To do so, he borrowed approximately
+$218,352 from Scottrade. As a result, Lin acquired exposute to a total of 132,000 shares of Ubiquiti
+common stock. This represented a leveraged long exposure to Ubiquiti common stock with a
+notional value of more than $5 million.
+
+84. Lin sold the majority of his positions on August 5, 2016, the day after the August 4
+Announcement and the balance by the end of September 2016. His trading profits were
+approximately $718,350 on the August 4 Announcement.
+
+November 3_Announcement
+
+85. On October 14, 2016, Ubiquiti announced publicly that its first quarter 2017 financial
+results would be released on November 3. After the close of the market on November 3, 2016,
+Ubiquiti announced publicly “Record Revenues and Earnings” for the first quarter, including a 75%
+increase in certain revenues year-over-year (“November 3 Announcement”). Ubiquiti’s stock price
+increased 3.4% on this news, from $51.76 at the close of the market on November 3 to $53.50 at
+
+the close on November 4.
+
+17
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 18 of 31 PagelD: 625
+
+86. In the three weeks leading up to the November 3 Announcement, Lin purchased
+Ubiquiti common stock, call options and CFDs in the Scottrade and the Saxo Accounts. Lin
+invested approximately $1,012,000 in stock and options. To amass this unusually large position in
+Ubiquiti, Lin used all available cash in his Scottrade Account, liquidated all other securities in his
+Scottrade Account, and borrowed $149,171 from Scottrade. As a result, Lin acquired exposure to a
+total of 178,000 shares of Ubiquiti common stock. This represented a leveraged long exposure to
+Ubiquiti common stock with a notional value of approximately $9 million.
+
+87. Lin sold a majority of his positions within days after the November 3 Announcement.
+His trading profits were approximately $839,904 on the November 3 Announcement.
+
+February 9_Announcement
+
+88. On January 18, 2017, Ubiquiti announced publicly that its second quarter 2017
+financial results would be released on February 9, 2017.
+
+89. In the two-and-a-half weeks leading up to the February 9 Announcement, Lin
+purchased Ubiquiti common stock, call options and CFDs in the Scottrade and the Saxo Accounts.
+In the Scottrade Account, Lin invested approximately $1.2 million in Ubiquiti call options. In the
+Saxo Account, he invested all of the money in the account — about $1.685 million — in Ubiquiti
+shares and then used margin to buy a CFD position that was more than three times as large. As a
+result, Lin acquired exposure to a total of 265,902 shares of Ubiquiti common stock. This
+represented a leveraged long exposure to Ubiquiti common stock with a notional value of
+approximately $17 million,
+
+90. After the close of the market on February 9, 2017, Ubiquiti announced publicly
+“Record Revenue” for the quarter, including a 32% increase in revenue yeat-over-year (“February 9
+Announcement”). However, the release also disclosed negative news about the impact of gross
+
+margins on the company’s profits. Specifically, the release disclosed that earnings per share were
+
+18
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 19 of 31 PagelD: 626
+
+$0.72, which at least one observer reported was $0.05 less than analysts had estimated, and that
+gross margin had fallen to 44.6% — down from 48% in the previous quarter and from 48.8% a year
+earlier.
+
+91. Project Managers did not generally have access to information about Ubiquiti’s
+expenses or gross margin. They also did not have access to Ubiquiti’s financial statements or drafts
+of the quarterly press releases or filings, including calculations about earnings per share or gross
+margin.
+
+92. Ubiquiti’s stock price dropped 16.6 % on this news, from $64.13 at the close of the
+market on February 9 to $53.43 at the close on February 10.
+
+93. Lin sold or tried to sell his Ubiquiti positions on or about the day after the February 9
+Announcement and the service of the Court’s February 9, 2017 Order. He sold all the shares and
+closed all the CFDs in the Saxo Account. He sold all of the shares and placed an order to sell
+options in his Scottrade Account. Scottrade declined some of Lin’s sell orders because of the
+Court’s February 9, 2017 Order, then subsequently sold the options pursuant to the February 9,
+2017 Order.
+
+94. In addition to attempting to trade after service of the February 9, 2017 Order, Lin also
+ordered Saxo Bank to withdraw all of the frozen assets from the Saxo Account and wire them to
+the Taishin Account.
+
+Other Indications of Insider Trading In 2016 and 2017
+
+95. Lin is a former employee of Ubiquiti. He had repeated contact with current
+employees with non-public information, including information about Ubiquiti’s sales. He made
+timely, highly-suspicious trades. In addition, as alleged above, a number of other factors are
+indicative of insider trading. These include the profitability of the trades; the size of the transactions
+
+in relation to his reported income and net worth; the highly leveraged nature of his positions; his
+
+19
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 20 of 31 PagelD: 627
+
+being the dominant — and often the only — purchaser of certain call option series; and the fact that,
+with minor exceptions, Lin did not trade any other securities during the relevant period in the
+Scottrade or Saxo Accounts.
+
+96. Lin’s enormous purchases often required him to invest all available assets in his
+Scottrade and Saxo accounts and to borrow additional funds to purchase Ubiquiti securities on
+margin.
+
+Profitability of the 2016 Trades
+
+97. Every single trade Lin placed in Ubiquiti securities ahead of the 2016 announcements
+was profitable, and immensely so. Not a single 2016 trade lost money. Lin made $244,802 trading
+in Ubiquiti common stock, $585,695 trading in Ubiquiti options, and $825,855 trading in Ubiquiti
+CFDs for a total profit of $1,656,352.
+
+Size of the Transactions Relative to Lin’s Reported Financial Condition
+
+98. In documents submitted to Scottrade and Saxo Bank, Lin reported annual income of
+$100,000 (December 2015), after-tax income of less-than $56,000 per year (June 2016) and liquid
+assets of $500,000 (December 2015). Despite these relatively modest personal finances, Lin
+purchased Ubiquiti securities with notional values of up to $9 million at times during the relevant
+period. To accumulate these positions, Lin has purchased up to 12 times his annual salary in shares
+and options in the Scottrade Account alone — and sometimes used all of the money in the account
+and borrowed more. For example, in the final days of January 2017, Lin spent almost $900,000
+
+buying options that were set to expire in February and Match 2017.
+
+20
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 21 of 31 PagelD: 628
+
+99).
+
+to his income and assets in the Saxo and Scottrade Accounts:
+
+The following chart summarizes the trades that Lin put on for three quarters relative
+
+Lin Trading Compared To Income And Assets
+
+Announce- | Money | Exposure | Used | Used | Combined | Percent of Percent of
+ment invested or | putchased | margin |CFDs or| value of $100,000 in |combined Saxo
+tisked to options | Saxo and | income risked | and Scottrade
+increase| to Scottrade on UBNT Accounts
+leverage|increase| Accounts j|announcement) risked on
+leverage|(Estimated) UBNT
+announcement
+May $ 439,610 | $ 596,688 Yes No | $447,041 283% 133%
+August $1,033,115 |$ 5,691,192 | Yes Both | $911,924 917% 624%
+November [$1,541,272 | $ 8,998,473 | Yes Both | $ 1,765,138 1765% 510%
+February _|$ 2,796,271 |$ 16,899,560} No Both [$ 2,979,614 3380% 567%
+
+Highly Leveraged Trading
+
+100. Lin leveraged his trading in Ubiquiti securities by borrowing money from unknown
+
+people, borrowing money from Scottrade, buying call options, and trading CFDs on margin. By
+
+leveraging his trades, Lin significantly increased both the potential profits and losses of his positions.
+
+101.
+
+Lin obtained leverage by borrowing money. He claims to have borrowed money — at
+
+least $600,000 — from unknown people and deposited it into the Saxo Bank account and possibly the
+
+Scottrade
+
+Account.
+
+securities on margin.
+
+Account record
+
+s also show that he borrowed money from Scottrade by buying
+
+102. Lin obtained leverage by trading CFDs on margin and by buying call options that
+
+inherently gave him exposure to more shates than he could have purchased at the same price. For
+
+example, in advance of the August 4 Announcement, Lin purchased 550 in-the-money August 2016
+
+call options at a cost of $278,374, giving him exposure to 55,000 shares of Ubiquiti common stock.
+
+By contrast, the same amount of money would have purchased outright only 6,293 shares.
+
+21
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 22 of 31 PagelD: 629
+
+103. Lin used leverage to increase both his profits and risk. This chart summarizes the
+percentage of leverage of his positions created by borrowing money from Scottrade, trading in
+CFDs on margin, and buying call options. The Commission is not able at this time to calculate the
+leverage created by borrowing money from people and putting that money into the accounts. The
+following chart illustrates Lin’s use of leverage by showing the notional value of Lin’s 2016 and 2017
+
+positions versus the money that he invested and risked:
+
+Lin Percentage Of Leverage On Positions
+
+Exposure Purchased
+
+Options —
+Value Of CFDs Money
+Shares Shares Notional Invested And
+Event Purchased Controlled Amount Total Risked Leverage
+May $ 596,688 $ - $ - $ 596,688 $ 282,533 111%
+
+August [$155,007 _ | $ 2,407,600 $ 3,128,585 |$5,691,192 | $917,455 520%
+
+November | $ 1,303,099 | $ 4,006,500 $ 3,688,874 | $ 8,998,473 $ 1,765,138 | 410%
+
+February [$1,685,750 | $ 9,261,421 $ 5,952,389 | $ 16,899,560 | $ 2,833,294 | 496%
+
+Total $ 3,740,544 | $ 15,675,521 $ 12,769,848 | $32,185,914 |$5,798,420 | 455%
+
+Dominant/ Exclusive Call Options Trading
+
+104. When Lin purchased Ubiquiti call options, he bought option series that few other
+investors were purchasing. In a majority of his 14 purchases, Lin was the only person who bought
+that option series on that day, making up 100% of the daily purchase volume of that particular
+option series.
+
+105. For example, Lin’s Ubiquiti options purchases before the August 4 Announcement
+accounted on average for 85% of the daily purchase volume in those options series. And Lin’s
+Ubiquiti options purchases before the November 3 Announcement accounted for 100% of the daily
+
+purchase volume in the options series he traded.
+
+22
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 23 of 31 PagelD: 630
+
+No Other Securities Transactions
+
+106. With minor exceptions, Lin traded no other securities during the relevant period in his
+Scottrade or Saxo Bank account. Lin made no investments on the scale of his Ubiquiti investments
+and did not make repeated investments before any other company’s earnings reports. While it is
+possible he maintains other brokerage accounts, Lin’s employment background and modest personal
+finances make it unlikely that he engages in trading on a scale similar to his Ubiquiti trading.
+
+Identical Trading in the Associate Trader’s Account
+
+107. Lin also helped the Associate Trader establish a trading account at Saxo Bank for the
+express purpose of purchasing Ubiquiti CFDs. Lin referred the individual to Saxo Bank and
+personally assisted her in opening the account.
+
+108. Like Lin, the Associate Trader claimed to have very modest income, earned as a “self-
+employed” “hair designer.” Yet, the individual opened a Saxo Bank account on November 2, 2016
+and immediately bought hundreds of thousands of dollars of Ubiquiti CFDs.
+
+109. Prior to the November 2016 and February 2017 earnings releases, the trading in the
+Associate Trader’s account mirrored Lin’s. And like Lin, the Associate Trader’s account purchased
+only Ubiquiti shares and CFDs.
+
+110. In the 10 days leading up to the February 9 Announcement, the Associate Trader
+purchased Ubiquiti shares and CFDs in her Saxo Bank account. She invested almost all of the
+money in the account — about $1 million — in Ubiquiti shares and then used margin to buy a CFD
+position that was almost three times as large. As a result, the Associate Trader’s account acquired
+exposure to a total of 63,000 shares of Ubiquiti common stock. This represented a leveraged long
+exposure to Ubiquiti common stock with a notional value of approximately $4 million. Such a
+
+position dwarfed the Associate Trader’s purported 2016 annual income of €50,001 to €100,000.
+
+23
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 24 of 31 PagelD: 631
+
+111. On information and belief, Lin directed or controlled the trading in the Associate
+Trader’s account. From November 2016 to at least February 2017, Lin’s Saxo Bank account and the
+Associate Tradet’s Saxo Bank account were repeatedly accessed, back-to-back, from a single IP
+address. Records show that a user would sign into one account and sometimes trade securities, then
+disconnect. Within minutes (or sometimes seconds), a user would sign into the other account from
+the same IP address. Upon information and belief, such back-to-back access was made by a single
+user who used both accounts.
+
+112. For example, on November 4, 2016, a user signed into the Associate Trader’s Saxo
+Bank account at 13:31 Coordinated Universal Time (“UTC”) from IP address XXXXX.20.71. The
+user disconnected at 13:39 UTC. A user then signed into Lin’s Saxo Bank account at 13:40 UTC
+from the identical IP address. The user placed orders to sell CFDs. The user disconnected at 13:44
+UTC. Similarly, on November 15, 2016, a user signed into Lin’s Saxo Account at 22:38 UTC from
+IP address XXXXX.145.3. The user disconnected at 22:39 UTC, and then a user signed onto the
+Associate Tradet’s Saxo Bank account at 22:39 UTC from the identical IP address. The user
+disconnected at 22:39 UTC.
+
+113. For some or all of the period from November 2016 to at least February 2017, on
+information and belief, Lin knew the password for the Associate Tradet’s Saxo Bank account. Lin
+used that password to sign into the account and to trade securities in the account. For instance,
+Lin’s declaration and other records show that Lin was in Kathmandu, Nepal in February 2017 as
+part of a business trip that included stops in Hong Kong and Dubai, United Arab Emirates. He
+flew on an itinerary that listed him as the only passenger. He arrived in Kathmandu at 22:00 local
+time on February 8, 2017. He departed Kathmandu at 18:55 local time on February 11, 2017. From
+February 8, 2017 to February 11, 2017 UTC, a user signed into Lin’s Saxo Bank account and the
+
+Associate Trader’s Saxo Bank account from a single IP address: XXXXX.93.117. During that same
+
+24
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 25 of 31 PagelD: 632
+
+period, a user twice signed into Lin’s Scottrade Account from IP address XXXXX.93.117. IP
+address XXXXX.93.117 is assigned to the ISP Classic Tech Pvt. in Kathmandu, Nepal.
+
+114. During this period that Lin was in Kathmandu, Lin’s Saxo Bank account and the
+Associate Trader’s Saxo Bank account were repeatedly accessed, back-to-back, from IP address
+XXXXX.93.117. Ubiquiti securities were sold in both accounts. For example, the following chart
+
+shows some of the activities on February 10 UTC in both Lin’s and the Associate Tradet’s accounts:
+
+Time Event IP Address
+2/10/2017 User signed into Associate Trader’s Saxo Bank account XXXXX.93.117
+5:01 UTC
+2/10/2017 User disconnected from Associate Trader’s Saxo Bank
+5:06 UTC account
+2/10/2017 User signed into Lin’s Saxo Account XXXXX.93.117
+5:33 UTC
+2/10/2017 User disconnected from Lin’s Saxo Account
+5:36 UTC
+2/10/2017 User signed into Associate Trader’s Saxo Bank account XXXXX.93.117
+5:36 UTC
+2/10/2017 User disconnected from Associate Tradet’s Saxo Bank
+5:38 UTC account
+2/10/2017 User signed into Lin’s Saxo Account XXXXX.93.117
+9:02 UTC
+2/10/2017 User placed order to sell securities in Lin’s Saxo Account
+9:04 UTC
+2/10/2017 User placed order to sell securities in Lin’s Saxo Account
+9:06 UTC
+2/10/2017 User placed order to sell securities in Lin’s Saxo Account
+9:07 UTC
+2/10/2017 User disconnected from Lin’s Saxo Account
+9:15 UTC
+2/10/2017 User signed into Lin’s Saxo Account XXXXX.93.117
+9:17 UTC
+2/10/2017 User placed order to sell securities in Lin’s Saxo Account
+9:17 UTC
+2/10/2017 User disconnected from Lin’s Saxo Account
+9:18 UTC
+2/10/2017 User signed into Associate Trader’s Saxo Bank account XXXXX.93.117
+9:20 UTC
+2/10/2017 User placed order to sell securities in Associate Tradet’s
+9:21 UTC Saxo Bank account
+2/10/2017 User disconnected from Associate Trader’s Saxo Bank
+9:24 UTC account
+
+25
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 26 of 31 PagelD: 633
+
+Time Event IP Address
+2/10/2017 User signed into Associate Trader’s Saxo Bank account XXXXX.93.117
+19:24 UTC
+2/10/2017 User disconnected from Associate Trader’s Saxo Bank
+19:27 UTC account
+
+115. Ubiquiti released its quarterly earnings on February 9, 2017 at 21:00 UTC (4:00 pm
+
+EST). The SEC emailed Lin electronic copies of the Court’s February 9, 2017 temporary restraining
+
+order and asset freeze at about the same time.
+
+116. On information and belief, Lin used the Associate Tradet’s password to ask Saxo
+
+Bank to withdraw $387,360 from the Associate Trader’s Saxo Bank account, the same instructions
+
+he had given to Saxo Bank regarding his own account. Those requests sought to remove
+
+substantially all of the money from both accounts. The following chart shows some of the activities
+on February 11 UTC related to the requests to withdraw cash:
+
+Time Event IP Address
+2/11/2017 User signed into Lin’s Saxo Account XXXXX.93.117
+01:35 UTC
+2/11/2017 User requested cash withdrawal of $636,500 from Lin’s
+01:38 UTC Saxo Account
+2/11/2017 User signed into Associate Trader’s Saxo Bank account XXXXX.93.117
+09:06 UTC
+2/11/2017 User requests cash withdrawal of $387,360 from Associate
+09:09 UTC Trader’s Saxo Bank account
+2/11/2017 User disconnected from Associate Trader’s Saxo Bank
+09:10 UTC account
+
+Lin’s CFD Trades Impacted the United States
+
+117. As set forth above, Lin’s purchases of stocks and options directly impacted the United
+
+States securities markets, as they were affected using the Associate Trader’s U.S.-based E*TRADE
+
+account and Lin’s U.S.-based Scottrade account and were executed on U.S.-based securities
+
+exchange servers, many of which are physically located in New Jersey.
+
+118. Lin’s CFD trades were also the proximate cause of purchases of Ubiquiti common
+
+stock in the United States by Saxo Bank, which hedged its exposure by purchasing shares through
+
+26
+
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 27 of 31 PagelD: 634
+
+domestic broker-dealers including Instinet (a subsidiary of Nomura Holdings, Inc.). As with most
+CED providers, Saxo Bank set the CFD contract price with its customer by reference to the price of
+its hedge. This practice was made known to the public generally via Saxo Bank’s website and to Lin
+specifically in his account opening documents.
+
+119. For example, Saxo Bank records show Lin bought CFDs representing 5,000 shares of
+Ubiquiti common stock at $36.84 on June 28, 2016. Instinet records show Saxo Bank bought 5,000
+Ubiquiti shares at $36.84 that same day. Similarly, Saxo Bank records show Lin bought CFDs
+representing shares of 5,000 common stock at a price of $41.50 on July 22, 2016 at 14:54:44 UTC
+(which was 4 hours ahead of Eastern Time on that date). Instinet records show that Saxo Bank
+bought 5,000 Ubiquiti shares at a price of $41.50 that same day at 10:54:44 Eastern time. The times
+match exactly.
+
+120. As with the Associate Trader’s purchases through E*TRADE and Lin’s purchases
+through Scottrade, many of the CFD hedging transactions were executed on securities exchange
+servers located in New Jersey — Direct Edge-EDGX and BATS in Secaucus, NYSE Atca in
+
+Mahwah, and NASDAQ in Carteret.
+
+20
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 28 of 31 PagelD: 635
+
+FIRST CLAIM FOR RELIEF
+
+Violations of Section 10(b) of the Exchange Act and
+Rule 10b-5 Thereunder
+
+121. The Commission realleges and incorporates by reference each and every allegation in
+patagraphs 1 through 61, inclusive, as if they were fully set forth herein.
+
+122. By engaging in the conduct described above, Defendant knowingly or recklessly, in
+connection with the purchase of sale of secutities, directly or indirectly, by use the means or
+instrumentalities of interstate commetce, or the mails, or the facilities of a national securities
+exchange:
+
+(a) employed devices, schemes or artifices to defraud; and
+
+(b) made untrue statements of material facts or omitted to state material facts
+necessaty in order to make the statements made, in light of the circumstances
+under which they were made, not misleading; and/or
+
+(©) engaged in acts, practices, or courses of business which operated or would
+operate as a fraud or deceit upon any person in connection with the purchase
+or sale of any security.
+
+123. By engaging in the foregoing conduct Defendant violated, and unless enjoined will
+continue to violate, Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 [17
+
+C.F.R. § 240.10b-5], thereunder.
+
+28
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 29 of 31 PagelD: 636
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter an emergency,
+temporary, and preliminary order against Defendant (i) temporarily freezing Defendant’s assets; (ti)
+ordering Defendant to show cause why a preliminary injunction freezing such assets should not be
+entered; (iii) requiring the repatriation of assets; (iv) prohibiting Defendant from destroying, altering,
+or concealing records of any kind; (v) authorizing alternative means for service of process; and (vi)
+ordering expedited discovery.
+
+Further, the Commission respectfully requests that the Court enter a final judgment:
+
+I.
+
+Permanently restraining and enjoining Defendant from, directly or indirectly, violating Section
+
+10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5];
+Il.
+
+Ordering Defendant to disgorge all ill-gotten gains or unjust enrichment derived from the
+
+activities set forth in this Complaint, together with prejudgment interest thereon;
+Il.
+
+Ordering Defendant to pay a civil penalty pursuant to Section 21A of the Exchange Act [15
+
+US.C. § 78u-1]; and
+IV.
+Granting such other and further relief as this Court may deem just, equitable, or necessary in
+
+connection with the enforcement of the federal securities laws and for the protection of investors.
+
+29
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 30 of 31 PagelD: 637
+
+JURY DEMAND
+
+Pursuant to Rule 39 of the Federal Rules of Civil Procedure, Plaintiff demands that this
+case be tried to a jury.
+
+LOCAL RULE 11.2 CERTIFICATION
+
+Pursuant to Local Rule 11.2, the undersigned certifies that the matter in controversy alleged
+in the instant Complaint is not the subject of any other action pending in any coutt, or of any
+
+pending arbitration or administrative proceeding,
+
+April 3, 2017 Respectfully submitted,
+
+s/ Stephan J. Schlegelmilch
+A. Kristina Littman
+Stephan J. Schlegelmilch
+Reid A. Muoio
+Brent S. Mitchell
+U.S. SECURITIES AND EXCHANGE COMMISSION
+Division of Enforcement
+100 F Street, N.E.
+Washington, DC 20549
+(202) 551-4935 (Schlegelmilch)
+(202) 772-9292 (facsimile)
+SchlegelmilchS@SEC.gov
+
+Counsel for Plaintiff
+U.S. Securities and Exchange Commission
+
+30
+
+Case 2:17-cv-00875-JLL-JAD Document 25 Filed 04/03/17 Page 31 of 31 PagelD: 638
+
+CERTIFICATE OF SERVICE
+
+Thereby certify that on April 3, 2017, a true and accurate copy of the foregoing was served
+
+electronically via the Court’s ECF system.
+
+s/ Stephan J. Schlegelmilch
+Plaintiff's counsel
+
+31

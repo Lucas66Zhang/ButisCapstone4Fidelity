@@ -3,15 +3,15 @@ import math
 import torch
 
 class Guidance:
-    def __init__(self, LM_name, device="cpu"):
+    def __init__(self, model, tokenizer, device="cpu"):
         """Initialize a Guidance to restrict the output of a given language model.
 
         Args:
             LM_name (str): The path in hugging face repo of the language model to use. The LM should support AutoTokenizer.
             device (str, optional): The device to use for the model. Defaults to "cpu".
         """
-        self.LM = AutoModelForCausalLM.from_pretrained(LM_name)
-        self.tokenizer = AutoTokenizer.from_pretrained(LM_name)
+        self.LM = model
+        self.tokenizer = tokenizer
         self.device = torch.device(device)
         if device != "cpu":
             self.LM.to(self.device)

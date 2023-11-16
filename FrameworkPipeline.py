@@ -1,11 +1,15 @@
 import stanza
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from openai import OpenAI
+from dotenv import load_dotenv
+import os
 
 class SummaryGrader:
     def __init__(self):
         self._nlp = stanza.Pipeline(lang='en', processors='tokenize, pos, lemma, ner')
         self._model = SentenceTransformer('bert-base-nli-mean-tokens')
+        self._client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
     def _split_text(self, text:str)->list:
         """
@@ -60,7 +64,7 @@ class SummaryGrader:
         """
         return sim_matrix.argsort(axis=1)[:, -k:]
 
-    def _checker(self, sens_text: list[str], sen_summary: str) -> (bool, float):
+    def _checker(self, sens_text: list[str], sen_summary: str) -> bool:
         """
         Check if the sentence from the summary con be obtained from the sentence from the text.
         Args:
@@ -75,14 +79,42 @@ class SummaryGrader:
                 False: <0.5
         """
 
-        # to be completed
+        source_text = ''.join(sens_text)
 
-        res = ____
-        prob = ____
+        prompt = f"""
+        As a compliance officer at a financial institution, you're tasked with evaluating the accuracy of a summary sentence based on its alignment with source sentences from a financial document. Consider the following criteria carefully:
 
-        return (res, prob)
+        1. The summary accurately reflects the content of the source sentences, especially numerical information.
+        2. All named entities in the summary are present in the source sentences.
+        3. Relationships between entities in the summary are consistent with those in the source sentences.
+        4. The directional flow of relationships among named entities matches between the summary and source sentences.
+        5. There are no factual discrepancies between the summary and source sentences.
+        6. The summary does not introduce any entities not found in the source sentences.
 
-    def evaluate(self, text: str, summary: str, k: int) -> float:
+        Your job is to determine if the summary adheres to these criteria. Answer "Yes" if it does, or "No" if it doesn't.
+
+        Summary sentence: ```{sen_summary}```
+
+        Source sentences: ```{source_text}```
+
+        Final Answer (Yes/No only): 
+        """
+
+        response = self._client.chat.completions.create(
+            model='gpt-4',
+            messages=[{'role': "user", 'content': prompt}],
+            max_tokens=1
+        )
+
+        res = response.choices[0].text.lower()
+        if res == 'yes':
+            return True
+        elif res == 'no':
+            return False
+        else:
+            raise ValueError("Invalid response from OpenAI API")
+
+    def evaluate(self, text:str, summary:str, k:int) -> float:
         """
         evaluate the quality of the summary according to the given text
         Args:
@@ -114,7 +146,7 @@ class SummaryGrader:
         numerator = 0
         for idx, sen in enumerate(sens_summary):
             sens_text_selected = [sens_text[i] for i in topk[idx]]
-            res, _ = self._checker(sens_text_selected, sen)
+            res = self._checker(sens_text_selected, sen)
             if res:
                 numerator += 1
             denominator += 1

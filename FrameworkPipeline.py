@@ -9,6 +9,7 @@ class SummaryGrader:
     def __init__(self):
         self._nlp = stanza.Pipeline(lang='en', processors='tokenize, pos, lemma, ner')
         self._model = SentenceTransformer('bert-base-nli-mean-tokens')
+        load_dotenv()
         self._client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
     def _split_text(self, text:str)->list:

@@ -4,6 +4,7 @@ import stanza
 import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 from nltk.tokenize import sent_tokenize
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -51,12 +52,12 @@ class SummaryGrader:
         Returns:
             a matrix of cosine similarities
         """
-
-        dot_prod = embed_summary @ embed_text.T  # [i,j] is the dot product of summary sentence i and text sentence j
-        norm = np.linalg.norm(embed_summary, axis=1) @ np.linalg.norm(embed_text, axis=1).T  # [i,j] is the norm of summary sentence i and text sentence j
+        
+        dot_prod = embed_summary @ embed_text.T # [i,j] is the dot product of summary sentence i and text sentence j
+        norm = np.linalg.norm(embed_summary, axis=1, keepdims=True) @ np.linalg.norm(embed_text, axis=1, keepdims=True).T # [i,j] is the norm of summary sentence i and text sentence j
         return dot_prod / norm
 
-    def _topk_related(sim_matrix: np.ndarray, k: int) -> np.ndarray:
+    def _topk_related(self, sim_matrix: np.ndarray, k: int) -> np.ndarray:
         """
         Find the indices of top k related sentences in text for each sentence in summary
         Args:
@@ -82,6 +83,7 @@ class SummaryGrader:
                 True: >0.5
                 False: <0.5
         """
+
 
         source_text = ''.join(sens_text)
 
@@ -110,13 +112,8 @@ class SummaryGrader:
             max_tokens=1
         )
 
-        res = response.choices[0].text.lower()
-        if res == 'yes':
-            return True
-        elif res == 'no':
-            return False
-        else:
-            raise ValueError("Invalid response from OpenAI API")
+        res = response.choices[0].message.content.lower().capitalize()
+        return True if res == 'Yes' else False
 
     def evaluate(self, text:str, summary:str, k:int) -> (float, list[int]):
         """
@@ -151,6 +148,7 @@ class SummaryGrader:
         numerator = 0
         sent_idx_rejected = []
         for idx, sen in enumerate(sens_summary):
+            time.sleep(5)
             sens_text_selected = [sens_text[i] for i in topk[idx]]
             res = self._checker(sens_text_selected, sen)
             if res:
@@ -253,3 +251,24 @@ def highlight(text:str, indices:list[int])->str:
     # for idx in indices:
     #     sens[idx] = f"**{sens[idx]}**"
     # return ' '.join(sens)
+
+def cos_similariy(original:str, summary:str, falsified_summary:str)->(float, float):
+    """
+    Calculate the cosine similarities between sentences of summary and sentences of text
+        and falsified summary and sentences of text
+    Args:
+        original: original text
+        summary: summary of original text
+        falsified_summary: falsified summary of original text
+
+    Returns:
+        cosine similarities between sentences of summary and sentences of text
+        cosine similarities between sentences of falsified summary and sentences of text
+    """
+    model = SentenceTransformer('bert-base-nli-mean-tokens')
+    summary_good_embeddings = model.encode(summary).reshape(1,-1)
+    summary_bad_embeddings = model.encode(falsified_summary).reshape(1,-1)
+    original_embeddings = model.encode(original).reshape(1,-1)
+    good_score = cosine_similarity(original_embeddings, summary_good_embeddings)
+    bad_score = cosine_similarity(original_embeddings, summary_bad_embeddings)
+    return (good_score.tolist()[0][0], bad_score.tolist()[0][0])

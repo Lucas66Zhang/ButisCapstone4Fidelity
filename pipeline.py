@@ -16,6 +16,8 @@ from rouge_score import rouge_scorer
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
+from IPython.display import display, HTML
+os.environ['OPENAI_API_KEY'] = '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'
 
 class SummaryGrader:
     def __init__(self):
@@ -244,7 +246,8 @@ class NER_comparison:
         original_ratio = self.comparison_original(original_ents, summary_ents)
         return (summary_ratio[0], original_ratio[0])
 
-def highlight(self, text_list: list[str], indices: list[int], color='yellow':str):
+
+def highlight(text_list:list[str], indices:list[int], color:str='yellow'):
     """
     Highlight the sentences in the text
     Args:
@@ -257,7 +260,7 @@ def highlight(self, text_list: list[str], indices: list[int], color='yellow':str
     highlighted_sentences = []
     for i, sentence in enumerate(text_list):
 
-        if i in idx_list:
+        if i in indices:
             highlighted_sentence = f"<div><span style='background-color: {color};'>{sentence}</span></div>"
         else:
             highlighted_sentence = f"<div>{sentence}</div>"
@@ -266,10 +269,6 @@ def highlight(self, text_list: list[str], indices: list[int], color='yellow':str
 
     final_text = "".join(highlighted_sentences)
     display(HTML(final_text))
-    # sens = sent_tokenize(text)
-    # for idx in indices:
-    #     sens[idx] = f"**{sens[idx]}**"
-    # return ' '.join(sens)
 
 def cos_similariy(original:str, summary:str, falsified_summary:str)->(float, float):
     """

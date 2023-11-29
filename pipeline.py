@@ -5,7 +5,14 @@ import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+from nltk.translate.meteor_score import meteor_score
+from nltk.translate.bleu_score import sentence_bleu
 from nltk.tokenize import sent_tokenize
+from nltk.tokenize import word_tokenize
+import nltk
+nltk.download('wordnet')
+nltk.download('punkt')
+from rouge_score import rouge_scorer
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
@@ -237,7 +244,7 @@ class NER_comparison:
         original_ratio = self.comparison_original(original_ents, summary_ents)
         return (summary_ratio[0], original_ratio[0])
 
-def highlight(text:str, indices:list[int])->str:
+def highlight(self, text_list: list[str], indices: list[int], color='yellow':str):
     """
     Highlight the sentences in the text
     Args:
@@ -245,8 +252,20 @@ def highlight(text:str, indices:list[int])->str:
         indices: the indices of sentences to be highlighted
 
     Returns:
-        the text with highlighted sentences
+        display the highlighted text sentence by sentence
     """
+    highlighted_sentences = []
+    for i, sentence in enumerate(text_list):
+
+        if i in idx_list:
+            highlighted_sentence = f"<div><span style='background-color: {color};'>{sentence}</span></div>"
+        else:
+            highlighted_sentence = f"<div>{sentence}</div>"
+
+        highlighted_sentences.append(highlighted_sentence)
+
+    final_text = "".join(highlighted_sentences)
+    display(HTML(final_text))
     # sens = sent_tokenize(text)
     # for idx in indices:
     #     sens[idx] = f"**{sens[idx]}**"
@@ -272,3 +291,68 @@ def cos_similariy(original:str, summary:str, falsified_summary:str)->(float, flo
     good_score = cosine_similarity(original_embeddings, summary_good_embeddings)
     bad_score = cosine_similarity(original_embeddings, summary_bad_embeddings)
     return (good_score.tolist()[0][0], bad_score.tolist()[0][0])
+
+class Baseline:
+    def __init__(self):
+        self._model = SentenceTransformer('all-mpnet-base-v2')
+
+    def cal_cos_similarity(self, summary: str, falsified_summary: str) -> float:
+        """
+        Calculate the cosine similarities between good summary and falsified summary 
+        Args:
+            summary: good summary of original text
+            falsified_summary: falsified summary of original text
+
+        Returns:
+            cosine similarities between good summary and falsified summary
+        """
+        summary_good_embeddings = self._model.encode(summary).reshape(1,-1)
+        summary_bad_embeddings = self._model.encode(falsified_summary).reshape(1,-1)
+        score = cosine_similarity(summary_good_embeddings, summary_bad_embeddings)
+        return score.tolist()[0][0]
+
+    def cal_meteor_score(self, summary: str, falsified_summary: str) -> float:
+        '''
+        Calculate the meteor scores between good summary and falsified summary
+        Args:
+            summary: good summary of original text
+            falsified_summary: falsified summary of original text
+
+        Returns:
+            meteor score between good summary and falsified summary
+        '''
+        score = meteor_score([summary.split()], falsified_summary.split())
+
+        return score
+
+    def cal_bleu_score(self, summary: str, falsified_summary: str) -> float:
+        '''
+        Calculate the bleu scores between good summary and falsified summary
+        Args:
+            summary: good summary of original text
+            falsified_summary: falsified summary of original text
+
+        Returns:
+            bleu score between good summary and falsified summary
+        '''
+        summary_tokenized = nltk.word_tokenize(summary)
+        falsified_summary_tokenized = nltk.word_tokenize(falsified_summary)
+
+        score = sentence_bleu([summary_tokenized], falsified_summary_tokenized, weights=(0.5, 0.5, 0, 0))
+
+        return score
+    
+    def cal_rouge2_score(self, summary: str, falsified_summary: str) -> float:
+        '''
+        Calculate the rouge2 scores between good summary and falsified summary
+        Args:
+            summary: good summary of original text
+            falsified_summary: falsified summary of original text
+
+        Returns:
+            rouge2 score between good summary and falsified summary
+        '''
+        scorer = rouge_scorer.RougeScorer(['rouge2'], use_stemmer=True)
+        score = scorer.score(summary, falsified_summary)
+
+        return score['rouge2'].fmeasure

@@ -244,7 +244,7 @@ class NER_comparison:
         original_ratio = self.comparison_original(original_ents, summary_ents)
         return (summary_ratio[0], original_ratio[0])
 
-def highlight(text:str, indices:list[int])->str:
+def highlight(self, text_list: list[str], indices: list[int], color='yellow':str):
     """
     Highlight the sentences in the text
     Args:
@@ -252,8 +252,20 @@ def highlight(text:str, indices:list[int])->str:
         indices: the indices of sentences to be highlighted
 
     Returns:
-        the text with highlighted sentences
+        display the highlighted text sentence by sentence
     """
+    highlighted_sentences = []
+    for i, sentence in enumerate(text_list):
+
+        if i in idx_list:
+            highlighted_sentence = f"<div><span style='background-color: {color};'>{sentence}</span></div>"
+        else:
+            highlighted_sentence = f"<div>{sentence}</div>"
+
+        highlighted_sentences.append(highlighted_sentence)
+
+    final_text = "".join(highlighted_sentences)
+    display(HTML(final_text))
     # sens = sent_tokenize(text)
     # for idx in indices:
     #     sens[idx] = f"**{sens[idx]}**"

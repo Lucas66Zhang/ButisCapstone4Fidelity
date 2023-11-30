@@ -247,7 +247,7 @@ class NER_comparison:
         return (summary_ratio[0], original_ratio[0])
 
 
-def highlight(text_list:list[str], indices:list[int], color:str='yellow'):
+def highlight_sent(text_list:list[str], indices:list[int], color:str='yellow'):
     """
     Highlight the sentences in the text
     Args:

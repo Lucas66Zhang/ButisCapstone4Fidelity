@@ -32,7 +32,6 @@ This metric is not merely a tool for evaluation; it's a step towards enhancing t
 
 ## Usage
 
-## Contributing
 
 ## License
 Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information.

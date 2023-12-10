@@ -12,13 +12,13 @@ This metric is not merely a tool for evaluation; it's a step towards enhancing t
 ## Framework
 **Named Entity Comparison**: Extract and compare financial-related named entities in texts. Analyzes and visualizes named entity accuracy and presence in summaries versus original texts.
 <center>
-    <img alin = "Left" src="./res/NER_Framework.jpg" style="width:75%">
+    <img alin = "center" src="./res/NER_Framework.jpg" style="width:50%">
     <figcaption>Named Entity Comparison</figcaption>
 </center>
 
 **Sentence-Level-based Summary Checking**: Applies LLMs to check the consistency between the summary and the original text sentence by sentence. Highlights and identifies inconsistencies between the summary and the original text for in-depth analysis.
 <center>
-    <img alin = "center" src="./res/LLM_Assisted_Framework.jpg" style="width:75%">
+    <img alin = "center" src="./res/LLM_Assisted_Framework.jpg" style="width:50%">
     <figcaption>Sentence-Level-based Summary Checking</figcaption>
 </center>
 
@@ -28,6 +28,9 @@ This metric is not merely a tool for evaluation; it's a step towards enhancing t
 
 
 ### Prerequisites
+
+### Configuration
+
 
 
 ## Usage

@@ -1,4 +1,6 @@
-# Benchmarking LLM
+<h1 align='center'>
+  Benchmarking LLM 
+</h1>
 
 ## About The Project
 Our project introduces a metric designed to evaluate the quality of textual summaries. This metric is pivotal in fields like finance, where precise information synthesis is critical.
@@ -24,7 +26,7 @@ This metric is not merely a tool for evaluation; it's a step towards enhancing t
 
 ## Getting Started
 ### Dependencies
-```json
+```
 python==3.10.0
 ipython==8.15.0
 nltk==3.8.1
@@ -62,7 +64,8 @@ You can also find the demo and result compare with baseline metrics in [presenta
 
 
 ## License
-Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information.
+
+[![Generic badge](https://img.shields.io/badge/License-Apache%202.0-Green.svg)](./LICENSE.txt)
 
 ## [About us](./doc/About_US/Team's%20Bio.pdf)
 Yichen Huang - yichen.huang@columbia.edu

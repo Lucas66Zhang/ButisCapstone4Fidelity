@@ -2,6 +2,17 @@
   Benchmarking LLM 
 </h1>
 
+<div align="center">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge">
+    <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge"></a>
+    <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge"></a>
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge">
+    <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge"</a>
+    <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge">
+
+</div>
+<br>
+
 ## About The Project
 Our project introduces a metric designed to evaluate the quality of textual summaries. This metric is pivotal in fields like finance, where precise information synthesis is critical.
 
@@ -14,17 +25,26 @@ This metric is not merely a tool for evaluation; it's a step towards enhancing t
 ## Framework
 **Named Entity Comparison**: Extract and compare financial-related named entities in texts. Analyzes and visualizes named entity accuracy and presence in summaries versus original texts.
 <p align="center">
-    <img alin = "center" src="./res/NER_Framework.jpg" style="width:50%">
+    <img alin = "center" src="./res/NER_Framework.jpg" style="width:40%">
 </p>
 
 
 **Sentence-Level-based Summary Checking**: Applies LLMs to check the consistency between the summary and the original text sentence by sentence. Highlights and identifies inconsistencies between the summary and the original text for in-depth analysis.
 <p align="center">
-    <img alin = "center" src="./res/LLM_Assisted_Framework.jpg" style="width:50%">
+    <img alin = "center" src="./res/LLM_Assisted_Framework.jpg" style="width:40%">
 </p>
 
 
 ## Getting Started
+<div align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</div>
+<be>
+
 ### Dependencies
 ```
 python==3.10.0
@@ -42,6 +62,7 @@ stanza==1.6.1
 ```
 
 ### Configuration
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 #### Setup with python virtual environment
 ```bash ./config/config.sh```
 
@@ -50,12 +71,15 @@ stanza==1.6.1
 
 
 ## Usage
+<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+
 The data extraction process is in [documents_extraction](./samples/documents_extraction.ipynb)
 
 You can also find the demo and result compare with baseline metrics in [presentation](./samples/presentation.ipynb).
 
 
 ## Report
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 * **Initial Due Deiligence Report**: [Initial Due Deiligence Report](./doc/Report/Capstone%20Project%20Initial%20Due%20Diligence%20Report.pdf)
 * **Project Proposal**: [Project Proposal](./doc/Report/Project%20Proposal.pdf)
 * **1st Milestone Report**: [1st Milestone Report](./doc/Report/F23_Fidelity_Benchmarking%20LLM_1st_report.pdf)
@@ -65,15 +89,44 @@ You can also find the demo and result compare with baseline metrics in [presenta
 
 ## License
 
-[![Generic badge](https://img.shields.io/badge/License-Apache%202.0-Green.svg)](./LICENSE.txt)
+[![Generic badge](https://img.shields.io/badge/License-Apache%202.0-Green?style=for-the-badge)](./LICENSE.txt)
 
 ## [About us](./doc/About_US/Team's%20Bio.pdf)
-Yichen Huang - yichen.huang@columbia.edu
+- Cong Chen
+<div align="Left">
+    <a href="mailto: cc4887@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/Cong991"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+<br>
 
-Taichen Zhou - tz2555@columbia.edu
+- Longxiang Zhang
+<div align="Left">
+    <a href="mailto: lz2869@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/Lucas66Zhang"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+<br>
 
-Cong Chen - cc4887@columbia.edu
+- Ruolan Lin
+<div align="Left">
+    <a href="mailto: rl3312@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/Ruolan0806"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+<br>
 
-Ruolan Lin - rl3312@columbia.edu
+- Taichen Zhou
+<div align="Left">
+    <a href="mailto: tz2555@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/tzhou19"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+<br>
 
-Longxiang Zhang - lz2869@columbia.edu
+- Yichen Huang
+<div align="Left">
+    <a href="mailto: yichen.huang@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/yichuang25"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/huangyichen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<br>
+
+
+

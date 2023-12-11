@@ -1,6 +1,5 @@
 import time
 import spacy
-import stanza
 import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
@@ -17,7 +16,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 from IPython.display import display, HTML
-os.environ['OPENAI_API_KEY'] = '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'
+
 
 class SummaryGrader:
     def __init__(self):

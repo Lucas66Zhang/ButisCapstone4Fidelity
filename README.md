@@ -7,7 +7,6 @@
     <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge"></a>
     <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge"></a>
   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge">
-    <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge"</a>
     <a href="https://github.com/Lucas66Zhang/ButisCapstone4Fidelity/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Lucas66Zhang/ButisCapstone4Fidelity?style=for-the-badge">
 
 </div>
@@ -25,13 +24,13 @@ This metric is not merely a tool for evaluation; it's a step towards enhancing t
 ## Framework
 **Named Entity Comparison**: Extract and compare financial-related named entities in texts. Analyzes and visualizes named entity accuracy and presence in summaries versus original texts.
 <p align="center">
-    <img alin = "center" src="./res/NER_Framework.jpg" style="width:40%">
+    <img alin = "center" src="./res/NER_Framework.jpg" style="width:45%">
 </p>
 
 
 **Sentence-Level-based Summary Checking**: Applies LLMs to check the consistency between the summary and the original text sentence by sentence. Highlights and identifies inconsistencies between the summary and the original text for in-depth analysis.
 <p align="center">
-    <img alin = "center" src="./res/LLM_Assisted_Framework.jpg" style="width:40%">
+    <img alin = "center" src="./res/LLM_Assisted_Framework.jpg" style="width:45%">
 </p>
 
 

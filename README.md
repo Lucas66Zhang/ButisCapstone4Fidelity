@@ -99,6 +99,7 @@ You can also find the demo and result compare with baseline metrics in [presenta
 ## License
 
 [![Generic badge](https://img.shields.io/badge/License-Apache%202.0-Green?style=for-the-badge)](./LICENSE.txt)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLucas66Zhang%2FButisCapstone4Fidelity&count_bg=%2379C83D&title_bg=%23555555&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=Repo+Viewer+Count&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## [About us](./doc/About_US/Team's%20Bio.pdf)
 - Cong Chen

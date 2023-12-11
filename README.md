@@ -62,11 +62,21 @@ stanza==1.6.1
 
 ### Configuration
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-#### Setup with python virtual environment
+#### 1. Environment setup
+##### Setup with python virtual environment
 ```bash ./config/config.sh```
 
-#### Setup with conda
+##### Setup with conda
 ```bash conda install --file ./config/requirements.txt```
+
+#### 2. OpenAI API setup
+```python
+import sys
+sys.path.append('../src/')
+import pipeline
+os.environ['OPENAI_API_KEY'] = 'Your OpenAi API Key'
+```
+
 
 
 ## Usage

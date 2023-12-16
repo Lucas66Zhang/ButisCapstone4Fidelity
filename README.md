@@ -33,6 +33,72 @@ This metric is not merely a tool for evaluation; it's a step towards enhancing t
     <img alin = "center" src="./res/LLM_Assisted_Framework.jpg" style="width:45%">
 </p>
 
+## Direcroty Tree
+```
+│   .gitignore
+│   LICENSE.txt
+│   README.md
+│
+├───config
+│       config.sh
+│       requirements.txt
+│
+├───data
+│       10summary_with_result.csv
+│       falsified_summary.csv
+│       falsified_summary_level.csv
+│       final_version_cropped_first1000.csv
+│       final_version_withouttext.csv
+│
+├───doc
+│   ├───About_Us
+│   │       Team's Bio.pdf
+│   │
+│   ├───Academic Paper
+│   │       5054_factuality_enhanced_language_m.pdf
+│   │       Evaluating Factuality.pdf
+│   │       Evaluating the Factual Consistency.pdf
+│   │
+│   ├───Project Description
+│   │       Benchmarking LLM .pdf
+│   │       CAPSTONE PROJECT PROPOSAL Fidelity Summarization Metrics.pdf
+│   │
+│   └───Report
+│           Capstone Project Initial Due Diligence Report.pdf
+│           F23_Fidelity_Benchmarking LLM_1st_report.pdf
+│           F23_Fidelity_Benchmarking LLM_final_report.pdf
+│           F23_Fidelity_BenchmarkLLM_poster.pdf
+│           Project Proposal.pdf
+│
+├───res
+│   │   10levels.svg
+│   │   good_to_bad.svg
+│   │   LLM_Assisted_Framework.jpg
+│   │   NER_Framework.jpg
+│   │
+│   └───Baseline
+│           Boxplot_for_Scores.png
+│
+├───samples
+│       documents_extraction.ipynb
+│       presentation.ipynb
+│       summary_level_with_result.csv
+│
+├───src
+│   │   Bart.py
+│   │   PaLM.py
+│   │   pipeline.py
+│   │   summary_generation.py
+│ 
+│
+└───test
+    ├───Data_Pipeline
+    └───Summary_Generation
+            bart.ipynb
+            llama2.ipynb
+            PaLM2.ipynb
+            test.py
+```
 
 ## Getting Started
 <div align="left">
@@ -102,41 +168,44 @@ You can also find the demo and result compare with baseline metrics in [presenta
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLucas66Zhang%2FButisCapstone4Fidelity&count_bg=%2379C83D&title_bg=%23555555&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=Repo+Viewer+Count&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## [About us](./doc/About_US/Team's%20Bio.pdf)
-- Cong Chen
+### Group Members
+#### Cong Chen (cc4887)
 <div align="Left">
     <a href="mailto: cc4887@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/Cong991"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-<br>
 
-- Longxiang Zhang
+#### Longxiang Zhang (lz2869)
 <div align="Left">
     <a href="mailto: lz2869@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/Lucas66Zhang"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-<br>
 
-- Ruolan Lin
+#### Ruolan Lin (rl3312)
 <div align="Left">
     <a href="mailto: rl3312@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/Ruolan0806"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-<br>
 
-- Taichen Zhou
+#### Taichen Zhou (tz2555)
 <div align="Left">
     <a href="mailto: tz2555@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/tzhou19"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-<br>
 
-- Yichen Huang
+#### Yichen Huang (yh3550) - Team Captain
 <div align="Left">
     <a href="mailto: yichen.huang@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/yichuang25"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/huangyichen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<br>
+<be>
+
+### Fidelity Memtors
+Lilli Ann Rowan, Indraneel Biswas, Michael Threlfall, and Diana Kulmizev
+
+### Instructor/CA
+Adam Kelleher
 
 
 
